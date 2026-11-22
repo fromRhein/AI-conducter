@@ -337,7 +337,10 @@ if __name__ == "__main__":
     import sys
     from score import load_track
 
-    path_a, path_b = (sys.argv[1], sys.argv[2]) if len(sys.argv) > 2 else ("example_a.mid", "example_b.mid")
+    from pathlib import Path
+    here = Path(__file__).resolve().parent
+    default = (str(here / "examples" / "example_a.mid"), str(here / "examples" / "example_b.mid"))
+    path_a, path_b = (sys.argv[1], sys.argv[2]) if len(sys.argv) > 2 else default
     na, nb = load_track(path_a), load_track(path_b)
     d = digest(na, nb, 4, 84.0)
     print(brief_text(d, "A")[:1200])

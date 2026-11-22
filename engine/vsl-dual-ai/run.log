@@ -1,0 +1,102 @@
+{
+ "stats": {
+  "runtime_s": 25.97,
+  "ticks": 1291,
+  "tick_p50_ms": 7.99,
+  "tick_p99_ms": 58.64,
+  "notes": 32,
+  "midi_events": 32,
+  "midi_late_avg_ms": 11.94,
+  "midi_late_max_ms": 29.75,
+  "phase_A_ms": -1.24,
+  "phase_B_ms": 1.24,
+  "phase_mean_abs_ms": 1.91,
+  "asynchrony_p50_ms": 0.0,
+  "asynchrony_p95_ms": 34.9,
+  "asynchrony_max_ms": 34.9,
+  "asynchrony_settled_p95_ms": 34.9,
+  "asynchrony_settled_max_ms": 34.9,
+  "asynchrony_over_15ms": 1,
+  "relock_ms": null,
+  "reaction_p50_ms": 0.0,
+  "reaction_p95_ms": 0.0,
+  "reaction_max_ms": 0.0,
+  "gestures_applied": 8,
+  "gestures_late": 0,
+  "score": "D:\\AI-conducter\\engine\\vsl-dual-ai\\examples\\example_a.mid+D:\\AI-conducter\\engine\\vsl-dual-ai\\examples\\example_b.mid"
+ },
+ "gestures": [
+  {
+   "beat": 0.0,
+   "side": "B",
+   "applied": [
+    "tempo x1.004",
+    "vel x0.87",
+    "dynamic=0.54"
+   ]
+  },
+  {
+   "beat": 0.0,
+   "side": "A",
+   "applied": [
+    "tempo x1.016",
+    "vel x0.77",
+    "dynamic=0.54"
+   ]
+  },
+  {
+   "beat": 8.01,
+   "side": "A",
+   "applied": [
+    "tempo x1.008",
+    "vel x0.86",
+    "dynamic=0.58"
+   ]
+  },
+  {
+   "beat": 8.01,
+   "side": "B",
+   "applied": [
+    "tempo x1.001",
+    "vel x0.75",
+    "dynamic=0.58"
+   ]
+  },
+  {
+   "beat": 16.03,
+   "side": "B",
+   "applied": [
+    "tempo x0.980",
+    "vel x0.75",
+    "dynamic=0.55"
+   ]
+  },
+  {
+   "beat": 16.03,
+   "side": "A",
+   "applied": [
+    "tempo x0.993",
+    "vel x0.75",
+    "dynamic=0.55"
+   ]
+  },
+  {
+   "beat": 24.06,
+   "side": "A",
+   "applied": [
+    "tempo x1.002",
+    "vel x0.76",
+    "dynamic=0.47"
+   ]
+  },
+  {
+   "beat": 24.06,
+   "side": "B",
+   "applied": [
+    "tempo x1.000",
+    "vel x0.75",
+    "dynamic=0.47"
+   ]
+  }
+ ]
+}

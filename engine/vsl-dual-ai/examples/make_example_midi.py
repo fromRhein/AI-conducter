@@ -31,8 +31,10 @@ def main() -> None:
         a.append((base + 2 * tpb, 62 + 12 + [4, 7, 9, 12][bar % 4], int(1.7 * tpb), rng.randint(68, 92)))
         b.append((base, 62 - 12 + [0, 5][bar % 2], int(1.9 * tpb), rng.randint(58, 78)))
         b.append((base + 2 * tpb, 62 - 12 + [7, 0][bar % 2], int(1.9 * tpb), rng.randint(56, 76)))
-    build("example_a.mid", a, ch=0)
-    build("example_b.mid", b, ch=1)
+    from pathlib import Path
+    here = Path(__file__).resolve().parent
+    build(str(here / "example_a.mid"), a, ch=0)
+    build(str(here / "example_b.mid"), b, ch=1)
 
 if __name__ == "__main__":
     main()

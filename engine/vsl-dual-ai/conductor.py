@@ -104,7 +104,9 @@ class Engine:
             src = {"A": (cs["a"], int(cs.get("a_track", 0))),
                    "B": (cs["b"], int(cs.get("b_track", 0)))}
         else:
-            src = {"A": ("example_a.mid", 0), "B": ("example_b.mid", 0)}
+            here = Path(__file__).resolve().parent
+            src = {"A": (str(here / "examples" / "example_a.mid"), 0),
+                   "B": (str(here / "examples" / "example_b.mid"), 0)}
         self.notes = {}
         for side, (path, track) in src.items():
             notes = load_track(path, track)
