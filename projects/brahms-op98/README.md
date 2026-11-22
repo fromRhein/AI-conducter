@@ -98,6 +98,7 @@ PDF 页码与原印页码相差 246（PDF 第 1 页 = 印刷页 247）；乐章�
 - MIDI 映射实测：VelXF = CC1，Expression = CC11，Master volume = CC7，VelXF 启停 = CC28，Vibrato XF = CC20，Attack/Release = CC22/CC23，Timbre = CC8，Dynamic range = CC30，Humanize delay/pitch/amount = CC25/26/27，Legato blur = CC33，Reverb return = CC5。
 - [factory_extract_REPORT.md](vsl/factory_extract_REPORT.md) 等：容器目录块与既有状态映射的进一步取证。
 - [渲染工作记录.md](vsl/渲染工作记录.md)：渲染过程中的试错记录（冷启动采样未就绪、逐轨独奏输出、起音检查等）。
+- [install_verify/](vsl/install_verify/)：渲染环境的加载证据截图（Kontakt 音色库已载入、Synchron Solo Strings 单独加载），用于证明上述状态格式结论对应的实际运行环境。
 
 ## 三、复现
 
