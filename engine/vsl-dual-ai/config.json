@@ -1,0 +1,184 @@
+{
+  "bpm": 84,
+  "beats_per_bar": 4,
+  "key": "D minor",
+  "root": 62,
+  "midi_port": "loopMIDI Port 1",
+  "score": {
+    "a": "",
+    "b": "",
+    "a_track": 0,
+    "b_track": 0
+  },
+  "leadership": [
+    "A",
+    "B"
+  ],
+  "reading": {
+    "enabled": true,
+    "out_dir": "readings",
+    "max_chars": 2400,
+    "pdf": true,
+    "note": "stage 0: each player reads the whole score and writes an interpretation; the text is quoted back at every bar"
+  },
+  "models": {
+    "A": {
+      "name": "Player A (upper voice)",
+      "base_url": "https://api.deepseek.com/v1",
+      "model": "deepseek-chat",
+      "api_key_env": "DEEPSEEK_API_KEY",
+      "role": "upper voice, sings the line, phrases in long arcs",
+      "lo": 55,
+      "hi": 100,
+      "style": "cantabile, breaths at phrase ends, rubato before the cadence",
+      "timeout": 5.0
+    },
+    "B": {
+      "name": "Player B (lower voice)",
+      "base_url": "http://127.0.0.1:11434/v1",
+      "model": "qwen2.5:14b-instruct",
+      "api_key_env": "LOCAL_API_KEY",
+      "role": "lower voice, holds the harmony and the floor",
+      "lo": 24,
+      "hi": 62,
+      "style": "steady, grounds the tempo, answers the upper voice's gestures",
+      "timeout": 5.0
+    }
+  },
+  "params": {
+    "reverb": {
+      "cc": 20,
+      "lo": 0,
+      "hi": 127,
+      "owner": "any",
+      "rate_ms": 400,
+      "ramp_ms": 300
+    },
+    "volume": {
+      "cc": 7,
+      "lo": 40,
+      "hi": 110,
+      "owner": "any",
+      "rate_ms": 250,
+      "ramp_ms": 200
+    },
+    "dynamic": {
+      "cc": 21,
+      "lo": 0,
+      "hi": 127,
+      "owner": "any",
+      "rate_ms": 300,
+      "ramp_ms": 250
+    },
+    "smooth_attack": {
+      "cc": 22,
+      "lo": 0,
+      "hi": 127,
+      "owner": "any",
+      "rate_ms": 500,
+      "ramp_ms": 200
+    },
+    "pedal_noise": {
+      "cc": 23,
+      "lo": 0,
+      "hi": 127,
+      "owner": "any",
+      "rate_ms": 500,
+      "ramp_ms": 200
+    },
+    "keyrel_noise": {
+      "cc": 24,
+      "lo": 0,
+      "hi": 127,
+      "owner": "any",
+      "rate_ms": 500,
+      "ramp_ms": 200
+    },
+    "semitone": {
+      "cc": 25,
+      "lo": 52,
+      "hi": 76,
+      "owner": "any",
+      "rate_ms": 700,
+      "ramp_ms": 300
+    },
+    "mic_close": {
+      "cc": 26,
+      "lo": 0,
+      "hi": 127,
+      "owner": "any",
+      "rate_ms": 400,
+      "ramp_ms": 300
+    },
+    "mic_mid": {
+      "cc": 27,
+      "lo": 0,
+      "hi": 127,
+      "owner": "any",
+      "rate_ms": 400,
+      "ramp_ms": 300
+    },
+    "mic_main": {
+      "cc": 28,
+      "lo": 0,
+      "hi": 127,
+      "owner": "any",
+      "rate_ms": 400,
+      "ramp_ms": 300
+    },
+    "mic_room": {
+      "cc": 29,
+      "lo": 0,
+      "hi": 127,
+      "owner": "any",
+      "rate_ms": 400,
+      "ramp_ms": 300
+    },
+    "mix_width": {
+      "cc": 30,
+      "lo": 0,
+      "hi": 127,
+      "owner": "any",
+      "rate_ms": 400,
+      "ramp_ms": 300
+    },
+    "send": {
+      "cc": 31,
+      "lo": 0,
+      "hi": 127,
+      "owner": "any",
+      "rate_ms": 400,
+      "ramp_ms": 300
+    }
+  },
+  "engine": {
+    "tick_ms": 4,
+    "deadline_ms": 220,
+    "boundary_beats": 8,
+    "note": "tick = the whole reaction budget; a model that misses the 220 ms deadline is dropped, never awaited"
+  },
+  "pll": {
+    "kp": 2.5,
+    "ki": 0.5,
+    "clamp": 0.06,
+    "offset_clamp": 0.012,
+    "tau": 0.08,
+    "dead": 0.002,
+    "windup_guard": 0.02
+  },
+  "gap_db": 2.5,
+  "style": 1.0,
+  "humanize": {
+    "enabled": true,
+    "bias_a": -0.004,
+    "bias_b": 0.003,
+    "wobble": 0.0045,
+    "tau_s": 0.35,
+    "note": "each player drifts on its own; the PLL is what keeps them together"
+  },
+  "ensemble": {
+    "note": "no conductor: two clocks, mutual PLL, balance and pedal follow the partner's numbers",
+    "pll": "see pll",
+    "gap_db": 2.5
+  }
+}

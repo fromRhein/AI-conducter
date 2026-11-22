@@ -1,0 +1,33 @@
+Piece: 8 bars, 4/4, 84 BPM (2.86 s per bar).
+Your voice: 16 notes, range D5-D6.
+Partner: 16 notes, range D3-A3.
+
+Bar-by-bar (bar | your notes + range | partner notes + range | your vel | partner vel | harmony | shared onsets | longest note):
+    1 |  2 D5-F#5    |  2 D3-A3     |  84 |  72 | D     | 2 | 1.7
+    2 |  2 E5-A5     |  2 D3-G3     |  78 |  68 | Dsus2 | 2 | 1.7
+    3 |  2 F#5-B5    |  2 D3-A3     |  80 |  61 | D     | 2 | 1.7
+    4 |  2 A5-D6     |  2 D3-G3     |  83 |  66 | Dsus4 | 2 | 1.7
+    5 |  2 D5-F#5    |  2 D3-A3     |  80 |  70 | D     | 2 | 1.7
+    6 |  2 E5-A5     |  2 D3-G3     |  82 |  66 | Dsus2 | 2 | 1.7
+    7 |  2 F#5-B5    |  2 D3-A3     |  76 |  66 | D     | 2 | 1.7
+    8 |  2 A5-D6     |  2 D3-G3     |  83 |  68 | Dsus4 | 2 | 1.7
+
+Phrase map (bar spans where the harmony holds): 1-8
+Bars where both voices hold through the bar line (phrase-ending candidates): none
+
+Piece: 8 bars, 4/4, 84 BPM (2.86 s per bar).
+Your voice: 16 notes, range D3-A3.
+Partner: 16 notes, range D5-D6.
+
+Bar-by-bar (bar | your notes + range | partner notes + range | your vel | partner vel | harmony | shared onsets | longest note):
+    1 |  2 D3-A3     |  2 D5-F#5    |  72 |  84 | D     | 2 | 1.9
+    2 |  2 D3-G3     |  2 E5-A5     |  68 |  78 | Dsus2 | 2 | 1.9
+    3 |  2 D3-A3     |  2 F#5-B5    |  61 |  80 | D     | 2 | 1.9
+    4 |  2 D3-G3     |  2 A5-D6     |  66 |  83 | Dsus4 | 2 | 1.9
+    5 |  2 D3-A3     |  2 D5-F#5    |  70 |  80 | D     | 2 | 1.9
+    6 |  2 D3-G3     |  2 E5-A5     |  66 |  82 | Dsus2 | 2 | 1.9
+    7 |  2 D3-A3     |  2 F#5-B5    |  66 |  76 | D     | 2 | 1.9
+    8 |  2 D3-G3     |  2 A5-D6     |  68 |  83 | Dsus4 | 2 | 1.9
+
+Phrase map (bar spans where the harmony holds): 1-8
+Bars where both voices hold through the bar line (phrase-ending candidates): none

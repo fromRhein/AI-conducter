@@ -1,0 +1,102 @@
+{
+ "stats": {
+  "runtime_s": 24.6,
+  "ticks": 5600,
+  "tick_p50_ms": 0.0,
+  "tick_p99_ms": 4.05,
+  "notes": 32,
+  "midi_events": 32,
+  "midi_late_avg_ms": 0.24,
+  "midi_late_max_ms": 5.86,
+  "phase_A_ms": 2.0,
+  "phase_B_ms": -2.0,
+  "phase_mean_abs_ms": 1.69,
+  "asynchrony_p50_ms": 4.0,
+  "asynchrony_p95_ms": 8.0,
+  "asynchrony_max_ms": 8.0,
+  "asynchrony_settled_p95_ms": 8.0,
+  "asynchrony_settled_max_ms": 8.0,
+  "asynchrony_over_15ms": 0,
+  "relock_ms": null,
+  "reaction_p50_ms": 0.0,
+  "reaction_p95_ms": 0.0,
+  "reaction_max_ms": 0.0,
+  "gestures_applied": 8,
+  "gestures_late": 0,
+  "score": "example_a.mid+example_b.mid"
+ },
+ "gestures": [
+  {
+   "beat": 0.0,
+   "side": "A",
+   "applied": [
+    "tempo x1.016",
+    "vel x0.77",
+    "dynamic=0.54"
+   ]
+  },
+  {
+   "beat": 0.0,
+   "side": "B",
+   "applied": [
+    "tempo x1.004",
+    "vel x0.87",
+    "dynamic=0.54"
+   ]
+  },
+  {
+   "beat": 8.0,
+   "side": "B",
+   "applied": [
+    "tempo x1.001",
+    "vel x0.89",
+    "dynamic=0.58"
+   ]
+  },
+  {
+   "beat": 8.0,
+   "side": "A",
+   "applied": [
+    "tempo x1.008",
+    "vel x0.86",
+    "dynamic=0.58"
+   ]
+  },
+  {
+   "beat": 16.01,
+   "side": "B",
+   "applied": [
+    "tempo x0.980",
+    "vel x0.75",
+    "dynamic=0.55"
+   ]
+  },
+  {
+   "beat": 16.01,
+   "side": "A",
+   "applied": [
+    "tempo x0.994",
+    "vel x0.75",
+    "dynamic=0.55"
+   ]
+  },
+  {
+   "beat": 24.01,
+   "side": "A",
+   "applied": [
+    "tempo x1.002",
+    "vel x0.76",
+    "dynamic=0.47"
+   ]
+  },
+  {
+   "beat": 24.01,
+   "side": "B",
+   "applied": [
+    "tempo x1.000",
+    "vel x0.75",
+    "dynamic=0.47"
+   ]
+  }
+ ]
+}
