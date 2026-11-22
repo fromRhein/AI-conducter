@@ -1,0 +1,52 @@
+[
+  {
+    "name": "11_Horn2_staff6",
+    "events": 163,
+    "silent_attack_windows": []
+  },
+  {
+    "name": "16_TenorTrombone_staff9",
+    "events": 146,
+    "silent_attack_windows": []
+  },
+  {
+    "name": "11_Horn2_staff6_aux_E1",
+    "events": 1,
+    "silent_attack_windows": []
+  },
+  {
+    "name": "16_TenorTrombone_staff9_aux_B4",
+    "events": 5,
+    "silent_attack_windows": []
+  },
+  {
+    "name": "16_TenorTrombone_staff9_aux_C5",
+    "events": 2,
+    "silent_attack_windows": []
+  },
+  {
+    "name": "16_TenorTrombone_staff9_aux_Cs5",
+    "events": 1,
+    "silent_attack_windows": []
+  },
+  {
+    "name": "20_Violins1",
+    "events": 1030,
+    "silent_attack_windows": []
+  },
+  {
+    "name": "21_Violins2",
+    "events": 1186,
+    "silent_attack_windows": []
+  },
+  {
+    "name": "22_Violas",
+    "events": 1547,
+    "silent_attack_windows": []
+  },
+  {
+    "name": "23_Cellos",
+    "events": 827,
+    "silent_attack_windows": []
+  }
+]

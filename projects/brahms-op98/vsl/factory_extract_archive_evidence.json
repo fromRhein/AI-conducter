@@ -1,0 +1,1666 @@
+[
+  {
+    "volume": "C:\\ProgramData\\VSL\\Vienna Synchron Player\\Volumes\\at.co.vsl.synchronplayer.syvolume",
+    "fileSize": 55097960,
+    "magic": "VINv",
+    "versionBytes": "02000000",
+    "metadataKeys": [
+      "contentVersion",
+      "creationDate",
+      "description",
+      "id",
+      "license",
+      "title",
+      "type",
+      "version"
+    ],
+    "contentVersion": 1,
+    "metadataEnd": 371,
+    "opaquePreIndexStart": 371,
+    "unknownRegionEnd": 49172,
+    "indexOffset": 49176,
+    "indexCompressedBytes": 3422,
+    "tableCandidateOffset": 52602,
+    "tableCandidateLength": 12532,
+    "tableCandidateEnd": 65138,
+    "paddingBeforeData": 398,
+    "dataStart": 65536,
+    "dataAligned4096": true,
+    "tableEntropyBitsPerByte": 7.98588,
+    "tableSha256": "fc1bc62e37b6b19adfc1a3331df71af938ffb5ddd3d17423ac837fb5d420188b",
+    "tablePrefixHex": "b786e8c2e651bde1ec5a95c24e5d4c9ef7ee344fe560685723e65d24f7f8ba93",
+    "tableZstdMagicCount": 0,
+    "tableJSONMarkerCount": 0,
+    "tableDecoders": {
+      "zstd": "Unable to decompress Zstandard data: Unknown frame descriptor",
+      "zlib": "Error -3 while decompressing data: incorrect header check",
+      "gzip": "Error -3 while decompressing data: incorrect header check",
+      "bz2": "Invalid data stream",
+      "xz": "Input format not supported by decoder"
+    },
+    "firstDataLength": 13895,
+    "firstDataPrefixHex": "470052d9fecc5ea8f9e43ae9fccee6e733d410f0c65040b7ad2753f7c6942a59",
+    "indexedEntries": 521,
+    "presetCount": 3,
+    "selectedPresetCount": 0,
+    "selectedPresets": [],
+    "allPresetCatalog": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_FREEBIES/01 Big Bang Orchestra.vsynpreset",
+        "entryIndex": 0
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/.empty.vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/default.vsynpreset",
+        "entryIndex": 2
+      }
+    ],
+    "tableLengthMinus4Div24": 522,
+    "tableFirstLE32": 3270018743
+  },
+  {
+    "volume": "D:\\VSL Libraries\\VSL Synchron Prime Brass\\SY-Prime-Brass.syvolume",
+    "fileSize": 2911250072,
+    "magic": "VINv",
+    "versionBytes": "02000300",
+    "metadataKeys": [
+      "compatibilityVolumeIds",
+      "contentVersion",
+      "creationDate",
+      "description",
+      "flags",
+      "id",
+      "license",
+      "title"
+    ],
+    "contentVersion": 1,
+    "metadataEnd": 780,
+    "opaquePreIndexStart": 780,
+    "unknownRegionEnd": 93193,
+    "indexOffset": 93197,
+    "indexCompressedBytes": 1125,
+    "tableCandidateOffset": 94326,
+    "tableCandidateLength": 585436,
+    "tableCandidateEnd": 679766,
+    "paddingBeforeData": 170,
+    "dataStart": 679936,
+    "dataAligned4096": true,
+    "tableEntropyBitsPerByte": 7.999683,
+    "tableSha256": "85f13d98c9714b8ca40b1e0ff55b0988297deae191f65f9694e46fc9238508ab",
+    "tablePrefixHex": "ad9df2f97f0a466d13bf0da3160d6900e71ee7b193200fec03a53a79744aa472",
+    "tableZstdMagicCount": 0,
+    "tableJSONMarkerCount": 0,
+    "tableDecoders": {
+      "zstd": "Unable to decompress Zstandard data: Unknown frame descriptor",
+      "zlib": "Error -3 while decompressing data: incorrect header check",
+      "gzip": "Error -3 while decompressing data: incorrect header check",
+      "bz2": "Invalid data stream",
+      "xz": "Input format not supported by decoder"
+    },
+    "firstDataLength": 8514,
+    "firstDataPrefixHex": "14463219ce1dd9dba77e348d863f11d6495ccbb5c2ec6e16ff531ca4cfb8b0df",
+    "indexedEntries": 133,
+    "presetCount": 44,
+    "selectedPresetCount": 11,
+    "selectedPresets": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/01 Trumpet 1 - VelXF sus.vsynpreset",
+        "entryIndex": 11
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/02 Trumpet 2 - VelXF sus.vsynpreset",
+        "entryIndex": 12
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/03 Trumpets - 4 players - VelXF sus.vsynpreset",
+        "entryIndex": 13
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/11 Horn 1 - VelXF sus.vsynpreset",
+        "entryIndex": 14
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/12 Horn 2 - VelXF sus.vsynpreset",
+        "entryIndex": 15
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/13 Horns - 6 players - VelXF sus.vsynpreset",
+        "entryIndex": 16
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/21 Tenor trombone - VelXF sus.vsynpreset",
+        "entryIndex": 17
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/22 Bass trombone - VelXF sus.vsynpreset",
+        "entryIndex": 18
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/23 Trombones - 4 players - VelXF sus.vsynpreset",
+        "entryIndex": 19
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/31 Bass tuba - VelXF sus.vsynpreset",
+        "entryIndex": 20
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/51 Tutti brass - 15 players - VelXF sus.vsynpreset",
+        "entryIndex": 21
+      }
+    ],
+    "allPresetCatalog": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/01 Trumpet in Bb 1.vsynpreset",
+        "entryIndex": 0
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/02 Trumpet in Bb 2.vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/03 Trumpets in Bb (4 players).vsynpreset",
+        "entryIndex": 2
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/11 Horn 1.vsynpreset",
+        "entryIndex": 3
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/12 Horn 2.vsynpreset",
+        "entryIndex": 4
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/13 Horns (6 players).vsynpreset",
+        "entryIndex": 5
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/21 Tenor trombone.vsynpreset",
+        "entryIndex": 6
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/22 Bass trombone.vsynpreset",
+        "entryIndex": 7
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/23 Tenor trombones (4 players).vsynpreset",
+        "entryIndex": 8
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/31 Bass tuba.vsynpreset",
+        "entryIndex": 9
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/40 Brass (15 players).vsynpreset",
+        "entryIndex": 10
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/01 Trumpet 1 - VelXF sus.vsynpreset",
+        "entryIndex": 11
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/02 Trumpet 2 - VelXF sus.vsynpreset",
+        "entryIndex": 12
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/03 Trumpets - 4 players - VelXF sus.vsynpreset",
+        "entryIndex": 13
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/11 Horn 1 - VelXF sus.vsynpreset",
+        "entryIndex": 14
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/12 Horn 2 - VelXF sus.vsynpreset",
+        "entryIndex": 15
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/13 Horns - 6 players - VelXF sus.vsynpreset",
+        "entryIndex": 16
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/21 Tenor trombone - VelXF sus.vsynpreset",
+        "entryIndex": 17
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/22 Bass trombone - VelXF sus.vsynpreset",
+        "entryIndex": 18
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/23 Trombones - 4 players - VelXF sus.vsynpreset",
+        "entryIndex": 19
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/31 Bass tuba - VelXF sus.vsynpreset",
+        "entryIndex": 20
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/51 Tutti brass - 15 players - VelXF sus.vsynpreset",
+        "entryIndex": 21
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/01 Trumpet 1 - VelXF.vsynpreset",
+        "entryIndex": 22
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/02 Trumpet 2 - VelXF.vsynpreset",
+        "entryIndex": 23
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/03 Trumpets - 4 players - VelXF.vsynpreset",
+        "entryIndex": 24
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/11 Horn 1 - VelXF.vsynpreset",
+        "entryIndex": 25
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/12 Horn 2 - VelXF.vsynpreset",
+        "entryIndex": 26
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/13 Horns - 6 players - VelXF.vsynpreset",
+        "entryIndex": 27
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/21 Tenor trombone - VelXF.vsynpreset",
+        "entryIndex": 28
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/22 Bass trombone - VelXF.vsynpreset",
+        "entryIndex": 29
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/23 Trombones - 4 players - VelXF.vsynpreset",
+        "entryIndex": 30
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/31 Bass tuba - VelXF.vsynpreset",
+        "entryIndex": 31
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/51 Tutti brass - 15 players - VelXF.vsynpreset",
+        "entryIndex": 32
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/01 Trumpet 1 - Velocity.vsynpreset",
+        "entryIndex": 33
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/02 Trumpet 2 - Velocity.vsynpreset",
+        "entryIndex": 34
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/03 Trumpets - 4 players - Velocity.vsynpreset",
+        "entryIndex": 35
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/11 Horn 1 - Velocity.vsynpreset",
+        "entryIndex": 36
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/12 Horn 2 - Velocity.vsynpreset",
+        "entryIndex": 37
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/13 Horns - 6 players - Velocity.vsynpreset",
+        "entryIndex": 38
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/21 Tenor trombone - Velocity.vsynpreset",
+        "entryIndex": 39
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/22 Bass trombone - Velocity.vsynpreset",
+        "entryIndex": 40
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/23 Trombones - 4 players - Velocity.vsynpreset",
+        "entryIndex": 41
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/31 Bass tuba - Velocity.vsynpreset",
+        "entryIndex": 42
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/51 Tutti brass - 15 players - Velocity.vsynpreset",
+        "entryIndex": 43
+      }
+    ],
+    "tableLengthMinus4Div24": 24393,
+    "tableFirstLE32": 4193426861
+  },
+  {
+    "volume": "D:\\VSL Libraries\\VSL Synchron Prime Harp\\SY-Prime-Harp.syvolume",
+    "fileSize": 877844968,
+    "magic": "VINv",
+    "versionBytes": "02000300",
+    "metadataKeys": [
+      "compatibilityVolumeIds",
+      "contentVersion",
+      "creationDate",
+      "description",
+      "flags",
+      "id",
+      "license",
+      "title"
+    ],
+    "contentVersion": 1,
+    "metadataEnd": 464,
+    "opaquePreIndexStart": 464,
+    "unknownRegionEnd": 92873,
+    "indexOffset": 92877,
+    "indexCompressedBytes": 260,
+    "tableCandidateOffset": 93141,
+    "tableCandidateLength": 38380,
+    "tableCandidateEnd": 131525,
+    "paddingBeforeData": 3643,
+    "dataStart": 135168,
+    "dataAligned4096": true,
+    "tableEntropyBitsPerByte": 7.995377,
+    "tableSha256": "d094c2c398aea20fec439dccda6418f8aa8ba77ecaa5bf03c03f2add2fcb70e4",
+    "tablePrefixHex": "e8be9f4231cfe931472a412c8bfa36591e3106ce5127b4515d835c61555fc47b",
+    "tableZstdMagicCount": 0,
+    "tableJSONMarkerCount": 0,
+    "tableDecoders": {
+      "zstd": "Unable to decompress Zstandard data: Unknown frame descriptor",
+      "zlib": "Error -3 while decompressing data: invalid window size",
+      "gzip": "Error -3 while decompressing data: incorrect header check",
+      "bz2": "Invalid data stream",
+      "xz": "Input format not supported by decoder"
+    },
+    "firstDataLength": 7190,
+    "firstDataPrefixHex": "ceda5e48dc19a5ab4a4ae0cbb4e8b4890e67d0a8955f7e1c05ed77840d57fcf5",
+    "indexedEntries": 7,
+    "presetCount": 4,
+    "selectedPresetCount": 3,
+    "selectedPresets": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/00 Harp - Velocity.vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/00 Harp - VelXF.vsynpreset",
+        "entryIndex": 2
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/00 Harp - Velocity.vsynpreset",
+        "entryIndex": 3
+      }
+    ],
+    "allPresetCatalog": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/00 Harp.vsynpreset",
+        "entryIndex": 0
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/00 Harp - Velocity.vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/00 Harp - VelXF.vsynpreset",
+        "entryIndex": 2
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/00 Harp - Velocity.vsynpreset",
+        "entryIndex": 3
+      }
+    ],
+    "tableLengthMinus4Div24": 1599,
+    "tableFirstLE32": 1117765352
+  },
+  {
+    "volume": "D:\\VSL Libraries\\VSL Synchron Prime Percussion\\SY-Prime-Percussion.syvolume",
+    "fileSize": 6400076006,
+    "magic": "VINv",
+    "versionBytes": "02000300",
+    "metadataKeys": [
+      "compatibilityVolumeIds",
+      "contentVersion",
+      "creationDate",
+      "description",
+      "flags",
+      "id",
+      "license",
+      "title"
+    ],
+    "contentVersion": 1,
+    "metadataEnd": 811,
+    "opaquePreIndexStart": 811,
+    "unknownRegionEnd": 93276,
+    "indexOffset": 93280,
+    "indexCompressedBytes": 1111,
+    "tableCandidateOffset": 94395,
+    "tableCandidateLength": 384460,
+    "tableCandidateEnd": 478859,
+    "paddingBeforeData": 373,
+    "dataStart": 479232,
+    "dataAligned4096": true,
+    "tableEntropyBitsPerByte": 7.999468,
+    "tableSha256": "2a34a4a5ecab441a68b7e681b6f4196be8a418eba4434b31ab9bed06ee6bb811",
+    "tablePrefixHex": "a8efa882d75bb5a9b30e04c0a3e5d2a069a3a34b4c89862576279a619b71d1b9",
+    "tableZstdMagicCount": 0,
+    "tableJSONMarkerCount": 0,
+    "tableDecoders": {
+      "zstd": "Unable to decompress Zstandard data: Unknown frame descriptor",
+      "zlib": "Error -3 while decompressing data: incorrect header check",
+      "gzip": "Error -3 while decompressing data: incorrect header check",
+      "bz2": "Invalid data stream",
+      "xz": "Input format not supported by decoder"
+    },
+    "firstDataLength": 7955,
+    "firstDataPrefixHex": "39691299f0d65571c198a9e751566ce9a58a7eed2d795e8501688f336a0d417f",
+    "indexedEntries": 123,
+    "presetCount": 64,
+    "selectedPresetCount": 48,
+    "selectedPresets": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/01 Timpani - VelXF sus.vsynpreset",
+        "entryIndex": 16
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/02 Celesta - Velocity.vsynpreset",
+        "entryIndex": 17
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/03 Glockenspiel - Velocity.vsynpreset",
+        "entryIndex": 18
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/04 Xylophone - Velocity.vsynpreset",
+        "entryIndex": 19
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/05 Tubular bells - Velocity.vsynpreset",
+        "entryIndex": 20
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/11 Snare drum - VelXF sus.vsynpreset",
+        "entryIndex": 21
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/12 Bass drum - VelXF sus.vsynpreset",
+        "entryIndex": 22
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/13 Tambourine - VelXF sus.vsynpreset",
+        "entryIndex": 23
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/14 Concert toms - VelXF sus.vsynpreset",
+        "entryIndex": 24
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/15 Taiko - Velocity.vsynpreset",
+        "entryIndex": 25
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/16 Piatti - Velocity.vsynpreset",
+        "entryIndex": 26
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/17 Suspended cymbal - VelXF sus.vsynpreset",
+        "entryIndex": 27
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/18 Tam-tam - VelXF sus.vsynpreset",
+        "entryIndex": 28
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/19 Triangle - VelXF sus.vsynpreset",
+        "entryIndex": 29
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/20 Woodblocks - VelXF sus.vsynpreset",
+        "entryIndex": 30
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/21 Unpitched - All - VelXF sus.vsynpreset",
+        "entryIndex": 31
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/01 Timpani - VelXF.vsynpreset",
+        "entryIndex": 32
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/02 Celesta - VelXF.vsynpreset",
+        "entryIndex": 33
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/03 Glockenspiel - VelXF.vsynpreset",
+        "entryIndex": 34
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/04 Xylophone - VelXF.vsynpreset",
+        "entryIndex": 35
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/05 Tubular bells - VelXF.vsynpreset",
+        "entryIndex": 36
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/11 Snare drum - VelXF.vsynpreset",
+        "entryIndex": 37
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/12 Bass drum - VelXF.vsynpreset",
+        "entryIndex": 38
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/13 Tambourine - VelXF.vsynpreset",
+        "entryIndex": 39
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/14 Concert toms - VelXF.vsynpreset",
+        "entryIndex": 40
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/15 Taiko - VelXF.vsynpreset",
+        "entryIndex": 41
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/16 Piatti - VelXF.vsynpreset",
+        "entryIndex": 42
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/17 Suspended cymbal - VelXF.vsynpreset",
+        "entryIndex": 43
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/18 Tam-tam - VelXF.vsynpreset",
+        "entryIndex": 44
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/19 Triangle - VelXF.vsynpreset",
+        "entryIndex": 45
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/20 Woodblocks - VelXF.vsynpreset",
+        "entryIndex": 46
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/21 Unpitched - All - VelXF.vsynpreset",
+        "entryIndex": 47
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/01 Timpani - Velocity.vsynpreset",
+        "entryIndex": 48
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/02 Celesta - Velocity.vsynpreset",
+        "entryIndex": 49
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/03 Glockenspiel - Velocity.vsynpreset",
+        "entryIndex": 50
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/04 Xylophone - Velocity.vsynpreset",
+        "entryIndex": 51
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/05 Tubular bells - Velocity.vsynpreset",
+        "entryIndex": 52
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/11 Snare drum - Velocity.vsynpreset",
+        "entryIndex": 53
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/12 Bass drum - Velocity.vsynpreset",
+        "entryIndex": 54
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/13 Tambourine - Velocity.vsynpreset",
+        "entryIndex": 55
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/14 Concert toms - Velocity.vsynpreset",
+        "entryIndex": 56
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/15 Taiko - Velocity.vsynpreset",
+        "entryIndex": 57
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/16 Piatti - Velocity.vsynpreset",
+        "entryIndex": 58
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/17 Suspended cymbal - Velocity.vsynpreset",
+        "entryIndex": 59
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/18 Tam-tam - Velocity.vsynpreset",
+        "entryIndex": 60
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/19 Triangle - Velocity.vsynpreset",
+        "entryIndex": 61
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/20 Woodblocks - Velocity.vsynpreset",
+        "entryIndex": 62
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/21 Unpitched - All - Velocity.vsynpreset",
+        "entryIndex": 63
+      }
+    ],
+    "allPresetCatalog": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/01 Timpani.vsynpreset",
+        "entryIndex": 0
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/02 Celesta.vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/03 Glockenspiel.vsynpreset",
+        "entryIndex": 2
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/04 Xylophone.vsynpreset",
+        "entryIndex": 3
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/05 Tubular bells.vsynpreset",
+        "entryIndex": 4
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/11 Snare drum.vsynpreset",
+        "entryIndex": 5
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/12 Bass drum.vsynpreset",
+        "entryIndex": 6
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/13 Tambourine.vsynpreset",
+        "entryIndex": 7
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/14 Concert toms.vsynpreset",
+        "entryIndex": 8
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/15 Taiko.vsynpreset",
+        "entryIndex": 9
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/16 Piatti.vsynpreset",
+        "entryIndex": 10
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/17 Suspended cymbal.vsynpreset",
+        "entryIndex": 11
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/18 Tam-tam.vsynpreset",
+        "entryIndex": 12
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/19 Triangle.vsynpreset",
+        "entryIndex": 13
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/20 Woodblocks.vsynpreset",
+        "entryIndex": 14
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/21 Unpitched Percussion (all).vsynpreset",
+        "entryIndex": 15
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/01 Timpani - VelXF sus.vsynpreset",
+        "entryIndex": 16
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/02 Celesta - Velocity.vsynpreset",
+        "entryIndex": 17
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/03 Glockenspiel - Velocity.vsynpreset",
+        "entryIndex": 18
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/04 Xylophone - Velocity.vsynpreset",
+        "entryIndex": 19
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/05 Tubular bells - Velocity.vsynpreset",
+        "entryIndex": 20
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/11 Snare drum - VelXF sus.vsynpreset",
+        "entryIndex": 21
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/12 Bass drum - VelXF sus.vsynpreset",
+        "entryIndex": 22
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/13 Tambourine - VelXF sus.vsynpreset",
+        "entryIndex": 23
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/14 Concert toms - VelXF sus.vsynpreset",
+        "entryIndex": 24
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/15 Taiko - Velocity.vsynpreset",
+        "entryIndex": 25
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/16 Piatti - Velocity.vsynpreset",
+        "entryIndex": 26
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/17 Suspended cymbal - VelXF sus.vsynpreset",
+        "entryIndex": 27
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/18 Tam-tam - VelXF sus.vsynpreset",
+        "entryIndex": 28
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/19 Triangle - VelXF sus.vsynpreset",
+        "entryIndex": 29
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/20 Woodblocks - VelXF sus.vsynpreset",
+        "entryIndex": 30
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/21 Unpitched - All - VelXF sus.vsynpreset",
+        "entryIndex": 31
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/01 Timpani - VelXF.vsynpreset",
+        "entryIndex": 32
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/02 Celesta - VelXF.vsynpreset",
+        "entryIndex": 33
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/03 Glockenspiel - VelXF.vsynpreset",
+        "entryIndex": 34
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/04 Xylophone - VelXF.vsynpreset",
+        "entryIndex": 35
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/05 Tubular bells - VelXF.vsynpreset",
+        "entryIndex": 36
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/11 Snare drum - VelXF.vsynpreset",
+        "entryIndex": 37
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/12 Bass drum - VelXF.vsynpreset",
+        "entryIndex": 38
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/13 Tambourine - VelXF.vsynpreset",
+        "entryIndex": 39
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/14 Concert toms - VelXF.vsynpreset",
+        "entryIndex": 40
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/15 Taiko - VelXF.vsynpreset",
+        "entryIndex": 41
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/16 Piatti - VelXF.vsynpreset",
+        "entryIndex": 42
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/17 Suspended cymbal - VelXF.vsynpreset",
+        "entryIndex": 43
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/18 Tam-tam - VelXF.vsynpreset",
+        "entryIndex": 44
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/19 Triangle - VelXF.vsynpreset",
+        "entryIndex": 45
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/20 Woodblocks - VelXF.vsynpreset",
+        "entryIndex": 46
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/21 Unpitched - All - VelXF.vsynpreset",
+        "entryIndex": 47
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/01 Timpani - Velocity.vsynpreset",
+        "entryIndex": 48
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/02 Celesta - Velocity.vsynpreset",
+        "entryIndex": 49
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/03 Glockenspiel - Velocity.vsynpreset",
+        "entryIndex": 50
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/04 Xylophone - Velocity.vsynpreset",
+        "entryIndex": 51
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/05 Tubular bells - Velocity.vsynpreset",
+        "entryIndex": 52
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/11 Snare drum - Velocity.vsynpreset",
+        "entryIndex": 53
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/12 Bass drum - Velocity.vsynpreset",
+        "entryIndex": 54
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/13 Tambourine - Velocity.vsynpreset",
+        "entryIndex": 55
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/14 Concert toms - Velocity.vsynpreset",
+        "entryIndex": 56
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/15 Taiko - Velocity.vsynpreset",
+        "entryIndex": 57
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/16 Piatti - Velocity.vsynpreset",
+        "entryIndex": 58
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/17 Suspended cymbal - Velocity.vsynpreset",
+        "entryIndex": 59
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/18 Tam-tam - Velocity.vsynpreset",
+        "entryIndex": 60
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/19 Triangle - Velocity.vsynpreset",
+        "entryIndex": 61
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/20 Woodblocks - Velocity.vsynpreset",
+        "entryIndex": 62
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/21 Unpitched - All - Velocity.vsynpreset",
+        "entryIndex": 63
+      }
+    ],
+    "tableLengthMinus4Div24": 16019,
+    "tableFirstLE32": 2192109480
+  },
+  {
+    "volume": "D:\\VSL Libraries\\VSL Synchron Prime Strings I - Large Ensembles\\SY-Prime-Strings-I.syvolume",
+    "fileSize": 11527105560,
+    "magic": "VINv",
+    "versionBytes": "02000300",
+    "metadataKeys": [
+      "compatibilityVolumeIds",
+      "contentVersion",
+      "creationDate",
+      "description",
+      "flags",
+      "id",
+      "license",
+      "title"
+    ],
+    "contentVersion": 1,
+    "metadataEnd": 654,
+    "opaquePreIndexStart": 654,
+    "unknownRegionEnd": 93067,
+    "indexOffset": 93071,
+    "indexCompressedBytes": 1168,
+    "tableCandidateOffset": 94243,
+    "tableCandidateLength": 1294372,
+    "tableCandidateEnd": 1388619,
+    "paddingBeforeData": 4021,
+    "dataStart": 1392640,
+    "dataAligned4096": true,
+    "tableEntropyBitsPerByte": 7.999848,
+    "tableSha256": "2e191dac3d9462bfeece51b3f3b6f8cf223fae50bf3d4d6e0b54dc7bbc925e30",
+    "tablePrefixHex": "3dbb2b8e02c54ea865c22010d6b5b2620dc98cd3fa7c4375fb034eb752ea152b",
+    "tableZstdMagicCount": 0,
+    "tableJSONMarkerCount": 0,
+    "tableDecoders": {
+      "zstd": "Unable to decompress Zstandard data: Unknown frame descriptor",
+      "zlib": "Error -3 while decompressing data: incorrect header check",
+      "gzip": "Error -3 while decompressing data: incorrect header check",
+      "bz2": "Invalid data stream",
+      "xz": "Input format not supported by decoder"
+    },
+    "firstDataLength": 9110,
+    "firstDataPrefixHex": "f723fad2e0e481208d59e7dbd74ce2b1466e6c80cb3f1862b22da7e7d200d6a1",
+    "indexedEntries": 146,
+    "presetCount": 28,
+    "selectedPresetCount": 7,
+    "selectedPresets": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/01 1st Violins-14 - VelXF sus.vsynpreset",
+        "entryIndex": 7
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/02 2nd Violins-10 - VelXF sus.vsynpreset",
+        "entryIndex": 8
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/03 Violas-8 - VelXF sus.vsynpreset",
+        "entryIndex": 9
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/04 Violoncellos-8 - VelXF sus.vsynpreset",
+        "entryIndex": 10
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/05 Double basses-6 - VelXF sus.vsynpreset",
+        "entryIndex": 11
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/06 Tutti full range-46 - VelXF sus.vsynpreset",
+        "entryIndex": 12
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/07 Tutti compr. range-46 - VelXF sus.vsynpreset",
+        "entryIndex": 13
+      }
+    ],
+    "allPresetCatalog": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/01 1st Violins (14 players).vsynpreset",
+        "entryIndex": 0
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/02 2nd Violins (10 players).vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/03 Violas (8 players).vsynpreset",
+        "entryIndex": 2
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/04 Violoncellos (8 players).vsynpreset",
+        "entryIndex": 3
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/05 Double basses (6 players).vsynpreset",
+        "entryIndex": 4
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/06 Strings (14-10-8-8-6) full range.vsynpreset",
+        "entryIndex": 5
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/07 Strings (14-10-8-8-6) compressed range.vsynpreset",
+        "entryIndex": 6
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/01 1st Violins-14 - VelXF sus.vsynpreset",
+        "entryIndex": 7
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/02 2nd Violins-10 - VelXF sus.vsynpreset",
+        "entryIndex": 8
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/03 Violas-8 - VelXF sus.vsynpreset",
+        "entryIndex": 9
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/04 Violoncellos-8 - VelXF sus.vsynpreset",
+        "entryIndex": 10
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/05 Double basses-6 - VelXF sus.vsynpreset",
+        "entryIndex": 11
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/06 Tutti full range-46 - VelXF sus.vsynpreset",
+        "entryIndex": 12
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/07 Tutti compr. range-46 - VelXF sus.vsynpreset",
+        "entryIndex": 13
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/01 1st Violins-14 - VelXF.vsynpreset",
+        "entryIndex": 14
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/02 2nd Violins-10 - VelXF.vsynpreset",
+        "entryIndex": 15
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/03 Violas-8 - VelXF.vsynpreset",
+        "entryIndex": 16
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/04 Violoncellos-8 - VelXF.vsynpreset",
+        "entryIndex": 17
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/05 Double basses-6 - VelXF.vsynpreset",
+        "entryIndex": 18
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/06 Tutti full range-46 - VelXF.vsynpreset",
+        "entryIndex": 19
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/07 Tutti compressed range-46 - VelXF.vsynpreset",
+        "entryIndex": 20
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/01 1st Violins-14 - Velocity.vsynpreset",
+        "entryIndex": 21
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/02 2nd Violins-10 - Velocity.vsynpreset",
+        "entryIndex": 22
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/03 Violas-8 - Velocity.vsynpreset",
+        "entryIndex": 23
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/04 Violoncellos-8 - Velocity.vsynpreset",
+        "entryIndex": 24
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/05 Double basses-6 - Velocity.vsynpreset",
+        "entryIndex": 25
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/06 Tutti full range-46 - Velocity.vsynpreset",
+        "entryIndex": 26
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/07 Tutti compressed range-46 - Velocity.vsynpreset",
+        "entryIndex": 27
+      }
+    ],
+    "tableLengthMinus4Div24": 53932,
+    "tableFirstLE32": 2385230653
+  },
+  {
+    "volume": "D:\\VSL Libraries\\VSL Synchron Prime Strings II - Small Ensembles\\SY-Prime-Strings-II.syvolume",
+    "fileSize": 5160404422,
+    "magic": "VINv",
+    "versionBytes": "02000300",
+    "metadataKeys": [
+      "compatibilityVolumeIds",
+      "contentVersion",
+      "creationDate",
+      "description",
+      "flags",
+      "id",
+      "license",
+      "title"
+    ],
+    "contentVersion": 1,
+    "metadataEnd": 667,
+    "opaquePreIndexStart": 667,
+    "unknownRegionEnd": 93100,
+    "indexOffset": 93104,
+    "indexCompressedBytes": 1084,
+    "tableCandidateOffset": 94192,
+    "tableCandidateLength": 576388,
+    "tableCandidateEnd": 670584,
+    "paddingBeforeData": 1160,
+    "dataStart": 671744,
+    "dataAligned4096": true,
+    "tableEntropyBitsPerByte": 7.999687,
+    "tableSha256": "5877a8d8bcff631bd5bad1d71260c7e95f83b4a1285b94a315f1c2d4061c2a65",
+    "tablePrefixHex": "705ea7c5eca0fabc78e89f99bbd014f2c3bd797a4a14f3d138ab4ea1697ee6e6",
+    "tableZstdMagicCount": 0,
+    "tableJSONMarkerCount": 0,
+    "tableDecoders": {
+      "zstd": "Unable to decompress Zstandard data: Unknown frame descriptor",
+      "zlib": "Error -3 while decompressing data: incorrect header check",
+      "gzip": "Error -3 while decompressing data: incorrect header check",
+      "bz2": "Invalid data stream",
+      "xz": "Input format not supported by decoder"
+    },
+    "firstDataLength": 9008,
+    "firstDataPrefixHex": "9f449cf147f2dd8e92ec9996033b0a6d446fcb4f6ad83e2b79f92bb52b3aa9b7",
+    "indexedEntries": 134,
+    "presetCount": 28,
+    "selectedPresetCount": 7,
+    "selectedPresets": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/11 1st Violins-6 - VelXF sus.vsynpreset",
+        "entryIndex": 7
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/12 2nd Violins-5 - VelXF sus.vsynpreset",
+        "entryIndex": 8
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/13 Violas-4 - VelXF sus.vsynpreset",
+        "entryIndex": 9
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/14 Violoncellos-4 - VelXF sus.vsynpreset",
+        "entryIndex": 10
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/15 Double basses-3 - VelXF sus.vsynpreset",
+        "entryIndex": 11
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/16 Tutti-22 full range - VelXF sus.vsynpreset",
+        "entryIndex": 12
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/17 Tutti-22 compr. range - VelXF sus.vsynpreset",
+        "entryIndex": 13
+      }
+    ],
+    "allPresetCatalog": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/11 1st Violins (6 players).vsynpreset",
+        "entryIndex": 0
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/12 2nd Violins (5 players).vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/13 Violas (4 players).vsynpreset",
+        "entryIndex": 2
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/14 Violoncellos (4 players).vsynpreset",
+        "entryIndex": 3
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/15 Double basses (3 players).vsynpreset",
+        "entryIndex": 4
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/16 Strings (6-5-4-4-3) full range.vsynpreset",
+        "entryIndex": 5
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/17 Strings (6-5-4-4-3) compressed range.vsynpreset",
+        "entryIndex": 6
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/11 1st Violins-6 - VelXF sus.vsynpreset",
+        "entryIndex": 7
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/12 2nd Violins-5 - VelXF sus.vsynpreset",
+        "entryIndex": 8
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/13 Violas-4 - VelXF sus.vsynpreset",
+        "entryIndex": 9
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/14 Violoncellos-4 - VelXF sus.vsynpreset",
+        "entryIndex": 10
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/15 Double basses-3 - VelXF sus.vsynpreset",
+        "entryIndex": 11
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/16 Tutti-22 full range - VelXF sus.vsynpreset",
+        "entryIndex": 12
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/17 Tutti-22 compr. range - VelXF sus.vsynpreset",
+        "entryIndex": 13
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/11 1st Violins-6 - VelXF.vsynpreset",
+        "entryIndex": 14
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/12 2nd Violins-5 - VelXF.vsynpreset",
+        "entryIndex": 15
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/13 Violas-4 - VelXF.vsynpreset",
+        "entryIndex": 16
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/14 Violoncellos-4 - VelXF.vsynpreset",
+        "entryIndex": 17
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/15 Double basses-3 - VelXF.vsynpreset",
+        "entryIndex": 18
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/16 Tutti-22 full range - VelXF.vsynpreset",
+        "entryIndex": 19
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/17 Tutti-22 compressed range - VelXF.vsynpreset",
+        "entryIndex": 20
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/11 1st Violins-6 - Velocity.vsynpreset",
+        "entryIndex": 21
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/12 2nd Violins-5 - Velocity.vsynpreset",
+        "entryIndex": 22
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/13 Violas-4 - Velocity.vsynpreset",
+        "entryIndex": 23
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/14 Violoncellos-4 - Velocity.vsynpreset",
+        "entryIndex": 24
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/15 Double basses-3 - Velocity.vsynpreset",
+        "entryIndex": 25
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/16 Tutti-22 full range - Velocity.vsynpreset",
+        "entryIndex": 26
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/17 Tutti-22 compressed range - Vel.vsynpreset",
+        "entryIndex": 27
+      }
+    ],
+    "tableLengthMinus4Div24": 24016,
+    "tableFirstLE32": 3316080240
+  },
+  {
+    "volume": "D:\\VSL Libraries\\VSL Synchron Prime Woodwinds\\SY-Prime-Woodwinds.syvolume",
+    "fileSize": 5596306778,
+    "magic": "VINv",
+    "versionBytes": "02000300",
+    "metadataKeys": [
+      "compatibilityVolumeIds",
+      "contentVersion",
+      "creationDate",
+      "description",
+      "flags",
+      "id",
+      "license",
+      "title"
+    ],
+    "contentVersion": 1,
+    "metadataEnd": 995,
+    "opaquePreIndexStart": 995,
+    "unknownRegionEnd": 93408,
+    "indexOffset": 93412,
+    "indexCompressedBytes": 1746,
+    "tableCandidateOffset": 95162,
+    "tableCandidateLength": 935044,
+    "tableCandidateEnd": 1030210,
+    "paddingBeforeData": 1982,
+    "dataStart": 1032192,
+    "dataAligned4096": true,
+    "tableEntropyBitsPerByte": 7.999806,
+    "tableSha256": "555b75170cbd184799a5b4572592feca75d171b8f5700ff8fa4b9682fb7b28c6",
+    "tablePrefixHex": "8197d6494e5183ee951a8beba4184ea99413445528ccf9d8f790550ace0c2122",
+    "tableZstdMagicCount": 0,
+    "tableJSONMarkerCount": 0,
+    "tableDecoders": {
+      "zstd": "Unable to decompress Zstandard data: Unknown frame descriptor",
+      "zlib": "Error -3 while decompressing data: incorrect header check",
+      "gzip": "Error -3 while decompressing data: incorrect header check",
+      "bz2": "Invalid data stream",
+      "xz": "Input format not supported by decoder"
+    },
+    "firstDataLength": 8561,
+    "firstDataPrefixHex": "86aba07ee03a5966355307acaf4552b03a1d9e8d966ccbfcaa4a1f761c9a8099",
+    "indexedEntries": 248,
+    "presetCount": 64,
+    "selectedPresetCount": 16,
+    "selectedPresets": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/01 Piccolo flute - VelXF sus.vsynpreset",
+        "entryIndex": 16
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/02 Flute 1 - VelXF sus.vsynpreset",
+        "entryIndex": 17
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/03 Flute 2 - VelXF sus.vsynpreset",
+        "entryIndex": 18
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/11 Oboe 1 (French) - VelXF sus.vsynpreset",
+        "entryIndex": 19
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/12 Oboe 2 (French) - VelXF sus.vsynpreset",
+        "entryIndex": 20
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/13 English horn - VelXF sus.vsynpreset",
+        "entryIndex": 21
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/21 Clarinet Bb 1 - VelXF sus.vsynpreset",
+        "entryIndex": 22
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/22 Clarinet Bb 2 - VelXF sus.vsynpreset",
+        "entryIndex": 23
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/23 Bass clarinet - VelXF sus.vsynpreset",
+        "entryIndex": 24
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/31 Bassoon 1 - VelXF sus.vsynpreset",
+        "entryIndex": 25
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/32 Bassoon 2 - VelXF sus.vsynpreset",
+        "entryIndex": 26
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/33 Contrabassoon - VelXF sus.vsynpreset",
+        "entryIndex": 27
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/51 Tin whistle - VelXF sus.vsynpreset",
+        "entryIndex": 28
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/52 Bansuri - VelXF sus.vsynpreset",
+        "entryIndex": 29
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/53 Dizi - VelXF sus.vsynpreset",
+        "entryIndex": 30
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/54 Shakuhachi - VelXF sus.vsynpreset",
+        "entryIndex": 31
+      }
+    ],
+    "allPresetCatalog": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/01 Piccolo.vsynpreset",
+        "entryIndex": 0
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/02 Flute 1.vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/03 Flute 2.vsynpreset",
+        "entryIndex": 2
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/11 Oboe 1 (French).vsynpreset",
+        "entryIndex": 3
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/12 Oboe 2 (French).vsynpreset",
+        "entryIndex": 4
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/13 English horn.vsynpreset",
+        "entryIndex": 5
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/21 Clarinet in Bb 1.vsynpreset",
+        "entryIndex": 6
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/22 Clarinet in Bb 2.vsynpreset",
+        "entryIndex": 7
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/23 Bass clarinet.vsynpreset",
+        "entryIndex": 8
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/31 Bassoon 1.vsynpreset",
+        "entryIndex": 9
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/32 Bassoon 2.vsynpreset",
+        "entryIndex": 10
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/33 Contrabassoon.vsynpreset",
+        "entryIndex": 11
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02b World Winds/51 Tin whistle.vsynpreset",
+        "entryIndex": 12
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02b World Winds/52 Bansuri.vsynpreset",
+        "entryIndex": 13
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02b World Winds/53 Dizi.vsynpreset",
+        "entryIndex": 14
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02b World Winds/54 Shakuhachi.vsynpreset",
+        "entryIndex": 15
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/01 Piccolo flute - VelXF sus.vsynpreset",
+        "entryIndex": 16
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/02 Flute 1 - VelXF sus.vsynpreset",
+        "entryIndex": 17
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/03 Flute 2 - VelXF sus.vsynpreset",
+        "entryIndex": 18
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/11 Oboe 1 (French) - VelXF sus.vsynpreset",
+        "entryIndex": 19
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/12 Oboe 2 (French) - VelXF sus.vsynpreset",
+        "entryIndex": 20
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/13 English horn - VelXF sus.vsynpreset",
+        "entryIndex": 21
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/21 Clarinet Bb 1 - VelXF sus.vsynpreset",
+        "entryIndex": 22
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/22 Clarinet Bb 2 - VelXF sus.vsynpreset",
+        "entryIndex": 23
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/23 Bass clarinet - VelXF sus.vsynpreset",
+        "entryIndex": 24
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/31 Bassoon 1 - VelXF sus.vsynpreset",
+        "entryIndex": 25
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/32 Bassoon 2 - VelXF sus.vsynpreset",
+        "entryIndex": 26
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/33 Contrabassoon - VelXF sus.vsynpreset",
+        "entryIndex": 27
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/51 Tin whistle - VelXF sus.vsynpreset",
+        "entryIndex": 28
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/52 Bansuri - VelXF sus.vsynpreset",
+        "entryIndex": 29
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/53 Dizi - VelXF sus.vsynpreset",
+        "entryIndex": 30
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/54 Shakuhachi - VelXF sus.vsynpreset",
+        "entryIndex": 31
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/01 Piccolo flute - VelXF.vsynpreset",
+        "entryIndex": 32
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/02 Flute 1 - VelXF.vsynpreset",
+        "entryIndex": 33
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/03 Flute 2 - VelXF.vsynpreset",
+        "entryIndex": 34
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/11 Oboe 1 (French) - VelXF.vsynpreset",
+        "entryIndex": 35
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/12 Oboe 2 (French) - VelXF.vsynpreset",
+        "entryIndex": 36
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/13 English horn - VelXF.vsynpreset",
+        "entryIndex": 37
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/21 Clarinet Bb 1 - VelXF.vsynpreset",
+        "entryIndex": 38
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/22 Clarinet Bb 2 - VelXF.vsynpreset",
+        "entryIndex": 39
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/23 Bass clarinet - VelXF.vsynpreset",
+        "entryIndex": 40
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/31 Bassoon 1 - VelXF.vsynpreset",
+        "entryIndex": 41
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/32 Bassoon 2 - VelXF.vsynpreset",
+        "entryIndex": 42
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/33 Contrabassoon - VelXF.vsynpreset",
+        "entryIndex": 43
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/51 Tin whistle - VelXF.vsynpreset",
+        "entryIndex": 44
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/52 Bansuri - VelXF.vsynpreset",
+        "entryIndex": 45
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/53 Dizi - VelXF.vsynpreset",
+        "entryIndex": 46
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/54 Shakuhachi - VelXF.vsynpreset",
+        "entryIndex": 47
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/01 Piccolo flute - Velocity.vsynpreset",
+        "entryIndex": 48
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/02 Flute 1 - Velocity.vsynpreset",
+        "entryIndex": 49
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/03 Flute 2 - Velocity.vsynpreset",
+        "entryIndex": 50
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/11 Oboe 1 (French) - Velocity.vsynpreset",
+        "entryIndex": 51
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/12 Oboe 2 (French) - Velocity.vsynpreset",
+        "entryIndex": 52
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/13 English horn - Velocity.vsynpreset",
+        "entryIndex": 53
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/21 Clarinet Bb 1 - Velocity.vsynpreset",
+        "entryIndex": 54
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/22 Clarinet Bb 2 - Velocity.vsynpreset",
+        "entryIndex": 55
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/23 Bass clarinet - Velocity.vsynpreset",
+        "entryIndex": 56
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/31 Bassoon 1 - Velocity.vsynpreset",
+        "entryIndex": 57
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/32 Bassoon 2 - Velocity.vsynpreset",
+        "entryIndex": 58
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/33 Contrabassoon - Velocity.vsynpreset",
+        "entryIndex": 59
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/51 Tin whistle - Velocity.vsynpreset",
+        "entryIndex": 60
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/52 Bansuri - Velocity.vsynpreset",
+        "entryIndex": 61
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/53 Dizi - Velocity.vsynpreset",
+        "entryIndex": 62
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/54 Shakuhachi - Velocity.vsynpreset",
+        "entryIndex": 63
+      }
+    ],
+    "tableLengthMinus4Div24": 38960,
+    "tableFirstLE32": 1238800257
+  }
+]

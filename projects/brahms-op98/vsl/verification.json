@@ -1,0 +1,33 @@
+{
+  "sourceSha256": {
+    "Flute": "ee7a01d08fdb68b004281d686b395955acb3ca3c7ca84e44e77c3bf2abf64a6f",
+    "vln1": "c501a9c20e40ceb5a7fd490de0a6a1d85e3655e9e9b02f25cea4b1dcafa31eb2"
+  },
+  "originalsUnchanged": true,
+  "exactViolinTransplantByteMatch": true,
+  "flute2PatchEntriesConfirmed": [
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/01P FL2 Staccato Short.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/02P FL2 Staccato Short agile.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/03P FL2 Portato.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/04P FL2 Portato agile.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/11P FL2 Long noVib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/12P FL2 Long Vib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/11P FL2 Long noVib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/12P FL2 Long Vib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/21P FL2 Legato noVib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/22P FL2 Legato Vib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/21P FL2 Legato noVib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/22P FL2 Legato Vib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/15P FL2 Long sfz noVib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/17P FL2 Long sfz Vib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/16P FL2 Long sffz noVib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/18P FL2 Long sffz Vib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/15P FL2 Long sfz noVib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/17P FL2 Long sfz Vib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/16P FL2 Long sffz noVib.vsynpatch",
+    "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/03 Flute 2/18P FL2 Long sffz Vib.vsynpatch"
+  ],
+  "compressedStateRoundtrip": true,
+  "runtimeAuditionPerformed": false,
+  "warning": "Flute2 retains Flute1 mixer positioning and range; copied preset metadata does not itself trigger loading. Runtime load/audio still requires validation."
+}

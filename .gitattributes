@@ -1,2 +1,29 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Binary assets: never normalize, never diff as text
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.wav  binary
+*.mp3  binary
+*.mp4  binary
+*.zip  binary
+*.mid  binary
+*.flac binary
+
+# Host project files and score sources keep their exact bytes
+*.RPP  -text
+*.rpp  -text
+*.mscx -text
+*.mscz -text
+*.rpp-bak -text
+
+# Text sources
+*.md   -text
+*.py   text eol=lf
+*.json text eol=lf
+*.html -text
+*.txt  text eol=lf
+*.sh   text eol=lf

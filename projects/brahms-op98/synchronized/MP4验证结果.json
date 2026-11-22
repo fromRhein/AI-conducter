@@ -1,0 +1,35 @@
+{
+  "resolution": [
+    3840,
+    2160
+  ],
+  "frame_rate": "30/1",
+  "variable_frame_rate": true,
+  "maximum_transition_error_seconds": 0.016684282271057782,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "duration": "329.061438",
+  "bytes": 25274524,
+  "verified_visual_states": 201,
+  "maximum_scaled_pixel_MAE": 2.0520241260528564,
+  "audio_waveform_correlations": [
+    {
+      "seconds": 10,
+      "correlation": 0.9999788388939829
+    },
+    {
+      "seconds": 100,
+      "correlation": 0.9999855477248646
+    },
+    {
+      "seconds": 250,
+      "correlation": 0.999986032116487
+    },
+    {
+      "seconds": 320,
+      "correlation": 0.9999916950660173
+    }
+  ],
+  "method": "Full video decoded; each measure/pre-roll/tail frame compared with its planned image. Audio compared with final WAV at four timestamps."
+}

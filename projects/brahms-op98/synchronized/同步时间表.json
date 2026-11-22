@@ -1,0 +1,1350 @@
+{
+  "pages": [
+    {
+      "page": 76,
+      "start": 108,
+      "systems": [
+        {
+          "start": 108,
+          "y": 53.0,
+          "time": 0.8333333333333334
+        },
+        {
+          "start": 113,
+          "y": 390.0,
+          "time": 0.8333333333333334
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "Physical PDF p76, printed322. Fresh WinRT OCR at3x and7x reads108; tight second-system crop reads113, rehearsalE per task. Corrects provisional107. ALL y values in this file are approximate measure-label tops in original PDF points from page top (page684.24x864), not normalized coordinates; measure numbers are exact.",
+      "time": 0.8333333333333334,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 77,
+      "start": 120,
+      "systems": [
+        {
+          "start": 120,
+          "y": 68.0,
+          "time": 24.07623984573997
+        }
+      ],
+      "confidence": "exact_bar_count",
+      "evidence": "Raw label OCR420 has an overlapped first glyph. Six measure-ending vertical barlines measured at x230.5,313.5,402,481.5,553,638.5 PDF points over y80–790 on2x render. Following p78 independently reads126, so126−6=120. Explicit bar counting, not interpolation.",
+      "time": 24.07623984573997,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 78,
+      "start": 126,
+      "systems": [
+        {
+          "start": 126,
+          "y": 56.1,
+          "time": 44.1122009347077
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer126 at x81.5,y56.1 independently confirmed by fresh5x WinRT OCR.",
+      "time": 44.1122009347077,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 79,
+      "start": 137,
+      "systems": [
+        {
+          "start": 137,
+          "y": 68.5,
+          "time": 70.76350847581884
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer137 at x85.9,y68.5 independently confirmed by fresh5x WinRT OCR.",
+      "time": 70.76350847581884,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 80,
+      "start": 149,
+      "systems": [
+        {
+          "start": 149,
+          "y": 58.0,
+          "time": 89.48018762835478
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer149 at x79.2,y58. Fresh tight padded6x crop[77,57,99,72] confirms149; broad OCR had omitted initial1.",
+      "time": 89.48018762835478,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 81,
+      "start": 157,
+      "systems": [
+        {
+          "start": 157,
+          "y": 57.4,
+          "time": 101.86985139208711
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer157 at x78.7,y57.4 independently confirmed by fresh5x WinRT OCR.",
+      "time": 101.86985139208711,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 82,
+      "start": 163,
+      "systems": [
+        {
+          "start": 163,
+          "y": 58.3,
+          "time": 111.02980897689065
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "Text layer misses label. Fresh broad3x and tight4x crop[86,54,115,69] both read163. Provisional163 is now independently anchored.",
+      "time": 111.02980897689065,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 83,
+      "start": 169,
+      "systems": [
+        {
+          "start": 169,
+          "y": 61.4,
+          "time": 120.11714503396337
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer169 at x79.2,y61.4 independently confirmed by fresh5x WinRT OCR.",
+      "time": 120.11714503396337,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 84,
+      "start": 175,
+      "systems": [
+        {
+          "start": 175,
+          "y": 56.9,
+          "time": 129.11714503396337
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer175 at x89.8,y56.9 independently confirmed by fresh5x WinRT OCR.",
+      "time": 129.11714503396337,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 85,
+      "start": 180,
+      "systems": [
+        {
+          "start": 180,
+          "y": 38.6,
+          "time": 136.78469721819363
+        },
+        {
+          "start": 187,
+          "y": 407.5,
+          "time": 147.48335128227106
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text layer gives180 and187. Fresh5x OCR confirms180; tight padded6x crop[83,407,105,423] confirms187.",
+      "time": 136.78469721819363,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 86,
+      "start": 193,
+      "systems": [
+        {
+          "start": 193,
+          "y": 54.6,
+          "time": 156.5763142029779
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "Text layer misses label. Tight crop[75,48,105,65] at4x and7x independently reads193. Corrects provisional190.",
+      "time": 156.5763142029779,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 87,
+      "start": 201,
+      "systems": [
+        {
+          "start": 201,
+          "y": 61.3,
+          "time": 168.61471005245238
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer201 at x85.2,y61.3 independently confirmed by fresh5x WinRT OCR.",
+      "time": 168.61471005245238,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 88,
+      "start": 209,
+      "systems": [
+        {
+          "start": 209,
+          "y": 57.6,
+          "time": 180.63819150394855
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer209 at x84.7,y57.6 independently confirmed by fresh5x WinRT OCR.",
+      "time": 180.63819150394855,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 89,
+      "start": 215,
+      "systems": [
+        {
+          "start": 215,
+          "y": 46.0,
+          "time": 190.01562418260266
+        },
+        {
+          "start": 223,
+          "y": 451.5,
+          "time": 202.64661294323477
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer215 at x79.7,y46 and223 at x82.1,y451.5. Fresh5x OCR confirms215. Second-system OCR only partly recognizes223; independently measured7 bar endings x168.2,233.2,311.2,389.2,468.2,544.8,632.2 PDF points (vertical projection y470–790 at2x) to next page230 confirm230−7=223.",
+      "time": 190.01562418260266,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 90,
+      "start": 230,
+      "systems": [
+        {
+          "start": 230,
+          "y": 44.0,
+          "time": 213.65514154313385
+        },
+        {
+          "start": 237,
+          "y": 393.0,
+          "time": 224.6287150453993
+        }
+      ],
+      "confidence": "exact_bar_count",
+      "evidence": "First-system OCR garbled. Fresh padded threshold100 crop[75,380,130,407] at5x reads second-system237. First system has7 measure-ending barlines x192,277,356,426,497.5,567,637 PDF points (vertical projection y55–375 at2x), giving237−7=230. Second system has8 endings x164.5,223.5,283.5,342.5,415,487,561,636, agreeing with following printed245. Explicit bar count, not interpolation.",
+      "time": 213.65514154313385,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 91,
+      "start": 245,
+      "systems": [
+        {
+          "start": 245,
+          "y": 54.8,
+          "time": 237.15800910139458
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer245 at x77,y54.8 independently confirmed by fresh5x WinRT OCR.",
+      "time": 237.15800910139458,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 92,
+      "start": 253,
+      "systems": [
+        {
+          "start": 253,
+          "y": 66.3,
+          "time": 250.82928590601693
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text layer incorrectly reads263. Fresh broad3x and tight crop[89,62,112,78] at4x and7x all read253. Piu Allegro marks this system. Use253, not defective text token263.",
+      "time": 250.82928590601693,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 93,
+      "start": 261,
+      "systems": [
+        {
+          "start": 261,
+          "y": 64.3,
+          "time": 260.752732014392
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "Text layer misses label. Fresh broad3x and tight crop[75,60,99,77] at4x and7x all read261. Provisional261 now independently anchored.",
+      "time": 260.752732014392,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 94,
+      "start": 269,
+      "systems": [
+        {
+          "start": 269,
+          "y": 66.1,
+          "time": 270.6157457130205
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer269 at x92.9,y66.1 independently confirmed by fresh5x WinRT OCR.",
+      "time": 270.6157457130205,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 95,
+      "start": 277,
+      "systems": [
+        {
+          "start": 277,
+          "y": 56.7,
+          "time": 280.4118842751325
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer277 at x78,y56.7 independently confirmed by fresh5x WinRT OCR.",
+      "time": 280.4118842751325,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 96,
+      "start": 285,
+      "systems": [
+        {
+          "start": 285,
+          "y": 53.9,
+          "time": 290.2004159202097
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer285 at x93.1,y53.9 independently confirmed by fresh5x WinRT OCR.",
+      "time": 290.2004159202097,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 97,
+      "start": 292,
+      "systems": [
+        {
+          "start": 292,
+          "y": 56.8,
+          "time": 298.7139294337235
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer292 at x88.8,y56.8 independently confirmed by fresh5x WinRT OCR.",
+      "time": 298.7139294337235,
+      "width": 994.239990234375,
+      "height": 936.0
+    },
+    {
+      "page": 98,
+      "start": 302,
+      "systems": [
+        {
+          "start": 302,
+          "y": 52.2,
+          "time": 310.96676784067125
+        }
+      ],
+      "confidence": "exact_ocr",
+      "evidence": "PDF text-layer302 at x81.8,y52.2 independently confirmed by tight padded6x crop[80,52,101,68].",
+      "time": 310.96676784067125,
+      "width": 994.239990234375,
+      "height": 936.0
+    }
+  ],
+  "bars": [
+    {
+      "bar": 113,
+      "time": 0.8333333333333334
+    },
+    {
+      "bar": 114,
+      "time": 4.161295791458681
+    },
+    {
+      "bar": 115,
+      "time": 7.4646781955616985
+    },
+    {
+      "bar": 116,
+      "time": 10.743257930985171
+    },
+    {
+      "bar": 117,
+      "time": 14.022131428327192
+    },
+    {
+      "bar": 118,
+      "time": 17.332601578914925
+    },
+    {
+      "bar": 119,
+      "time": 20.68741692011108
+    },
+    {
+      "bar": 120,
+      "time": 24.07623984573997
+    },
+    {
+      "bar": 121,
+      "time": 27.442178844455107
+    },
+    {
+      "bar": 122,
+      "time": 30.77014130258045
+    },
+    {
+      "bar": 123,
+      "time": 34.073523706683474
+    },
+    {
+      "bar": 124,
+      "time": 37.352103442106944
+    },
+    {
+      "bar": 125,
+      "time": 40.653728139751664
+    },
+    {
+      "bar": 126,
+      "time": 44.1122009347077
+    },
+    {
+      "bar": 127,
+      "time": 47.93936268829735
+    },
+    {
+      "bar": 128,
+      "time": 52.44244373525
+    },
+    {
+      "bar": 129,
+      "time": 58.24244373525004
+    },
+    {
+      "bar": 130,
+      "time": 59.794513288398676
+    },
+    {
+      "bar": 131,
+      "time": 61.34865057762442
+    },
+    {
+      "bar": 132,
+      "time": 62.90646582374584
+    },
+    {
+      "bar": 133,
+      "time": 64.4689558405932
+    },
+    {
+      "bar": 134,
+      "time": 66.03649498805058
+    },
+    {
+      "bar": 135,
+      "time": 67.6088205489751
+    },
+    {
+      "bar": 136,
+      "time": 69.18501756668434
+    },
+    {
+      "bar": 137,
+      "time": 70.76350847581884
+    },
+    {
+      "bar": 138,
+      "time": 72.34199340405536
+    },
+    {
+      "bar": 139,
+      "time": 73.91776019383238
+    },
+    {
+      "bar": 140,
+      "time": 75.48885677760606
+    },
+    {
+      "bar": 141,
+      "time": 77.05431738379757
+    },
+    {
+      "bar": 142,
+      "time": 78.61414233887618
+    },
+    {
+      "bar": 143,
+      "time": 80.16927207315855
+    },
+    {
+      "bar": 144,
+      "time": 81.72156693869955
+    },
+    {
+      "bar": 145,
+      "time": 83.2732910766306
+    },
+    {
+      "bar": 146,
+      "time": 84.82501521456165
+    },
+    {
+      "bar": 147,
+      "time": 86.37673935249269
+    },
+    {
+      "bar": 148,
+      "time": 87.92846349042374
+    },
+    {
+      "bar": 149,
+      "time": 89.48018762835478
+    },
+    {
+      "bar": 150,
+      "time": 91.03191176628583
+    },
+    {
+      "bar": 151,
+      "time": 92.58363590421688
+    },
+    {
+      "bar": 152,
+      "time": 94.13536004214792
+    },
+    {
+      "bar": 153,
+      "time": 95.68708418007897
+    },
+    {
+      "bar": 154,
+      "time": 97.23836168241367
+    },
+    {
+      "bar": 155,
+      "time": 98.78701385149215
+    },
+    {
+      "bar": 156,
+      "time": 100.33115491281316
+    },
+    {
+      "bar": 157,
+      "time": 101.86985139208711
+    },
+    {
+      "bar": 158,
+      "time": 103.4031029437197
+    },
+    {
+      "bar": 159,
+      "time": 104.93181766730072
+    },
+    {
+      "bar": 160,
+      "time": 106.45779293515358
+    },
+    {
+      "bar": 161,
+      "time": 107.98304986357094
+    },
+    {
+      "bar": 162,
+      "time": 109.50731061100919
+    },
+    {
+      "bar": 163,
+      "time": 111.02980897689065
+    },
+    {
+      "bar": 164,
+      "time": 112.55008489591357
+    },
+    {
+      "bar": 165,
+      "time": 114.06798225711636
+    },
+    {
+      "bar": 166,
+      "time": 115.58364550331491
+    },
+    {
+      "bar": 167,
+      "time": 117.0975162168506
+    },
+    {
+      "bar": 168,
+      "time": 118.61033086466622
+    },
+    {
+      "bar": 169,
+      "time": 120.11714503396337
+    },
+    {
+      "bar": 170,
+      "time": 121.61714503396337
+    },
+    {
+      "bar": 171,
+      "time": 123.11714503396337
+    },
+    {
+      "bar": 172,
+      "time": 124.61714503396337
+    },
+    {
+      "bar": 173,
+      "time": 126.11714503396337
+    },
+    {
+      "bar": 174,
+      "time": 127.61714503396337
+    },
+    {
+      "bar": 175,
+      "time": 129.11714503396337
+    },
+    {
+      "bar": 176,
+      "time": 130.61714503396337
+    },
+    {
+      "bar": 177,
+      "time": 132.14062648545953
+    },
+    {
+      "bar": 178,
+      "time": 133.69190398779423
+    },
+    {
+      "bar": 179,
+      "time": 135.2405561568727
+    },
+    {
+      "bar": 180,
+      "time": 136.78469721819363
+    },
+    {
+      "bar": 181,
+      "time": 138.32339369746762
+    },
+    {
+      "bar": 182,
+      "time": 139.85664524910024
+    },
+    {
+      "bar": 183,
+      "time": 141.38535997268127
+    },
+    {
+      "bar": 184,
+      "time": 142.91133524053413
+    },
+    {
+      "bar": 185,
+      "time": 144.43659216895142
+    },
+    {
+      "bar": 186,
+      "time": 145.96085291638965
+    },
+    {
+      "bar": 187,
+      "time": 147.48335128227106
+    },
+    {
+      "bar": 188,
+      "time": 149.00362720129402
+    },
+    {
+      "bar": 189,
+      "time": 150.5215245624968
+    },
+    {
+      "bar": 190,
+      "time": 152.0371878086954
+    },
+    {
+      "bar": 191,
+      "time": 153.55105852223107
+    },
+    {
+      "bar": 192,
+      "time": 155.06387317004666
+    },
+    {
+      "bar": 193,
+      "time": 156.5763142029779
+    },
+    {
+      "bar": 194,
+      "time": 158.08777571914496
+    },
+    {
+      "bar": 195,
+      "time": 159.59750430917654
+    },
+    {
+      "bar": 196,
+      "time": 161.10504754966001
+    },
+    {
+      "bar": 197,
+      "time": 162.61025187680752
+    },
+    {
+      "bar": 198,
+      "time": 164.113259270707
+    },
+    {
+      "bar": 199,
+      "time": 165.6145039259318
+    },
+    {
+      "bar": 200,
+      "time": 167.11471005245238
+    },
+    {
+      "bar": 201,
+      "time": 168.61471005245238
+    },
+    {
+      "bar": 202,
+      "time": 170.11471005245238
+    },
+    {
+      "bar": 203,
+      "time": 171.61471005245238
+    },
+    {
+      "bar": 204,
+      "time": 173.11471005245238
+    },
+    {
+      "bar": 205,
+      "time": 174.61471005245238
+    },
+    {
+      "bar": 206,
+      "time": 176.11471005245238
+    },
+    {
+      "bar": 207,
+      "time": 177.61471005245238
+    },
+    {
+      "bar": 208,
+      "time": 179.11471005245238
+    },
+    {
+      "bar": 209,
+      "time": 180.63819150394855
+    },
+    {
+      "bar": 210,
+      "time": 182.19036275205298
+    },
+    {
+      "bar": 211,
+      "time": 183.7451725900299
+    },
+    {
+      "bar": 212,
+      "time": 185.30455756795766
+    },
+    {
+      "bar": 213,
+      "time": 186.86953538688877
+    },
+    {
+      "bar": 214,
+      "time": 188.44018570256821
+    },
+    {
+      "bar": 215,
+      "time": 190.01562418260266
+    },
+    {
+      "bar": 216,
+      "time": 191.59398136428828
+    },
+    {
+      "bar": 217,
+      "time": 193.1729287327092
+    },
+    {
+      "bar": 218,
+      "time": 194.75187610113014
+    },
+    {
+      "bar": 219,
+      "time": 196.33082346955106
+    },
+    {
+      "bar": 220,
+      "time": 197.909770837972
+    },
+    {
+      "bar": 221,
+      "time": 199.48871820639292
+    },
+    {
+      "bar": 222,
+      "time": 201.06766557481384
+    },
+    {
+      "bar": 223,
+      "time": 202.64661294323477
+    },
+    {
+      "bar": 224,
+      "time": 204.2255603116557
+    },
+    {
+      "bar": 225,
+      "time": 205.80450768007663
+    },
+    {
+      "bar": 226,
+      "time": 207.3829926083131
+    },
+    {
+      "bar": 227,
+      "time": 208.95875939809014
+    },
+    {
+      "bar": 228,
+      "time": 210.52985598186376
+    },
+    {
+      "bar": 229,
+      "time": 212.09531658805523
+    },
+    {
+      "bar": 230,
+      "time": 213.65514154313385
+    },
+    {
+      "bar": 231,
+      "time": 215.21027127741618
+    },
+    {
+      "bar": 232,
+      "time": 216.76256614295718
+    },
+    {
+      "bar": 233,
+      "time": 218.31429028088823
+    },
+    {
+      "bar": 234,
+      "time": 219.86860884613083
+    },
+    {
+      "bar": 235,
+      "time": 221.43690192034046
+    },
+    {
+      "bar": 236,
+      "time": 223.02508133587818
+    },
+    {
+      "bar": 237,
+      "time": 224.6287150453993
+    },
+    {
+      "bar": 238,
+      "time": 226.23350941417993
+    },
+    {
+      "bar": 239,
+      "time": 227.82700544795708
+    },
+    {
+      "bar": 240,
+      "time": 229.40883270711018
+    },
+    {
+      "bar": 241,
+      "time": 230.9752418893865
+    },
+    {
+      "bar": 242,
+      "time": 232.5265193917212
+    },
+    {
+      "bar": 243,
+      "time": 234.07517156079967
+    },
+    {
+      "bar": 244,
+      "time": 235.6193126221206
+    },
+    {
+      "bar": 245,
+      "time": 237.15800910139458
+    },
+    {
+      "bar": 246,
+      "time": 238.6912606530272
+    },
+    {
+      "bar": 247,
+      "time": 240.21997537660823
+    },
+    {
+      "bar": 248,
+      "time": 241.7459506444611
+    },
+    {
+      "bar": 249,
+      "time": 243.2713743732746
+    },
+    {
+      "bar": 250,
+      "time": 244.8599266357886
+    },
+    {
+      "bar": 251,
+      "time": 246.61892552001112
+    },
+    {
+      "bar": 252,
+      "time": 248.63416395479737
+    },
+    {
+      "bar": 253,
+      "time": 250.82928590601693
+    },
+    {
+      "bar": 254,
+      "time": 252.07899604544912
+    },
+    {
+      "bar": 255,
+      "time": 253.327001721687
+    },
+    {
+      "bar": 256,
+      "time": 254.57207605399608
+    },
+    {
+      "bar": 257,
+      "time": 255.81360811247285
+    },
+    {
+      "bar": 258,
+      "time": 257.05159289404196
+    },
+    {
+      "bar": 259,
+      "time": 258.2866183567072
+    },
+    {
+      "bar": 260,
+      "time": 259.51985530206343
+    },
+    {
+      "bar": 261,
+      "time": 260.752732014392
+    },
+    {
+      "bar": 262,
+      "time": 261.98560872672056
+    },
+    {
+      "bar": 263,
+      "time": 263.2184854390491
+    },
+    {
+      "bar": 264,
+      "time": 264.4513621513777
+    },
+    {
+      "bar": 265,
+      "time": 265.68423886370624
+    },
+    {
+      "bar": 266,
+      "time": 266.9171155760348
+    },
+    {
+      "bar": 267,
+      "time": 268.14999228836336
+    },
+    {
+      "bar": 268,
+      "time": 269.3828690006919
+    },
+    {
+      "bar": 269,
+      "time": 270.6157457130205
+    },
+    {
+      "bar": 270,
+      "time": 271.8483404501225
+    },
+    {
+      "bar": 271,
+      "time": 273.0792770558169
+    },
+    {
+      "bar": 272,
+      "time": 274.307361857372
+    },
+    {
+      "bar": 273,
+      "time": 275.5320002612494
+    },
+    {
+      "bar": 274,
+      "time": 276.75318713531186
+    },
+    {
+      "bar": 275,
+      "time": 277.97149436522744
+    },
+    {
+      "bar": 276,
+      "time": 279.18806114188146
+    },
+    {
+      "bar": 277,
+      "time": 280.4118842751325
+    },
+    {
+      "bar": 278,
+      "time": 281.6444790122345
+    },
+    {
+      "bar": 279,
+      "time": 282.87541561792887
+    },
+    {
+      "bar": 280,
+      "time": 284.10350041948396
+    },
+    {
+      "bar": 281,
+      "time": 285.32813882336137
+    },
+    {
+      "bar": 282,
+      "time": 286.54932569742385
+    },
+    {
+      "bar": 283,
+      "time": 287.76763292733943
+    },
+    {
+      "bar": 284,
+      "time": 288.98419970399345
+    },
+    {
+      "bar": 285,
+      "time": 290.2004159202097
+    },
+    {
+      "bar": 286,
+      "time": 291.41663213642596
+    },
+    {
+      "bar": 287,
+      "time": 292.6328483526422
+    },
+    {
+      "bar": 288,
+      "time": 293.84906456885847
+    },
+    {
+      "bar": 289,
+      "time": 295.0652807850747
+    },
+    {
+      "bar": 290,
+      "time": 296.281497001291
+    },
+    {
+      "bar": 291,
+      "time": 297.4977132175072
+    },
+    {
+      "bar": 292,
+      "time": 298.7139294337235
+    },
+    {
+      "bar": 293,
+      "time": 299.9303144681795
+    },
+    {
+      "bar": 294,
+      "time": 301.1477207805841
+    },
+    {
+      "bar": 295,
+      "time": 302.3669765809485
+    },
+    {
+      "bar": 296,
+      "time": 303.58864452495584
+    },
+    {
+      "bar": 297,
+      "time": 304.81301963355673
+    },
+    {
+      "bar": 298,
+      "time": 306.04012530618223
+    },
+    {
+      "bar": 299,
+      "time": 307.2697086061227
+    },
+    {
+      "bar": 300,
+      "time": 308.50123604325836
+    },
+    {
+      "bar": 301,
+      "time": 309.7338911283427
+    },
+    {
+      "bar": 302,
+      "time": 310.96676784067125
+    },
+    {
+      "bar": 303,
+      "time": 312.2012812947052
+    },
+    {
+      "bar": 304,
+      "time": 313.44459204497565
+    },
+    {
+      "bar": 305,
+      "time": 314.70036842690587
+    },
+    {
+      "bar": 306,
+      "time": 315.9657893436881
+    },
+    {
+      "bar": 307,
+      "time": 317.25010017261474
+    },
+    {
+      "bar": 308,
+      "time": 318.5576202782195
+    },
+    {
+      "bar": 309,
+      "time": 319.87710617089476
+    },
+    {
+      "bar": 310,
+      "time": 321.2282789688379
+    },
+    {
+      "bar": 311,
+      "time": 322.6328642561927
+    },
+    {
+      "bar": 312,
+      "time": 324.0614356847638
+    }
+  ],
+  "notes": [
+    {
+      "movement": 4,
+      "start": 113,
+      "end": 120,
+      "kind": "orchestration",
+      "title": "第14变奏",
+      "text": "第一、第二及低音长号进入宽阔二分、四分的和声句，巴松相应参与；中提琴、大提琴有八分分解活动。 E大调圣咏性音响；静态和声表层下仍有流动与变和弦。 “圣咏”描述宽阔和声节奏与音色，不等于已经识别某首教会旋律引文。"
+    },
+    {
+      "movement": 4,
+      "start": 121,
+      "end": 128,
+      "kind": "theme",
+      "title": "第15变奏",
+      "text": "长号句再展开，小号在121、123—124等参与；弦乐分解音型、下降连接，128出现减速编码。 大调光亮受半音变化侵蚀；128作为大段铰链而非简单稳定终止。"
+    },
+    {
+      "movement": 4,
+      "start": 129,
+      "end": 136,
+      "kind": "theme",
+      "title": "第16变奏",
+      "text": "3/4、一升号恢复；长笛八个附点二分完全复现原主题音高，管乐和声重现；弦乐随后插入。 具有再现性但和声低音改写；不是复制粘贴开头。 长笛恢复开头八音，但低音改变：具有再现功能，绝非照抄原先八小节。"
+    },
+    {
+      "movement": 4,
+      "start": 137,
+      "end": 144,
+      "kind": "theme",
+      "title": "第17变奏",
+      "text": "长笛、双簧管、巴松以四分为主，弦乐较长线条互答；铜管及低音提琴撤开。 主题重现后重新减轻，避免从此单向渐强。"
+    },
+    {
+      "movement": 4,
+      "start": 145,
+      "end": 152,
+      "kind": "theme",
+      "title": "第18变奏",
+      "text": "木管、弦乐四分与二分交错，低音巴松、圆号、长号加强；小号与定音鼓休止。 对位层增多，小调循环更具推动性。"
+    },
+    {
+      "movement": 4,
+      "start": 153,
+      "end": 160,
+      "kind": "theme",
+      "title": "第19变奏",
+      "text": "木管和上弦八分型对着低弦、长号四分层；圆号参与短动机。 节奏层级清晰，不同声部不是同一种切分的齐奏。"
+    },
+    {
+      "movement": 4,
+      "start": 161,
+      "end": 168,
+      "kind": "orchestration",
+      "title": "第20变奏",
+      "text": "上三组弦乐密集八分三连音；管乐有较长音及局部三连音，长号作重节点。 三分流动放大而拍号仍3/4，造成更高持续张力。"
+    },
+    {
+      "movement": 4,
+      "start": 169,
+      "end": 176,
+      "kind": "orchestration",
+      "title": "第21变奏",
+      "text": "第一小提琴、长笛等有三十二分急速音群；铜管、定音鼓与低音长音／四分形成块状支柱。 音群与柱式和声的冲撞把发展推向一处峰值。"
+    },
+    {
+      "movement": 4,
+      "start": 177,
+      "end": 184,
+      "kind": "theme",
+      "title": "第22变奏",
+      "text": "前一高潮的边界音后，管弦大量八分与三连分组；重铜管不再持续。 密度与音量重新分配，细分动力继续而重量减轻。"
+    },
+    {
+      "movement": 4,
+      "start": 185,
+      "end": 192,
+      "kind": "theme",
+      "title": "第23变奏",
+      "text": "木管和小提琴多三连音，圆号、小号和定音鼓突出较长节点；低弦八分推进。 在持续流动中组织新的属功能压力。"
+    },
+    {
+      "movement": 4,
+      "start": 193,
+      "end": 200,
+      "kind": "theme",
+      "title": "第24变奏",
+      "text": "圆号、小号、定音鼓四分／八分节型呼应第1变奏；中低弦三连音、长号每小节节点。 旧节奏材料的回忆与新的运动背景叠合，形成再现关联。"
+    },
+    {
+      "movement": 4,
+      "start": 201,
+      "end": 208,
+      "kind": "theme",
+      "title": "第25变奏",
+      "text": "长笛、单簧管、铜管的八分三连分组，对置双簧管、巴松和上弦四分层。 满编制中的节奏错层，避免把高潮解释成纯和弦齐奏。"
+    },
+    {
+      "movement": 4,
+      "start": 209,
+      "end": 216,
+      "kind": "theme",
+      "title": "第26变奏",
+      "text": "长笛和单簧管退场；双簧管、圆号留下旋律／和声，弦乐三连音活跃，低音较慢。 局部C自然音显著，色彩向降六级区域打开；仍须听作E小调总体中的游移。"
+    },
+    {
+      "movement": 4,
+      "start": 217,
+      "end": 224,
+      "kind": "orchestration",
+      "title": "第27变奏",
+      "text": "中提琴、大提琴八分流动；上弦和木管主要长音，铜管大体休止。 运动重心降低至中低音，形成尾声前最后的内向波段。"
+    },
+    {
+      "movement": 4,
+      "start": 225,
+      "end": 232,
+      "kind": "orchestration",
+      "title": "第28变奏",
+      "text": "第一小提琴、中提琴三连音；长笛、单簧管、巴松较疏的旋律回应；第二小提琴整段休止。 不对称配器产生透明而不安定的织体，和声方向渐收紧。"
+    },
+    {
+      "movement": 4,
+      "start": 233,
+      "end": 240,
+      "kind": "theme",
+      "title": "第29变奏",
+      "text": "前四小节弦乐分解短型，后四小节低弦退去；长笛达到高F♯，圆号与木管长音／四分接续。 空间突然抽空与高音停驻相结合，积累最后一次回旋力量。"
+    },
+    {
+      "movement": 4,
+      "start": 241,
+      "end": 248,
+      "kind": "theme",
+      "title": "第30变奏",
+      "text": "中提琴、木管和圆号八分和弦短击；外侧弦乐、低音巴松较强四分运动；长号休止。 八小节循环的最后完整核心；力度压力没有靠所有铜管同时叠满。"
+    },
+    {
+      "movement": 4,
+      "start": 249,
+      "end": 252,
+      "kind": "form",
+      "title": "扩展",
+      "text": "E中心持续音与弦乐切分延长，251—252低层出现C，252上方G升为G♯；减速。 周期外增四小节，准备进入新和声照明下的主题片段。 8+30×8+4+59=311。可把这四小节计作广义尾声，或第30变奏的扩展。"
+    },
+    {
+      "movement": 4,
+      "start": 253,
+      "end": 311,
+      "kind": "form",
+      "title": "快速尾声",
+      "text": "Più Allegro；管乐长音、弦乐急速分解与强奏交替，最终全乐队终止。 从规则变奏转为自由扩展、压缩与终止性强调。 Più Allegro后不再强行每八小节编号。m309—310属至主、m311再击，终止坚持e小调。"
+    }
+  ],
+  "duration": 329.0614375,
+  "musicEnd": 324.0614356847638
+}

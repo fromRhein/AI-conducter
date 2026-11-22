@@ -1,0 +1,21 @@
+{
+  "source_sha256": "86cfe9bb17d02981cf1f9a914e29a9de67cb1d6516035ce4d7d4e06038c0d218",
+  "source_pages": 39,
+  "annotated_pdf_pages": 40,
+  "report_pages": 14,
+  "text_highlights": 19,
+  "note_highlights": 0,
+  "pages_with_cues": [
+    1,
+    6,
+    13,
+    14,
+    18,
+    19,
+    27,
+    34
+  ],
+  "max_mean_render_difference_without_annotations": 0.0009481113120353627,
+  "sidebar_max_y": 1011.4209594726562,
+  "visual_note_proofreading": false
+}

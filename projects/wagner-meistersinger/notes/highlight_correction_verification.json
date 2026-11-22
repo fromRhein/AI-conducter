@@ -1,0 +1,9 @@
+{
+  "pages_checked": 39,
+  "annotations_checked": 156,
+  "quad_roundtrip_tolerance_pt": 0.001,
+  "max_staff_line_fit_residual_pt": 1.0500000000000114,
+  "source_image_mean_abs_difference_max": 0.0009481113120353627,
+  "visual_review": false,
+  "method": "Five-line raster groups, local slope fitting; removed OCR-positioned annotations"
+}

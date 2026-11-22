@@ -1,0 +1,34 @@
+[
+  {
+    "name": "11_Horn2_staff6_aux_E1",
+    "target_midi_pitch": 28,
+    "expected_hz": 41.20344461410875,
+    "dominant_peak_near_fundamental_hz": 40.8782958984375,
+    "deviation_cents": -13.715875624232446,
+    "method": "FFT near fundamental; sampled vibrato and humanization remain, not a full transcription"
+  },
+  {
+    "name": "16_TenorTrombone_staff9_aux_B4",
+    "target_midi_pitch": 71,
+    "expected_hz": 493.8833012561241,
+    "dominant_peak_near_fundamental_hz": 494.7509765625,
+    "deviation_cents": 3.0388374211216918,
+    "method": "FFT near fundamental; sampled vibrato and humanization remain, not a full transcription"
+  },
+  {
+    "name": "16_TenorTrombone_staff9_aux_C5",
+    "target_midi_pitch": 72,
+    "expected_hz": 523.2511306011972,
+    "dominant_peak_near_fundamental_hz": 524.23095703125,
+    "deviation_cents": 3.238832229524007,
+    "method": "FFT near fundamental; sampled vibrato and humanization remain, not a full transcription"
+  },
+  {
+    "name": "16_TenorTrombone_staff9_aux_Cs5",
+    "target_midi_pitch": 73,
+    "expected_hz": 554.3652619537442,
+    "dominant_peak_near_fundamental_hz": 553.52783203125,
+    "deviation_cents": -2.6171974164509457,
+    "method": "FFT near fundamental; sampled vibrato and humanization remain, not a full transcription"
+  }
+]

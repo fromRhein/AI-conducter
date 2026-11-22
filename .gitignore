@@ -1,0 +1,11 @@
+# Local / OS noise
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Large intermediate audio kept out of the repository (see README)
+projects/brahms-op98/performance/stems/
+projects/brahms-op98/performance/aux_audio/
+projects/brahms-op98/performance/Backups/
+*.rpp-bak

@@ -1,0 +1,717 @@
+{
+  "tracks": [
+    {
+      "name": "01_Flute1",
+      "staff": 1,
+      "preset": "Flute1",
+      "notes": 366,
+      "gain_db": -2,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/01_Flute1.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/01_Flute1.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "sustain": 65,
+        "legato": 123,
+        "staccato": 178
+      }
+    },
+    {
+      "name": "02_Flute2",
+      "staff": 1,
+      "preset": "Flute2",
+      "notes": 204,
+      "gain_db": -2,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/02_Flute2.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/02_Flute2.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "sustain": 34,
+        "staccato": 134,
+        "legato": 36
+      }
+    },
+    {
+      "name": "03_Oboe1",
+      "staff": 2,
+      "preset": "Oboe1",
+      "notes": 323,
+      "gain_db": -3,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/03_Oboe1.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/03_Oboe1.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "legato": 90,
+        "staccato": 164,
+        "sustain": 69
+      }
+    },
+    {
+      "name": "04_Oboe2",
+      "staff": 2,
+      "preset": "Oboe2",
+      "notes": 229,
+      "gain_db": -3,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/04_Oboe2.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/04_Oboe2.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "staccato": 128,
+        "sustain": 51,
+        "legato": 50
+      }
+    },
+    {
+      "name": "05_Clarinet1",
+      "staff": 3,
+      "preset": "Clarinet1",
+      "notes": 355,
+      "gain_db": -3,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/05_Clarinet1.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/05_Clarinet1.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "sustain": 75,
+        "staccato": 206,
+        "legato": 74
+      }
+    },
+    {
+      "name": "06_Clarinet2",
+      "staff": 3,
+      "preset": "Clarinet2",
+      "notes": 303,
+      "gain_db": -3,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/06_Clarinet2.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/06_Clarinet2.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "sustain": 65,
+        "staccato": 186,
+        "legato": 52
+      }
+    },
+    {
+      "name": "07_Bassoon1",
+      "staff": 4,
+      "preset": "Bassoon1",
+      "notes": 425,
+      "gain_db": -2,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/07_Bassoon1.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/07_Bassoon1.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "staccato": 197,
+        "sustain": 106,
+        "legato": 122
+      }
+    },
+    {
+      "name": "08_Bassoon2",
+      "staff": 4,
+      "preset": "Bassoon2",
+      "notes": 319,
+      "gain_db": -2,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/08_Bassoon2.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/08_Bassoon2.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "staccato": 153,
+        "sustain": 88,
+        "legato": 78
+      }
+    },
+    {
+      "name": "09_Contrabassoon",
+      "staff": 5,
+      "preset": "Contrabassoon",
+      "notes": 167,
+      "gain_db": -4,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/09_Contrabassoon.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/09_Contrabassoon.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "sustain": 90,
+        "legato": 21,
+        "staccato": 56
+      }
+    },
+    {
+      "name": "10_Horn1_staff6",
+      "staff": 6,
+      "preset": "Horn1",
+      "notes": 257,
+      "gain_db": -5,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/10_Horn1_staff6.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/10_Horn1_staff6.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "sustain": 76,
+        "staccato": 154,
+        "legato": 27
+      }
+    },
+    {
+      "name": "11_Horn2_staff6",
+      "staff": 6,
+      "preset": "Horn2",
+      "notes": 164,
+      "gain_db": -5,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/11_Horn2_staff6.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/11_Horn2_staff6.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "sustain": 51,
+        "staccato": 109,
+        "legato": 4
+      }
+    },
+    {
+      "name": "12_Horn1_staff7",
+      "staff": 7,
+      "preset": "Horn1",
+      "notes": 158,
+      "gain_db": -5,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/12_Horn1_staff7.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/12_Horn1_staff7.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "staccato": 62,
+        "sustain": 58,
+        "legato": 38
+      }
+    },
+    {
+      "name": "13_Horn2_staff7",
+      "staff": 7,
+      "preset": "Horn2",
+      "notes": 87,
+      "gain_db": -5,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/13_Horn2_staff7.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/13_Horn2_staff7.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "sustain": 35,
+        "legato": 7,
+        "staccato": 45
+      }
+    },
+    {
+      "name": "14_Trumpet1",
+      "staff": 8,
+      "preset": "Trumpet1",
+      "notes": 101,
+      "gain_db": -5,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/14_Trumpet1.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/14_Trumpet1.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "staccato": 68,
+        "sustain": 33
+      }
+    },
+    {
+      "name": "15_Trumpet2",
+      "staff": 8,
+      "preset": "Trumpet2",
+      "notes": 93,
+      "gain_db": -5,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/15_Trumpet2.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/15_Trumpet2.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "staccato": 63,
+        "sustain": 30
+      }
+    },
+    {
+      "name": "16_TenorTrombone_staff9",
+      "staff": 9,
+      "preset": "TenorTrombone",
+      "notes": 154,
+      "gain_db": -4,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/16_TenorTrombone_staff9.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/16_TenorTrombone_staff9.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "staccato": 86,
+        "sustain": 55,
+        "legato": 13
+      }
+    },
+    {
+      "name": "17_TenorTrombone_staff9",
+      "staff": 9,
+      "preset": "TenorTrombone",
+      "notes": 137,
+      "gain_db": -4,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/17_TenorTrombone_staff9.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/17_TenorTrombone_staff9.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "staccato": 83,
+        "sustain": 49,
+        "legato": 5
+      }
+    },
+    {
+      "name": "18_BassTrombone",
+      "staff": 10,
+      "preset": "BassTrombone",
+      "notes": 159,
+      "gain_db": -4,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/18_BassTrombone.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/18_BassTrombone.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "staccato": 87,
+        "sustain": 66,
+        "legato": 6
+      }
+    },
+    {
+      "name": "19_Timpani",
+      "staff": 11,
+      "preset": "Timpani",
+      "notes": 130,
+      "gain_db": -7,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/19_Timpani.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/19_Timpani.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "tremolo": 24,
+        "sustain": 106
+      }
+    },
+    {
+      "name": "20_Violins1",
+      "staff": 12,
+      "preset": "Violins1",
+      "notes": 1030,
+      "gain_db": -1,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/20_Violins1.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/20_Violins1.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "legato": 239,
+        "sustain": 133,
+        "staccato": 640,
+        "pizzicato": 18
+      }
+    },
+    {
+      "name": "21_Violins2",
+      "staff": 13,
+      "preset": "Violins2",
+      "notes": 1186,
+      "gain_db": -2,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/21_Violins2.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/21_Violins2.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "legato": 191,
+        "sustain": 174,
+        "tremolo": 2,
+        "staccato": 801,
+        "pizzicato": 18
+      }
+    },
+    {
+      "name": "22_Violas",
+      "staff": 14,
+      "preset": "Violas",
+      "notes": 1547,
+      "gain_db": -3,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/22_Violas.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/22_Violas.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "legato": 247,
+        "sustain": 350,
+        "tremolo": 6,
+        "staccato": 926,
+        "pizzicato": 18
+      }
+    },
+    {
+      "name": "23_Cellos",
+      "staff": 15,
+      "preset": "Cellos",
+      "notes": 829,
+      "gain_db": -2,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/23_Cellos.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/23_Cellos.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "sustain": 191,
+        "legato": 219,
+        "staccato": 389,
+        "pizzicato": 30
+      }
+    },
+    {
+      "name": "24_Basses",
+      "staff": 16,
+      "preset": "Basses",
+      "notes": 354,
+      "gain_db": -3,
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/24_Basses.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/stems/24_Basses.wav",
+      "duration": 329.0614356847638,
+      "articulations": {
+        "sustain": 98,
+        "legato": 28,
+        "staccato": 185,
+        "pizzicato": 43
+      }
+    }
+  ],
+  "reconstructed_tremolo_spans": [
+    {
+      "staff": 11,
+      "q": 492.0,
+      "pitch": 52,
+      "source_events": 24,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 12
+    },
+    {
+      "staff": 11,
+      "q": 495.0,
+      "pitch": 47,
+      "source_events": 24,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 12
+    },
+    {
+      "staff": 11,
+      "q": 498.0,
+      "pitch": 47,
+      "source_events": 24,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 12
+    },
+    {
+      "staff": 11,
+      "q": 501.0,
+      "pitch": 52,
+      "source_events": 24,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 12
+    },
+    {
+      "staff": 11,
+      "q": 600.0,
+      "pitch": 52,
+      "source_events": 16,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 8
+    },
+    {
+      "staff": 11,
+      "q": 606.0,
+      "pitch": 47,
+      "source_events": 16,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 8
+    },
+    {
+      "staff": 11,
+      "q": 619.0,
+      "pitch": 52,
+      "source_events": 16,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 8
+    },
+    {
+      "staff": 11,
+      "q": 621.0,
+      "pitch": 52,
+      "source_events": 48,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 24
+    },
+    {
+      "staff": 11,
+      "q": 660.0,
+      "pitch": 52,
+      "source_events": 24,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 12
+    },
+    {
+      "staff": 11,
+      "q": 672.0,
+      "pitch": 52,
+      "source_events": 8,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 4
+    },
+    {
+      "staff": 11,
+      "q": 675.0,
+      "pitch": 52,
+      "source_events": 8,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 4
+    },
+    {
+      "staff": 11,
+      "q": 678.0,
+      "pitch": 52,
+      "source_events": 8,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 4
+    },
+    {
+      "staff": 11,
+      "q": 681.0,
+      "pitch": 52,
+      "source_events": 8,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 4
+    },
+    {
+      "staff": 11,
+      "q": 684.0,
+      "pitch": 52,
+      "source_events": 8,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 4
+    },
+    {
+      "staff": 11,
+      "q": 687.0,
+      "pitch": 52,
+      "source_events": 8,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 4
+    },
+    {
+      "staff": 11,
+      "q": 690.0,
+      "pitch": 47,
+      "source_events": 8,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 4
+    },
+    {
+      "staff": 11,
+      "q": 693.0,
+      "pitch": 52,
+      "source_events": 8,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 4
+    },
+    {
+      "staff": 11,
+      "q": 846.0,
+      "pitch": 52,
+      "source_events": 24,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 12
+    },
+    {
+      "staff": 11,
+      "q": 849.0,
+      "pitch": 52,
+      "source_events": 48,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 24
+    },
+    {
+      "staff": 11,
+      "q": 864.0,
+      "pitch": 43,
+      "source_events": 24,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 12
+    },
+    {
+      "staff": 11,
+      "q": 870.0,
+      "pitch": 52,
+      "source_events": 24,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 12
+    },
+    {
+      "staff": 11,
+      "q": 918.0,
+      "pitch": 47,
+      "source_events": 24,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 12
+    },
+    {
+      "staff": 11,
+      "q": 930.0,
+      "pitch": 52,
+      "source_events": 24,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 12
+    },
+    {
+      "staff": 11,
+      "q": 968.0,
+      "pitch": 52,
+      "source_events": 8,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 4
+    },
+    {
+      "staff": 11,
+      "q": 969.0,
+      "pitch": 52,
+      "source_events": 16,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 8
+    },
+    {
+      "staff": 11,
+      "q": 980.0,
+      "pitch": 52,
+      "source_events": 8,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 4
+    },
+    {
+      "staff": 11,
+      "q": 981.0,
+      "pitch": 52,
+      "source_events": 16,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 8
+    },
+    {
+      "staff": 11,
+      "q": 1023.0,
+      "pitch": 52,
+      "source_events": 24,
+      "sample": "Rolls",
+      "corrected_neighbor_pitches": 12
+    },
+    {
+      "staff": 13,
+      "q": 501.0,
+      "pitch": 64,
+      "source_events": 24,
+      "sample": "Tremolo",
+      "corrected_neighbor_pitches": 0
+    },
+    {
+      "staff": 13,
+      "q": 501.0,
+      "pitch": 67,
+      "source_events": 24,
+      "sample": "Tremolo",
+      "corrected_neighbor_pitches": 0
+    },
+    {
+      "staff": 14,
+      "q": 501.0,
+      "pitch": 52,
+      "source_events": 24,
+      "sample": "Tremolo",
+      "corrected_neighbor_pitches": 0
+    },
+    {
+      "staff": 14,
+      "q": 501.0,
+      "pitch": 55,
+      "source_events": 24,
+      "sample": "Tremolo",
+      "corrected_neighbor_pitches": 0
+    },
+    {
+      "staff": 14,
+      "q": 600.0,
+      "pitch": 55,
+      "source_events": 16,
+      "sample": "Tremolo",
+      "corrected_neighbor_pitches": 0
+    },
+    {
+      "staff": 14,
+      "q": 600.0,
+      "pitch": 59,
+      "source_events": 16,
+      "sample": "Tremolo",
+      "corrected_neighbor_pitches": 0
+    },
+    {
+      "staff": 14,
+      "q": 606.0,
+      "pitch": 59,
+      "source_events": 16,
+      "sample": "Tremolo",
+      "corrected_neighbor_pitches": 0
+    },
+    {
+      "staff": 14,
+      "q": 606.0,
+      "pitch": 62,
+      "source_events": 16,
+      "sample": "Tremolo",
+      "corrected_neighbor_pitches": 0
+    }
+  ],
+  "duration": 329.0614356847638,
+  "keyswitches_runtime_verified": true,
+  "memory_strategy": "Small instrument groups loaded before individually soloed renders; audio mix uses 24 stems.",
+  "limitations": [
+    "Paired staff single notes are not doubled automatically; a2/unison allocations not fully encoded.",
+    "Source MIDI gates retained except true legato overlap and source-notation tremolo reconstruction.",
+    "Factory recorded stage/IR preserved; no additional master compressor."
+  ],
+  "auxiliary_instances": [
+    {
+      "name": "11_Horn2_staff6_aux_E1",
+      "parent": "11_Horn2_staff6",
+      "preset": "Horn2",
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/11_Horn2_staff6_aux_E1.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/aux_audio/11_Horn2_staff6_aux_E1.wav",
+      "notes": 1,
+      "score_pitch": 28,
+      "sample_key": 40,
+      "pitchwheel": -8192,
+      "pitch_bend_range_semitones": 12
+    },
+    {
+      "name": "16_TenorTrombone_staff9_aux_B4",
+      "parent": "16_TenorTrombone_staff9",
+      "preset": "TenorTrombone",
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/16_TenorTrombone_staff9_aux_B4.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/aux_audio/16_TenorTrombone_staff9_aux_B4.wav",
+      "notes": 5,
+      "score_pitch": 71,
+      "sample_key": 70,
+      "pitchwheel": 683,
+      "pitch_bend_range_semitones": 12
+    },
+    {
+      "name": "16_TenorTrombone_staff9_aux_C5",
+      "parent": "16_TenorTrombone_staff9",
+      "preset": "TenorTrombone",
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/16_TenorTrombone_staff9_aux_C5.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/aux_audio/16_TenorTrombone_staff9_aux_C5.wav",
+      "notes": 2,
+      "score_pitch": 72,
+      "sample_key": 70,
+      "pitchwheel": 1365,
+      "pitch_bend_range_semitones": 12
+    },
+    {
+      "name": "16_TenorTrombone_staff9_aux_Cs5",
+      "parent": "16_TenorTrombone_staff9",
+      "preset": "TenorTrombone",
+      "project": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/render_projects/16_TenorTrombone_staff9_aux_Cs5.RPP",
+      "wav": "D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance/aux_audio/16_TenorTrombone_staff9_aux_Cs5.wav",
+      "notes": 1,
+      "score_pitch": 73,
+      "sample_key": 70,
+      "pitchwheel": 2048,
+      "pitch_bend_range_semitones": 12
+    }
+  ],
+  "range_corrections": "Low E1 horn and eight high trombone notes isolated in fixed-pitch-bend VSL instances; no switch collision."
+}

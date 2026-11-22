@@ -1,0 +1,58 @@
+<style>
+#scoreApp{font-family:system-ui,sans-serif;color:#202b33}#scoreApp .controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:10px 0}#scoreApp button,#scoreApp select,#scoreApp input{font:inherit;padding:7px;border:1px solid #abb9c1;border-radius:6px;background:#fff;color:#202b33}#scoreApp button{cursor:pointer}#scoreApp button.primary{background:#155d62;color:white}#scoreApp audio{width:100%;height:42px}#scoreApp .status{padding:10px;background:#e5f2ef;border-left:4px solid #16766d;font-size:18px}#scoreApp .viewport{overflow:auto;max-height:78vh;background:#d5dadd;border-radius:6px;margin:10px 0;position:relative}#scoreApp .sheet{position:relative;margin:auto;width:100%;min-width:480px;line-height:0}#scoreApp .sheet img{display:block;width:100%;height:auto;max-width:none;margin:0}#scoreApp .system{position:absolute;border:3px solid #008eab;border-left:7px solid #008eab;background:rgba(0,150,190,.035);pointer-events:none;box-sizing:border-box;display:none}#scoreApp .note{min-height:65px;padding:12px;background:#fff7df;line-height:1.65}#scoreApp progress{width:100%;height:5px}#scoreApp .hint{font-size:13px;color:#53606a}#scoreApp .stage:fullscreen{background:white;padding:18px;overflow:auto}#scoreApp .stage:fullscreen .viewport{max-height:78vh}#scoreApp input[type=number]{width:85px}
+</style>
+<div id="scoreApp">
+<div class="stage" id="syncStage">
+<audio id="syncAudio" controls preload="metadata" aria-label="第四乐章E至结尾录音"></audio>
+<div class="controls">
+<button id="playToggle" class="primary">播放</button><button id="back10">−10秒</button><button id="forward10">+10秒</button>
+<label>速度 <select id="speed"><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option></select></label>
+<label>跳到小节 <input id="barInput" type="number" min="113" max="311" value="113"></label><button id="seekBar">跳转</button>
+<button id="followToggle" class="primary">自动跟谱：开</button><button id="fullScreen">全屏</button>
+</div>
+<div class="status" id="syncStatus" aria-live="off">载入中</div><progress id="barProgress" max="1" value="0" aria-label="当前小节进度"></progress>
+<div class="controls"><button id="previousPage">上一页</button><select id="pageSelect" aria-label="总谱页码"></select><button id="nextPage">下一页</button><label>放大 <input id="zoom" type="range" min="100" max="220" step="10" value="100"></label><span class="hint" id="pageHint"></span></div>
+<div class="viewport" id="scoreViewport"><div class="sheet" id="scoreSheet"><img id="scoreImage" alt="带荧光标注和侧栏分析的总谱"><div class="system" id="systemMarker"></div></div></div>
+<div class="note" id="analysisNote"></div>
+<div class="hint">空格：播放／暂停 · 左右方向键：前后10秒 · 青色框：当前系统（有核验坐标时）</div>
+</div></div>
+<script>
+(()=>{'use strict';
+const D=__SYNC_DATA__;
+const $=id=>document.getElementById(id),audio=$('syncAudio');
+audio.src=D.audio;let following=true,pageIndex=-1,lastSystem='',lastBar=-1;
+const choose=(arr,t,key)=>{let l=0,r=arr.length;while(l<r){const m=(l+r)>>1;if(arr[m][key]<=t)l=m+1;else r=m;}return Math.max(0,l-1)};
+D.pages.forEach((p,i)=>{const o=document.createElement('option');o.value=i;o.textContent=`原谱第${p.page+246}页 · 页首第${p.start}小节${i===0?' · E/113起播':''}`; $('pageSelect').append(o)});
+function showPage(i){i=Math.max(0,Math.min(D.pages.length-1,i));if(i===pageIndex)return;pageIndex=i;$('scoreImage').src=D.images[i];$('pageSelect').value=i;$('scoreViewport').scrollTop=0;$('scoreViewport').scrollLeft=0;lastSystem='';const p=D.pages[i];$('pageHint').textContent=`注释PDF第${p.page+1}页 / 原PDF第${p.page}页`}
+function setFollow(v){following=v;$('followToggle').textContent=v?'自动跟谱：开':'恢复跟谱';$('followToggle').classList.toggle('primary',v);update()}
+function update(){const t=audio.currentTime||0;const bi=choose(D.bars,t,'time'),bar=Math.min(311,D.bars[bi].bar);const pi=choose(D.pages,t,'time');if(following)showPage(pi);
+const pre=t<D.bars[0].time,tail=t>=D.musicEnd;
+$('syncStatus').textContent=(pre?'准备起奏':tail?'终止和弦余响':`第 ${bar} 小节`)+` · ${Math.floor(t/60)}:${String(Math.floor(t%60)).padStart(2,'0')} / 5:29`+(following?'':' · 手动阅谱');
+const next=D.bars[Math.min(bi+1,D.bars.length-1)].time;
+$('barProgress').value=pre?0:Math.max(0,Math.min(1,(t-D.bars[bi].time)/(next-D.bars[bi].time||1)));
+if(lastBar!==bar){lastBar=bar;const n=D.notes.find(n=>n.start<=bar&&n.end>=bar);$('analysisNote').textContent=n?`${n.title}（${n.start}–${n.end}）：${n.text}`:'';}
+const p=D.pages[pageIndex],ss=p.systems||[];let s=null;
+if(pageIndex===pi&&ss.length){s=ss[choose(ss,bar,'start')];if(s.start>bar)s=null;}
+const mark=$('systemMarker');
+if(s&&Number.isFinite(s.y)){const k=pageIndex+':'+s.start;const idx=ss.indexOf(s);const y=s.y+48;const bottom=idx+1<ss.length?ss[idx+1].y+42:p.height-28;
+mark.style.display='block';mark.style.left=(14/p.width*100)+'%';mark.style.width=((p.width-310)/p.width*100)+'%';mark.style.top=(y/p.height*100)+'%';mark.style.height=((bottom-y)/p.height*100)+'%';
+if(following&&k!==lastSystem){lastSystem=k;requestAnimationFrame(()=>{$('scoreViewport').scrollTop=Math.max(0,y/p.height*$('scoreSheet').offsetHeight-15)})}
+}else mark.style.display='none';
+$('playToggle').textContent=audio.paused?'播放':'暂停';}
+function seek(t){audio.currentTime=Math.max(0,Math.min(D.duration,t));update()}
+function toggle(){if(audio.paused)audio.play().catch(e=>{$('syncStatus').textContent='请点击音频控件播放：'+e.message});else audio.pause()}
+$('playToggle').onclick=toggle;$('back10').onclick=()=>seek(audio.currentTime-10);$('forward10').onclick=()=>seek(audio.currentTime+10);
+$('speed').onchange=e=>{audio.playbackRate=Number(e.target.value)};
+$('seekBar').onclick=()=>{const b=Math.max(113,Math.min(311,Math.round(Number($('barInput').value)||113)));$('barInput').value=b;following=true;seek(D.bars[b-113].time);setFollow(true)};
+$('followToggle').onclick=()=>setFollow(!following);
+function manual(i){following=false;showPage(i);setFollow(false)}
+$('pageSelect').onchange=e=>manual(Number(e.target.value));$('previousPage').onclick=()=>manual(pageIndex-1);$('nextPage').onclick=()=>manual(pageIndex+1);
+$('zoom').oninput=e=>{$('scoreSheet').style.width=e.target.value+'%';lastSystem='';update()};
+$('fullScreen').onclick=()=>{if(document.fullscreenElement)document.exitFullscreen();else $('syncStage').requestFullscreen().catch(()=>{})};
+document.addEventListener('keydown',e=>{if(/INPUT|SELECT|TEXTAREA|BUTTON|AUDIO/.test(e.target.tagName))return;if(e.code==='Space'){e.preventDefault();toggle()}if(e.code==='ArrowLeft'){e.preventDefault();seek(audio.currentTime-10)}if(e.code==='ArrowRight'){e.preventDefault();seek(audio.currentTime+10)}});
+['timeupdate','seeked','loadedmetadata','play','pause','ended'].forEach(e=>audio.addEventListener(e,update));
+$('scoreImage').onload=()=>{lastSystem='';update()};
+showPage(0);update();function frame(){if(!audio.paused)update();requestAnimationFrame(frame)}requestAnimationFrame(frame);
+window.scoreSyncTest={seek,update,data:D,getPage:()=>pageIndex,getFollowing:()=>following};
+})();
+</script>

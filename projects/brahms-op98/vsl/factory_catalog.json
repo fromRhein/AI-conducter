@@ -1,0 +1,2912 @@
+[
+  {
+    "volume": "SY-Prime-Brass",
+    "presets": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/01 Trumpet in Bb 1.vsynpreset",
+        "entryIndex": 0
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/02 Trumpet in Bb 2.vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/03 Trumpets in Bb (4 players).vsynpreset",
+        "entryIndex": 2
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/11 Horn 1.vsynpreset",
+        "entryIndex": 3
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/12 Horn 2.vsynpreset",
+        "entryIndex": 4
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/13 Horns (6 players).vsynpreset",
+        "entryIndex": 5
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/21 Tenor trombone.vsynpreset",
+        "entryIndex": 6
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/22 Bass trombone.vsynpreset",
+        "entryIndex": 7
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/23 Tenor trombones (4 players).vsynpreset",
+        "entryIndex": 8
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/31 Bass tuba.vsynpreset",
+        "entryIndex": 9
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/03 Brass/40 Brass (15 players).vsynpreset",
+        "entryIndex": 10
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/01 Trumpet 1 - VelXF sus.vsynpreset",
+        "entryIndex": 11
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/02 Trumpet 2 - VelXF sus.vsynpreset",
+        "entryIndex": 12
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/03 Trumpets - 4 players - VelXF sus.vsynpreset",
+        "entryIndex": 13
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/11 Horn 1 - VelXF sus.vsynpreset",
+        "entryIndex": 14
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/12 Horn 2 - VelXF sus.vsynpreset",
+        "entryIndex": 15
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/13 Horns - 6 players - VelXF sus.vsynpreset",
+        "entryIndex": 16
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/21 Tenor trombone - VelXF sus.vsynpreset",
+        "entryIndex": 17
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/22 Bass trombone - VelXF sus.vsynpreset",
+        "entryIndex": 18
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/23 Trombones - 4 players - VelXF sus.vsynpreset",
+        "entryIndex": 19
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/31 Bass tuba - VelXF sus.vsynpreset",
+        "entryIndex": 20
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/01 VelXF sus - MOD/51 Tutti brass - 15 players - VelXF sus.vsynpreset",
+        "entryIndex": 21
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/01 Trumpet 1 - VelXF.vsynpreset",
+        "entryIndex": 22
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/02 Trumpet 2 - VelXF.vsynpreset",
+        "entryIndex": 23
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/03 Trumpets - 4 players - VelXF.vsynpreset",
+        "entryIndex": 24
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/11 Horn 1 - VelXF.vsynpreset",
+        "entryIndex": 25
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/12 Horn 2 - VelXF.vsynpreset",
+        "entryIndex": 26
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/13 Horns - 6 players - VelXF.vsynpreset",
+        "entryIndex": 27
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/21 Tenor trombone - VelXF.vsynpreset",
+        "entryIndex": 28
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/22 Bass trombone - VelXF.vsynpreset",
+        "entryIndex": 29
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/23 Trombones - 4 players - VelXF.vsynpreset",
+        "entryIndex": 30
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/31 Bass tuba - VelXF.vsynpreset",
+        "entryIndex": 31
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/02 VelXF - MOD/51 Tutti brass - 15 players - VelXF.vsynpreset",
+        "entryIndex": 32
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/01 Trumpet 1 - Velocity.vsynpreset",
+        "entryIndex": 33
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/02 Trumpet 2 - Velocity.vsynpreset",
+        "entryIndex": 34
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/03 Trumpets - 4 players - Velocity.vsynpreset",
+        "entryIndex": 35
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/11 Horn 1 - Velocity.vsynpreset",
+        "entryIndex": 36
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/12 Horn 2 - Velocity.vsynpreset",
+        "entryIndex": 37
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/13 Horns - 6 players - Velocity.vsynpreset",
+        "entryIndex": 38
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/21 Tenor trombone - Velocity.vsynpreset",
+        "entryIndex": 39
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/22 Bass trombone - Velocity.vsynpreset",
+        "entryIndex": 40
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/23 Trombones - 4 players - Velocity.vsynpreset",
+        "entryIndex": 41
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/31 Bass tuba - Velocity.vsynpreset",
+        "entryIndex": 42
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/03 Brass/03 Velocity/51 Tutti brass - 15 players - Velocity.vsynpreset",
+        "entryIndex": 43
+      }
+    ],
+    "patches": [
+      {
+        "path": "public/patches/03 Brass/01 Trumpet 1/01P Trp1 Staccato Short.vsynpatch",
+        "entryIndex": 44
+      },
+      {
+        "path": "public/patches/03 Brass/01 Trumpet 1/02P Trp1 Staccato Short agile.vsynpatch",
+        "entryIndex": 45
+      },
+      {
+        "path": "public/patches/03 Brass/01 Trumpet 1/03P Trp1 Portato.vsynpatch",
+        "entryIndex": 46
+      },
+      {
+        "path": "public/patches/03 Brass/01 Trumpet 1/04P Trp1 Portato agile.vsynpatch",
+        "entryIndex": 47
+      },
+      {
+        "path": "public/patches/03 Brass/01 Trumpet 1/11P Trp1 Long noVib con-ff.vsynpatch",
+        "entryIndex": 48
+      },
+      {
+        "path": "public/patches/03 Brass/01 Trumpet 1/12P Trp1 Long Vib con-ff.vsynpatch",
+        "entryIndex": 49
+      },
+      {
+        "path": "public/patches/03 Brass/01 Trumpet 1/15P Trp1 Long sfz.vsynpatch",
+        "entryIndex": 50
+      },
+      {
+        "path": "public/patches/03 Brass/01 Trumpet 1/16P Trp1 Long sffz.vsynpatch",
+        "entryIndex": 51
+      },
+      {
+        "path": "public/patches/03 Brass/01 Trumpet 1/21P Trp1 Legato noVib con-ff.vsynpatch",
+        "entryIndex": 52
+      },
+      {
+        "path": "public/patches/03 Brass/01 Trumpet 1/22P Trp1 Legato Vib con-ff.vsynpatch",
+        "entryIndex": 53
+      },
+      {
+        "path": "public/patches/03 Brass/02 Trumpet 2/01P Trp2 Staccato Short.vsynpatch",
+        "entryIndex": 54
+      },
+      {
+        "path": "public/patches/03 Brass/02 Trumpet 2/02P Trp2 Staccato Short agile.vsynpatch",
+        "entryIndex": 55
+      },
+      {
+        "path": "public/patches/03 Brass/02 Trumpet 2/03P Trp2 Portato.vsynpatch",
+        "entryIndex": 56
+      },
+      {
+        "path": "public/patches/03 Brass/02 Trumpet 2/04P Trp2 Portato agile.vsynpatch",
+        "entryIndex": 57
+      },
+      {
+        "path": "public/patches/03 Brass/02 Trumpet 2/11P Trp2 Long noVib con-ff.vsynpatch",
+        "entryIndex": 58
+      },
+      {
+        "path": "public/patches/03 Brass/02 Trumpet 2/12P Trp2 Long Vib con-ff.vsynpatch",
+        "entryIndex": 59
+      },
+      {
+        "path": "public/patches/03 Brass/02 Trumpet 2/15P Trp2 Long sfz.vsynpatch",
+        "entryIndex": 60
+      },
+      {
+        "path": "public/patches/03 Brass/02 Trumpet 2/16P Trp2 Long sffz.vsynpatch",
+        "entryIndex": 61
+      },
+      {
+        "path": "public/patches/03 Brass/02 Trumpet 2/21P Trp2 Legato noVib con-ff.vsynpatch",
+        "entryIndex": 62
+      },
+      {
+        "path": "public/patches/03 Brass/02 Trumpet 2/22P Trp2 Legato Vib con-ff.vsynpatch",
+        "entryIndex": 63
+      },
+      {
+        "path": "public/patches/03 Brass/03 Trumpets - 4 players/01P Trp-4 Staccato.vsynpatch",
+        "entryIndex": 64
+      },
+      {
+        "path": "public/patches/03 Brass/03 Trumpets - 4 players/02P Trp-4 Staccato agile.vsynpatch",
+        "entryIndex": 65
+      },
+      {
+        "path": "public/patches/03 Brass/03 Trumpets - 4 players/11P Trp-4 Long con-ff.vsynpatch",
+        "entryIndex": 66
+      },
+      {
+        "path": "public/patches/03 Brass/03 Trumpets - 4 players/15P Trp-4 Long sfz.vsynpatch",
+        "entryIndex": 67
+      },
+      {
+        "path": "public/patches/03 Brass/03 Trumpets - 4 players/16P Trp-4 Long sffz.vsynpatch",
+        "entryIndex": 68
+      },
+      {
+        "path": "public/patches/03 Brass/03 Trumpets - 4 players/21P Trp-4 Legato con-ff.vsynpatch",
+        "entryIndex": 69
+      },
+      {
+        "path": "public/patches/03 Brass/11 Horn 1/01P HO1 Staccato Short.vsynpatch",
+        "entryIndex": 70
+      },
+      {
+        "path": "public/patches/03 Brass/11 Horn 1/02P HO1 Staccato Short agile.vsynpatch",
+        "entryIndex": 71
+      },
+      {
+        "path": "public/patches/03 Brass/11 Horn 1/03P HO1 Portato.vsynpatch",
+        "entryIndex": 72
+      },
+      {
+        "path": "public/patches/03 Brass/11 Horn 1/04P HO1 Portato agile.vsynpatch",
+        "entryIndex": 73
+      },
+      {
+        "path": "public/patches/03 Brass/11 Horn 1/11P HO1 Long con-ff.vsynpatch",
+        "entryIndex": 74
+      },
+      {
+        "path": "public/patches/03 Brass/11 Horn 1/15P HO1 Long sfz.vsynpatch",
+        "entryIndex": 75
+      },
+      {
+        "path": "public/patches/03 Brass/11 Horn 1/16P HO1 Long sffz.vsynpatch",
+        "entryIndex": 76
+      },
+      {
+        "path": "public/patches/03 Brass/11 Horn 1/21P HO1 Legato con-ff.vsynpatch",
+        "entryIndex": 77
+      },
+      {
+        "path": "public/patches/03 Brass/12 Horn 2/01P HO2 Staccato Short.vsynpatch",
+        "entryIndex": 78
+      },
+      {
+        "path": "public/patches/03 Brass/12 Horn 2/02P HO2 Staccato Short agile.vsynpatch",
+        "entryIndex": 79
+      },
+      {
+        "path": "public/patches/03 Brass/12 Horn 2/03P HO2 Portato.vsynpatch",
+        "entryIndex": 80
+      },
+      {
+        "path": "public/patches/03 Brass/12 Horn 2/04P HO2 Portato agile.vsynpatch",
+        "entryIndex": 81
+      },
+      {
+        "path": "public/patches/03 Brass/12 Horn 2/11P HO2 Long con-ff.vsynpatch",
+        "entryIndex": 82
+      },
+      {
+        "path": "public/patches/03 Brass/12 Horn 2/15P HO2 Long sfz.vsynpatch",
+        "entryIndex": 83
+      },
+      {
+        "path": "public/patches/03 Brass/12 Horn 2/16P HO2 Long sffz.vsynpatch",
+        "entryIndex": 84
+      },
+      {
+        "path": "public/patches/03 Brass/12 Horn 2/21P HO2 Legato con-ff.vsynpatch",
+        "entryIndex": 85
+      },
+      {
+        "path": "public/patches/03 Brass/13 Horns - 6 players/01P HO-6 Staccato.vsynpatch",
+        "entryIndex": 86
+      },
+      {
+        "path": "public/patches/03 Brass/13 Horns - 6 players/02P HO-6 Staccato agile.vsynpatch",
+        "entryIndex": 87
+      },
+      {
+        "path": "public/patches/03 Brass/13 Horns - 6 players/11P HO-6 Long con-ff.vsynpatch",
+        "entryIndex": 88
+      },
+      {
+        "path": "public/patches/03 Brass/13 Horns - 6 players/15P HO-6 Long sfz.vsynpatch",
+        "entryIndex": 89
+      },
+      {
+        "path": "public/patches/03 Brass/13 Horns - 6 players/16P HO-6 Long sffz.vsynpatch",
+        "entryIndex": 90
+      },
+      {
+        "path": "public/patches/03 Brass/13 Horns - 6 players/21P HO-6 Legato con-ff.vsynpatch",
+        "entryIndex": 91
+      },
+      {
+        "path": "public/patches/03 Brass/21 Tenor trombone/01P Ten-Trmb Staccato.vsynpatch",
+        "entryIndex": 92
+      },
+      {
+        "path": "public/patches/03 Brass/21 Tenor trombone/02P Ten-Trmb Staccato agile.vsynpatch",
+        "entryIndex": 93
+      },
+      {
+        "path": "public/patches/03 Brass/21 Tenor trombone/03P Ten-Trmb Portato.vsynpatch",
+        "entryIndex": 94
+      },
+      {
+        "path": "public/patches/03 Brass/21 Tenor trombone/04P Ten-Trmb Portato agile.vsynpatch",
+        "entryIndex": 95
+      },
+      {
+        "path": "public/patches/03 Brass/21 Tenor trombone/11P Ten-Trmb Long con-ff.vsynpatch",
+        "entryIndex": 96
+      },
+      {
+        "path": "public/patches/03 Brass/21 Tenor trombone/15P Ten-Trmb Long sfz.vsynpatch",
+        "entryIndex": 97
+      },
+      {
+        "path": "public/patches/03 Brass/21 Tenor trombone/16P Ten-Trmb Long sffz.vsynpatch",
+        "entryIndex": 98
+      },
+      {
+        "path": "public/patches/03 Brass/21 Tenor trombone/21P Ten-Trmb Legato con-ff.vsynpatch",
+        "entryIndex": 99
+      },
+      {
+        "path": "public/patches/03 Brass/22 Bass trombone/01P Ba-Trmb Staccato.vsynpatch",
+        "entryIndex": 100
+      },
+      {
+        "path": "public/patches/03 Brass/22 Bass trombone/02P Ba-Trmb Staccato agile.vsynpatch",
+        "entryIndex": 101
+      },
+      {
+        "path": "public/patches/03 Brass/22 Bass trombone/03P Ba-Trmb Portato.vsynpatch",
+        "entryIndex": 102
+      },
+      {
+        "path": "public/patches/03 Brass/22 Bass trombone/04P Ba-Trmb Portato agile.vsynpatch",
+        "entryIndex": 103
+      },
+      {
+        "path": "public/patches/03 Brass/22 Bass trombone/11P Ba-Trmb Long con-ff.vsynpatch",
+        "entryIndex": 104
+      },
+      {
+        "path": "public/patches/03 Brass/22 Bass trombone/15P Ba-Trmb Long sfz.vsynpatch",
+        "entryIndex": 105
+      },
+      {
+        "path": "public/patches/03 Brass/22 Bass trombone/16P Ba-Trmb Long sffz.vsynpatch",
+        "entryIndex": 106
+      },
+      {
+        "path": "public/patches/03 Brass/22 Bass trombone/21P Ba-Trmb Legato con-ff.vsynpatch",
+        "entryIndex": 107
+      },
+      {
+        "path": "public/patches/03 Brass/23 Tenor trombones - 4 players/01P Ten-Trmb-4 Staccato.vsynpatch",
+        "entryIndex": 108
+      },
+      {
+        "path": "public/patches/03 Brass/23 Tenor trombones - 4 players/02P Ten-Trmb-4 Staccato agile.vsynpatch",
+        "entryIndex": 109
+      },
+      {
+        "path": "public/patches/03 Brass/23 Tenor trombones - 4 players/11P Ten-Trmb-4 Long con-ff.vsynpatch",
+        "entryIndex": 110
+      },
+      {
+        "path": "public/patches/03 Brass/23 Tenor trombones - 4 players/15P Ten-Trmb-4 Long sfz.vsynpatch",
+        "entryIndex": 111
+      },
+      {
+        "path": "public/patches/03 Brass/23 Tenor trombones - 4 players/16P Ten-Trmb-4 Long sffz.vsynpatch",
+        "entryIndex": 112
+      },
+      {
+        "path": "public/patches/03 Brass/23 Tenor trombones - 4 players/21P Ten-Trmb-4 Legato con-ff.vsynpatch",
+        "entryIndex": 113
+      },
+      {
+        "path": "public/patches/03 Brass/31 Bass tuba/01P BTU Staccato.vsynpatch",
+        "entryIndex": 114
+      },
+      {
+        "path": "public/patches/03 Brass/31 Bass tuba/02P BTU Staccato agile.vsynpatch",
+        "entryIndex": 115
+      },
+      {
+        "path": "public/patches/03 Brass/31 Bass tuba/03P BTU Portato.vsynpatch",
+        "entryIndex": 116
+      },
+      {
+        "path": "public/patches/03 Brass/31 Bass tuba/04P BTU Portato agile.vsynpatch",
+        "entryIndex": 117
+      },
+      {
+        "path": "public/patches/03 Brass/31 Bass tuba/11P BTU Long con-ff.vsynpatch",
+        "entryIndex": 118
+      },
+      {
+        "path": "public/patches/03 Brass/31 Bass tuba/15P BTU Long sfz.vsynpatch",
+        "entryIndex": 119
+      },
+      {
+        "path": "public/patches/03 Brass/31 Bass tuba/16P BTU Long sffz.vsynpatch",
+        "entryIndex": 120
+      },
+      {
+        "path": "public/patches/03 Brass/31 Bass tuba/21P BTU Legato con-ff.vsynpatch",
+        "entryIndex": 121
+      }
+    ]
+  },
+  {
+    "volume": "SY-Prime-Harp",
+    "presets": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/00 Harp.vsynpreset",
+        "entryIndex": 0
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/00 Harp - Velocity.vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/00 Harp - VelXF.vsynpreset",
+        "entryIndex": 2
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/00 Harp - Velocity.vsynpreset",
+        "entryIndex": 3
+      }
+    ],
+    "patches": [
+      {
+        "path": "public/patches/01 Strings + Harp/00 SY Harp/01 Regular.vsynpatch",
+        "entryIndex": 4
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/00 SY Harp/02 Harmonics.vsynpatch",
+        "entryIndex": 5
+      }
+    ]
+  },
+  {
+    "volume": "SY-Prime-Percussion",
+    "presets": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/01 Timpani.vsynpreset",
+        "entryIndex": 0
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/02 Celesta.vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/03 Glockenspiel.vsynpreset",
+        "entryIndex": 2
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/04 Xylophone.vsynpreset",
+        "entryIndex": 3
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/05 Tubular bells.vsynpreset",
+        "entryIndex": 4
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/11 Snare drum.vsynpreset",
+        "entryIndex": 5
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/12 Bass drum.vsynpreset",
+        "entryIndex": 6
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/13 Tambourine.vsynpreset",
+        "entryIndex": 7
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/14 Concert toms.vsynpreset",
+        "entryIndex": 8
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/15 Taiko.vsynpreset",
+        "entryIndex": 9
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/16 Piatti.vsynpreset",
+        "entryIndex": 10
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/17 Suspended cymbal.vsynpreset",
+        "entryIndex": 11
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/18 Tam-tam.vsynpreset",
+        "entryIndex": 12
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/19 Triangle.vsynpreset",
+        "entryIndex": 13
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/20 Woodblocks.vsynpreset",
+        "entryIndex": 14
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/04 Percussion/21 Unpitched Percussion (all).vsynpreset",
+        "entryIndex": 15
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/01 Timpani - VelXF sus.vsynpreset",
+        "entryIndex": 16
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/02 Celesta - Velocity.vsynpreset",
+        "entryIndex": 17
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/03 Glockenspiel - Velocity.vsynpreset",
+        "entryIndex": 18
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/04 Xylophone - Velocity.vsynpreset",
+        "entryIndex": 19
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/05 Tubular bells - Velocity.vsynpreset",
+        "entryIndex": 20
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/11 Snare drum - VelXF sus.vsynpreset",
+        "entryIndex": 21
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/12 Bass drum - VelXF sus.vsynpreset",
+        "entryIndex": 22
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/13 Tambourine - VelXF sus.vsynpreset",
+        "entryIndex": 23
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/14 Concert toms - VelXF sus.vsynpreset",
+        "entryIndex": 24
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/15 Taiko - Velocity.vsynpreset",
+        "entryIndex": 25
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/16 Piatti - Velocity.vsynpreset",
+        "entryIndex": 26
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/17 Suspended cymbal - VelXF sus.vsynpreset",
+        "entryIndex": 27
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/18 Tam-tam - VelXF sus.vsynpreset",
+        "entryIndex": 28
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/19 Triangle - VelXF sus.vsynpreset",
+        "entryIndex": 29
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/20 Woodblocks - VelXF sus.vsynpreset",
+        "entryIndex": 30
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/01 VelXF sus - MOD/21 Unpitched - All - VelXF sus.vsynpreset",
+        "entryIndex": 31
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/01 Timpani - VelXF.vsynpreset",
+        "entryIndex": 32
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/02 Celesta - VelXF.vsynpreset",
+        "entryIndex": 33
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/03 Glockenspiel - VelXF.vsynpreset",
+        "entryIndex": 34
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/04 Xylophone - VelXF.vsynpreset",
+        "entryIndex": 35
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/05 Tubular bells - VelXF.vsynpreset",
+        "entryIndex": 36
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/11 Snare drum - VelXF.vsynpreset",
+        "entryIndex": 37
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/12 Bass drum - VelXF.vsynpreset",
+        "entryIndex": 38
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/13 Tambourine - VelXF.vsynpreset",
+        "entryIndex": 39
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/14 Concert toms - VelXF.vsynpreset",
+        "entryIndex": 40
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/15 Taiko - VelXF.vsynpreset",
+        "entryIndex": 41
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/16 Piatti - VelXF.vsynpreset",
+        "entryIndex": 42
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/17 Suspended cymbal - VelXF.vsynpreset",
+        "entryIndex": 43
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/18 Tam-tam - VelXF.vsynpreset",
+        "entryIndex": 44
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/19 Triangle - VelXF.vsynpreset",
+        "entryIndex": 45
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/20 Woodblocks - VelXF.vsynpreset",
+        "entryIndex": 46
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/02 VelXF - MOD/21 Unpitched - All - VelXF.vsynpreset",
+        "entryIndex": 47
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/01 Timpani - Velocity.vsynpreset",
+        "entryIndex": 48
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/02 Celesta - Velocity.vsynpreset",
+        "entryIndex": 49
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/03 Glockenspiel - Velocity.vsynpreset",
+        "entryIndex": 50
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/04 Xylophone - Velocity.vsynpreset",
+        "entryIndex": 51
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/05 Tubular bells - Velocity.vsynpreset",
+        "entryIndex": 52
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/11 Snare drum - Velocity.vsynpreset",
+        "entryIndex": 53
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/12 Bass drum - Velocity.vsynpreset",
+        "entryIndex": 54
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/13 Tambourine - Velocity.vsynpreset",
+        "entryIndex": 55
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/14 Concert toms - Velocity.vsynpreset",
+        "entryIndex": 56
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/15 Taiko - Velocity.vsynpreset",
+        "entryIndex": 57
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/16 Piatti - Velocity.vsynpreset",
+        "entryIndex": 58
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/17 Suspended cymbal - Velocity.vsynpreset",
+        "entryIndex": 59
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/18 Tam-tam - Velocity.vsynpreset",
+        "entryIndex": 60
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/19 Triangle - Velocity.vsynpreset",
+        "entryIndex": 61
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/20 Woodblocks - Velocity.vsynpreset",
+        "entryIndex": 62
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/04 Percussion/03 Velocity/21 Unpitched - All - Velocity.vsynpreset",
+        "entryIndex": 63
+      }
+    ],
+    "patches": [
+      {
+        "path": "public/patches/04 Percussion/01 Timpani/00 Tmp-Ad-Octaves-So_Open.vsynpatch",
+        "entryIndex": 64
+      },
+      {
+        "path": "public/patches/04 Percussion/01 Timpani/01 Tmp-Ad20-So_Open.vsynpatch",
+        "entryIndex": 65
+      },
+      {
+        "path": "public/patches/04 Percussion/01 Timpani/04 Tmp-Ad20-So_Rolls_XF.vsynpatch",
+        "entryIndex": 66
+      },
+      {
+        "path": "public/patches/04 Percussion/01 Timpani/21 Tmp-Ad23-So_Open.vsynpatch",
+        "entryIndex": 67
+      },
+      {
+        "path": "public/patches/04 Percussion/01 Timpani/24 Tmp-Ad23-So_Rolls_XF.vsynpatch",
+        "entryIndex": 68
+      },
+      {
+        "path": "public/patches/04 Percussion/01 Timpani/41 Tmp-Ad26-So_Open.vsynpatch",
+        "entryIndex": 69
+      },
+      {
+        "path": "public/patches/04 Percussion/01 Timpani/44 Tmp-Ad26-So_Rolls_XF.vsynpatch",
+        "entryIndex": 70
+      },
+      {
+        "path": "public/patches/04 Percussion/01 Timpani/61 Tmp-Ad29-So_Open.vsynpatch",
+        "entryIndex": 71
+      },
+      {
+        "path": "public/patches/04 Percussion/01 Timpani/64 Tmp-Ad29-So_Rolls_XF.vsynpatch",
+        "entryIndex": 72
+      },
+      {
+        "path": "public/patches/04 Percussion/01 Timpani/81 Tmp-Ad32-So_Open.vsynpatch",
+        "entryIndex": 73
+      },
+      {
+        "path": "public/patches/04 Percussion/01 Timpani/84 Tmp-Ad32-So_Rolls_XF.vsynpatch",
+        "entryIndex": 74
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/01 Snare drum stack.vsynpatch",
+        "entryIndex": 75
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/01 Snare drum.vsynpatch",
+        "entryIndex": 76
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/02 Bass drum stack.vsynpatch",
+        "entryIndex": 77
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/02 Bass drum.vsynpatch",
+        "entryIndex": 78
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/03 Tambourine stack.vsynpatch",
+        "entryIndex": 79
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/03 Tambourine.vsynpatch",
+        "entryIndex": 80
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/04a Tom-10 stack.vsynpatch",
+        "entryIndex": 81
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/04a Tom-10.vsynpatch",
+        "entryIndex": 82
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/04b Tom-14 stack.vsynpatch",
+        "entryIndex": 83
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/04b Tom-14.vsynpatch",
+        "entryIndex": 84
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/04c Tom-16 stack.vsynpatch",
+        "entryIndex": 85
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/04c Tom-16.vsynpatch",
+        "entryIndex": 86
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/05 Taiko stack.vsynpatch",
+        "entryIndex": 87
+      },
+      {
+        "path": "public/patches/04 Percussion/02 Drums/05 Taiko.vsynpatch",
+        "entryIndex": 88
+      },
+      {
+        "path": "public/patches/04 Percussion/03 Cymbals/01 Piatti stack.vsynpatch",
+        "entryIndex": 89
+      },
+      {
+        "path": "public/patches/04 Percussion/03 Cymbals/01 Piatti.vsynpatch",
+        "entryIndex": 90
+      },
+      {
+        "path": "public/patches/04 Percussion/03 Cymbals/02a Cymbal Stick stack.vsynpatch",
+        "entryIndex": 91
+      },
+      {
+        "path": "public/patches/04 Percussion/03 Cymbals/02a Cymbal Stick.vsynpatch",
+        "entryIndex": 92
+      },
+      {
+        "path": "public/patches/04 Percussion/03 Cymbals/02b Cymbal Mallet stack.vsynpatch",
+        "entryIndex": 93
+      },
+      {
+        "path": "public/patches/04 Percussion/03 Cymbals/02b Cymbal Mallet.vsynpatch",
+        "entryIndex": 94
+      },
+      {
+        "path": "public/patches/04 Percussion/03 Cymbals/03 Tam-tam stack.vsynpatch",
+        "entryIndex": 95
+      },
+      {
+        "path": "public/patches/04 Percussion/03 Cymbals/03 Tam-tam.vsynpatch",
+        "entryIndex": 96
+      },
+      {
+        "path": "public/patches/04 Percussion/04 Mallets/01 Celesta.vsynpatch",
+        "entryIndex": 97
+      },
+      {
+        "path": "public/patches/04 Percussion/04 Mallets/02 Glockenspiel.vsynpatch",
+        "entryIndex": 98
+      },
+      {
+        "path": "public/patches/04 Percussion/04 Mallets/03 Xylophone.vsynpatch",
+        "entryIndex": 99
+      },
+      {
+        "path": "public/patches/04 Percussion/05 Bells/01 Tubular bells.vsynpatch",
+        "entryIndex": 100
+      },
+      {
+        "path": "public/patches/04 Percussion/06 Percussion/01 Triangle stack.vsynpatch",
+        "entryIndex": 101
+      },
+      {
+        "path": "public/patches/04 Percussion/06 Percussion/01 Triangle.vsynpatch",
+        "entryIndex": 102
+      },
+      {
+        "path": "public/patches/04 Percussion/06 Percussion/02 Woodblocks stack.vsynpatch",
+        "entryIndex": 103
+      },
+      {
+        "path": "public/patches/04 Percussion/06 Percussion/02 Woodblocks.vsynpatch",
+        "entryIndex": 104
+      }
+    ]
+  },
+  {
+    "volume": "SY-Prime-Strings-I",
+    "presets": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/01 1st Violins (14 players).vsynpreset",
+        "entryIndex": 0
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/02 2nd Violins (10 players).vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/03 Violas (8 players).vsynpreset",
+        "entryIndex": 2
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/04 Violoncellos (8 players).vsynpreset",
+        "entryIndex": 3
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/05 Double basses (6 players).vsynpreset",
+        "entryIndex": 4
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/06 Strings (14-10-8-8-6) full range.vsynpreset",
+        "entryIndex": 5
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/07 Strings (14-10-8-8-6) compressed range.vsynpreset",
+        "entryIndex": 6
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/01 1st Violins-14 - VelXF sus.vsynpreset",
+        "entryIndex": 7
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/02 2nd Violins-10 - VelXF sus.vsynpreset",
+        "entryIndex": 8
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/03 Violas-8 - VelXF sus.vsynpreset",
+        "entryIndex": 9
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/04 Violoncellos-8 - VelXF sus.vsynpreset",
+        "entryIndex": 10
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/05 Double basses-6 - VelXF sus.vsynpreset",
+        "entryIndex": 11
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/06 Tutti full range-46 - VelXF sus.vsynpreset",
+        "entryIndex": 12
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/07 Tutti compr. range-46 - VelXF sus.vsynpreset",
+        "entryIndex": 13
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/01 1st Violins-14 - VelXF.vsynpreset",
+        "entryIndex": 14
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/02 2nd Violins-10 - VelXF.vsynpreset",
+        "entryIndex": 15
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/03 Violas-8 - VelXF.vsynpreset",
+        "entryIndex": 16
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/04 Violoncellos-8 - VelXF.vsynpreset",
+        "entryIndex": 17
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/05 Double basses-6 - VelXF.vsynpreset",
+        "entryIndex": 18
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/06 Tutti full range-46 - VelXF.vsynpreset",
+        "entryIndex": 19
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/07 Tutti compressed range-46 - VelXF.vsynpreset",
+        "entryIndex": 20
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/01 1st Violins-14 - Velocity.vsynpreset",
+        "entryIndex": 21
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/02 2nd Violins-10 - Velocity.vsynpreset",
+        "entryIndex": 22
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/03 Violas-8 - Velocity.vsynpreset",
+        "entryIndex": 23
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/04 Violoncellos-8 - Velocity.vsynpreset",
+        "entryIndex": 24
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/05 Double basses-6 - Velocity.vsynpreset",
+        "entryIndex": 25
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/06 Tutti full range-46 - Velocity.vsynpreset",
+        "entryIndex": 26
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/07 Tutti compressed range-46 - Velocity.vsynpreset",
+        "entryIndex": 27
+      }
+    ],
+    "patches": [
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/01P VI-14 stac short.vsynpatch",
+        "entryIndex": 28
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/02P VI-14 stac short agile.vsynpatch",
+        "entryIndex": 29
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/03P VI-14 Pizz.vsynpatch",
+        "entryIndex": 30
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/04P VI-14 Pizz-snap.vsynpatch",
+        "entryIndex": 31
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/05P VI-14 Tremolo.vsynpatch",
+        "entryIndex": 32
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/11P VI-14 Long.vsynpatch",
+        "entryIndex": 33
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/12P VI-14 Long RS soft.vsynpatch",
+        "entryIndex": 34
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/13P VI-14 Long AT soft.vsynpatch",
+        "entryIndex": 35
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/14P VI-14 Long AT+RS soft.vsynpatch",
+        "entryIndex": 36
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/15P VI-14 Long sfz.vsynpatch",
+        "entryIndex": 37
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/21P VI-14 Legato.vsynpatch",
+        "entryIndex": 38
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/22P VI-14 Legato RS soft.vsynpatch",
+        "entryIndex": 39
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/23P VI-14 Legato AT soft.vsynpatch",
+        "entryIndex": 40
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/24P VI-14 Legato AT+RS soft.vsynpatch",
+        "entryIndex": 41
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/25P VI-14 Legato AT marcato.vsynpatch",
+        "entryIndex": 42
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/31P VI-14 Portamento.vsynpatch",
+        "entryIndex": 43
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/32P VI-14 Portamento RS soft.vsynpatch",
+        "entryIndex": 44
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/33P VI-14 Portamento AT soft.vsynpatch",
+        "entryIndex": 45
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/34P VI-14 Portamento AT+RS soft.vsynpatch",
+        "entryIndex": 46
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/01 SY 1st Violins-14/35P VI-14 Portamento AT marcato.vsynpatch",
+        "entryIndex": 47
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/01P VI-10 stac short.vsynpatch",
+        "entryIndex": 48
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/02P VI-10 stac short agile.vsynpatch",
+        "entryIndex": 49
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/03P VI-10 Pizz.vsynpatch",
+        "entryIndex": 50
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/04P VI-10 Pizz-snap.vsynpatch",
+        "entryIndex": 51
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/05P VI-10 Tremolo.vsynpatch",
+        "entryIndex": 52
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/11P VI-10 Long.vsynpatch",
+        "entryIndex": 53
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/12P VI-10 Long RS soft.vsynpatch",
+        "entryIndex": 54
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/13P VI-10 Long AT soft.vsynpatch",
+        "entryIndex": 55
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/14P VI-10 Long AT+RS soft.vsynpatch",
+        "entryIndex": 56
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/15P VI-10 Long sfz.vsynpatch",
+        "entryIndex": 57
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/21P VI-10 Legato.vsynpatch",
+        "entryIndex": 58
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/22P VI-10 Legato RS soft.vsynpatch",
+        "entryIndex": 59
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/23P VI-10 Legato AT soft.vsynpatch",
+        "entryIndex": 60
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/24P VI-10 Legato AT+RS soft.vsynpatch",
+        "entryIndex": 61
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/25P VI-10 Legato AT marcato.vsynpatch",
+        "entryIndex": 62
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/31P VI-10 Portamento.vsynpatch",
+        "entryIndex": 63
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/32P VI-10 Portamento RS soft.vsynpatch",
+        "entryIndex": 64
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/33P VI-10 Portamento AT soft.vsynpatch",
+        "entryIndex": 65
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/34P VI-10 Portamento AT+RS soft.vsynpatch",
+        "entryIndex": 66
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/02 SY 2nd Violins-10/35P VI-10 Portamento AT marcato.vsynpatch",
+        "entryIndex": 67
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/01P VA-8 stac short.vsynpatch",
+        "entryIndex": 68
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/02P VA-8 stac short agile.vsynpatch",
+        "entryIndex": 69
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/03P VA-8 Pizz.vsynpatch",
+        "entryIndex": 70
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/04P VA-8 Pizz-snap.vsynpatch",
+        "entryIndex": 71
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/05P VA-8 Tremolo.vsynpatch",
+        "entryIndex": 72
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/11P VA-8 Long.vsynpatch",
+        "entryIndex": 73
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/12P VA-8 Long RS soft.vsynpatch",
+        "entryIndex": 74
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/13P VA-8 Long AT soft.vsynpatch",
+        "entryIndex": 75
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/14P VA-8 Long AT+RS soft.vsynpatch",
+        "entryIndex": 76
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/15P VA-8 Long sfz.vsynpatch",
+        "entryIndex": 77
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/21P VA-8 Legato.vsynpatch",
+        "entryIndex": 78
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/22P VA-8 Legato RS soft.vsynpatch",
+        "entryIndex": 79
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/23P VA-8 Legato AT soft.vsynpatch",
+        "entryIndex": 80
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/24P VA-8 Legato AT+RS soft.vsynpatch",
+        "entryIndex": 81
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/25P VA-8 Legato AT marcato.vsynpatch",
+        "entryIndex": 82
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/31P VA-8 Portamento.vsynpatch",
+        "entryIndex": 83
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/32P VA-8 Portamento RS soft.vsynpatch",
+        "entryIndex": 84
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/33P VA-8 Portamento AT soft.vsynpatch",
+        "entryIndex": 85
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/34P VA-8 Portamento AT+RS soft.vsynpatch",
+        "entryIndex": 86
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/03 SY Violas-8/35P VA-8 Portamento AT marcato.vsynpatch",
+        "entryIndex": 87
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/01P VC-8 stac short.vsynpatch",
+        "entryIndex": 88
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/02P VC-8 stac short agile.vsynpatch",
+        "entryIndex": 89
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/03P VC-8 Pizz.vsynpatch",
+        "entryIndex": 90
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/04P VC-8 Pizz-snap.vsynpatch",
+        "entryIndex": 91
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/05P VC-8 Tremolo.vsynpatch",
+        "entryIndex": 92
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/11P VC-8 Long.vsynpatch",
+        "entryIndex": 93
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/12P VC-8 Long RS soft.vsynpatch",
+        "entryIndex": 94
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/13P VC-8 Long AT soft.vsynpatch",
+        "entryIndex": 95
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/14P VC-8 Long AT+RS soft.vsynpatch",
+        "entryIndex": 96
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/15P VC-8 Long sfz.vsynpatch",
+        "entryIndex": 97
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/21P VC-8 Legato.vsynpatch",
+        "entryIndex": 98
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/22P VC-8 Legato RS soft.vsynpatch",
+        "entryIndex": 99
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/23P VC-8 Legato AT soft.vsynpatch",
+        "entryIndex": 100
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/24P VC-8 Legato AT+RS soft.vsynpatch",
+        "entryIndex": 101
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/25P VC-8 Legato AT marcato.vsynpatch",
+        "entryIndex": 102
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/31P VC-8 Portamento.vsynpatch",
+        "entryIndex": 103
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/32P VC-8 Portamento RS soft.vsynpatch",
+        "entryIndex": 104
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/33P VC-8 Portamento AT soft.vsynpatch",
+        "entryIndex": 105
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/34P VC-8 Portamento AT+RS soft.vsynpatch",
+        "entryIndex": 106
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/04 SY Violoncellos-8/35P VC-8 Portamento AT marcato.vsynpatch",
+        "entryIndex": 107
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/01P DB-6 stac short.vsynpatch",
+        "entryIndex": 108
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/02P DB-6 stac short agile.vsynpatch",
+        "entryIndex": 109
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/03P DB-6 Pizz.vsynpatch",
+        "entryIndex": 110
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/04P DB-6 Pizz-snap.vsynpatch",
+        "entryIndex": 111
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/05P DB-6 Tremolo.vsynpatch",
+        "entryIndex": 112
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/11P DB-6 Long.vsynpatch",
+        "entryIndex": 113
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/12P DB-6 Long RS soft.vsynpatch",
+        "entryIndex": 114
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/13P DB-6 Long AT soft.vsynpatch",
+        "entryIndex": 115
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/14P DB-6 Long AT+RS soft.vsynpatch",
+        "entryIndex": 116
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/15P DB-6 Long sfz.vsynpatch",
+        "entryIndex": 117
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/21P DB-6 Legato.vsynpatch",
+        "entryIndex": 118
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/22P DB-6 Legato RS soft.vsynpatch",
+        "entryIndex": 119
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/23P DB-6 Legato AT soft.vsynpatch",
+        "entryIndex": 120
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/24P DB-6 Legato AT+RS soft.vsynpatch",
+        "entryIndex": 121
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/25P DB-6 Legato AT marcato.vsynpatch",
+        "entryIndex": 122
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/31P DB-6 Portamento.vsynpatch",
+        "entryIndex": 123
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/32P DB-6 Portamento RS soft.vsynpatch",
+        "entryIndex": 124
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/33P DB-6 Portamento AT soft.vsynpatch",
+        "entryIndex": 125
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/34P DB-6 Portamento AT+RS soft.vsynpatch",
+        "entryIndex": 126
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/05 SY Double basses-6/35P DB-6 Portamento AT marcato.vsynpatch",
+        "entryIndex": 127
+      }
+    ]
+  },
+  {
+    "volume": "SY-Prime-Strings-II",
+    "presets": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/11 1st Violins (6 players).vsynpreset",
+        "entryIndex": 0
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/12 2nd Violins (5 players).vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/13 Violas (4 players).vsynpreset",
+        "entryIndex": 2
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/14 Violoncellos (4 players).vsynpreset",
+        "entryIndex": 3
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/15 Double basses (3 players).vsynpreset",
+        "entryIndex": 4
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/16 Strings (6-5-4-4-3) full range.vsynpreset",
+        "entryIndex": 5
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/01 Strings + Harp/17 Strings (6-5-4-4-3) compressed range.vsynpreset",
+        "entryIndex": 6
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/11 1st Violins-6 - VelXF sus.vsynpreset",
+        "entryIndex": 7
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/12 2nd Violins-5 - VelXF sus.vsynpreset",
+        "entryIndex": 8
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/13 Violas-4 - VelXF sus.vsynpreset",
+        "entryIndex": 9
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/14 Violoncellos-4 - VelXF sus.vsynpreset",
+        "entryIndex": 10
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/15 Double basses-3 - VelXF sus.vsynpreset",
+        "entryIndex": 11
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/16 Tutti-22 full range - VelXF sus.vsynpreset",
+        "entryIndex": 12
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/17 Tutti-22 compr. range - VelXF sus.vsynpreset",
+        "entryIndex": 13
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/11 1st Violins-6 - VelXF.vsynpreset",
+        "entryIndex": 14
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/12 2nd Violins-5 - VelXF.vsynpreset",
+        "entryIndex": 15
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/13 Violas-4 - VelXF.vsynpreset",
+        "entryIndex": 16
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/14 Violoncellos-4 - VelXF.vsynpreset",
+        "entryIndex": 17
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/15 Double basses-3 - VelXF.vsynpreset",
+        "entryIndex": 18
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/16 Tutti-22 full range - VelXF.vsynpreset",
+        "entryIndex": 19
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/02 VelXF - MOD/17 Tutti-22 compressed range - VelXF.vsynpreset",
+        "entryIndex": 20
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/11 1st Violins-6 - Velocity.vsynpreset",
+        "entryIndex": 21
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/12 2nd Violins-5 - Velocity.vsynpreset",
+        "entryIndex": 22
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/13 Violas-4 - Velocity.vsynpreset",
+        "entryIndex": 23
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/14 Violoncellos-4 - Velocity.vsynpreset",
+        "entryIndex": 24
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/15 Double basses-3 - Velocity.vsynpreset",
+        "entryIndex": 25
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/16 Tutti-22 full range - Velocity.vsynpreset",
+        "entryIndex": 26
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/01 Strings + Harp/03 Velocity/17 Tutti-22 compressed range - Vel.vsynpreset",
+        "entryIndex": 27
+      }
+    ],
+    "patches": [
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/01P VI-6 stac short.vsynpatch",
+        "entryIndex": 28
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/02P VI-6 stac short agile.vsynpatch",
+        "entryIndex": 29
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/03P VI-6 Pizz.vsynpatch",
+        "entryIndex": 30
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/04P VI-6 Pizz-snap.vsynpatch",
+        "entryIndex": 31
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/05P VI-6 Tremolo.vsynpatch",
+        "entryIndex": 32
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/11P VI-6 Long molto-Vib.vsynpatch",
+        "entryIndex": 33
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/12P VI-6 Long molto-Vib RS-soft.vsynpatch",
+        "entryIndex": 34
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/13P VI-6 Long molto-Vib AT-soft.vsynpatch",
+        "entryIndex": 35
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/14P VI-6 Long molto-Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 36
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/15P VI-6 Long molto-Vib AT-sfz.vsynpatch",
+        "entryIndex": 37
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/21P VI-6 Legato molto-Vib.vsynpatch",
+        "entryIndex": 38
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/22P VI-6 Legato molto-Vib RS-soft.vsynpatch",
+        "entryIndex": 39
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/23P VI-6 Legato molto-Vib AT-soft.vsynpatch",
+        "entryIndex": 40
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/24P VI-6 Legato molto-Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 41
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/25P VI-6 Legato molto-Vib AT-sfz.vsynpatch",
+        "entryIndex": 42
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/31P VI-6 Porta molto-Vib.vsynpatch",
+        "entryIndex": 43
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/32P VI-6 Porta molto-Vib RS-soft.vsynpatch",
+        "entryIndex": 44
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/33P VI-6 Porta molto-Vib AT-soft.vsynpatch",
+        "entryIndex": 45
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/34P VI-6 Porta molto-Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 46
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/11 SY 1st Violins-6/35P VI-6 Porta molto-Vib AT-sfz.vsynpatch",
+        "entryIndex": 47
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/01P VI-5 stac short.vsynpatch",
+        "entryIndex": 48
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/02P VI-5 stac short agile.vsynpatch",
+        "entryIndex": 49
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/03P VI-5 Pizz.vsynpatch",
+        "entryIndex": 50
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/04P VI-5 Pizz-snap.vsynpatch",
+        "entryIndex": 51
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/05P VI-5 Tremolo.vsynpatch",
+        "entryIndex": 52
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/11P VI-5 Long molto-Vib.vsynpatch",
+        "entryIndex": 53
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/12P VI-5 Long molto-Vib RS-soft.vsynpatch",
+        "entryIndex": 54
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/13P VI-5 Long molto-Vib AT-soft.vsynpatch",
+        "entryIndex": 55
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/14P VI-5 Long molto-Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 56
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/15P VI-5 Long molto-Vib AT-sfz.vsynpatch",
+        "entryIndex": 57
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/21P VI-5 Legato molto-Vib.vsynpatch",
+        "entryIndex": 58
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/22P VI-5 Legato molto-Vib RS-soft.vsynpatch",
+        "entryIndex": 59
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/23P VI-5 Legato molto-Vib AT-soft.vsynpatch",
+        "entryIndex": 60
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/24P VI-5 Legato molto-Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 61
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/25P VI-5 Legato molto-Vib AT-sfz.vsynpatch",
+        "entryIndex": 62
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/31P VI-5 Porta molto-Vib.vsynpatch",
+        "entryIndex": 63
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/32P VI-5 Porta molto-Vib RS-soft.vsynpatch",
+        "entryIndex": 64
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/33P VI-5 Porta molto-Vib AT-soft.vsynpatch",
+        "entryIndex": 65
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/34P VI-5 Porta molto-Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 66
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/12 SY 2nd Violins-5/35P VI-5 Porta molto-Vib AT-sfz.vsynpatch",
+        "entryIndex": 67
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/01P VA-4 stac short.vsynpatch",
+        "entryIndex": 68
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/02P VA-4 stac short agile.vsynpatch",
+        "entryIndex": 69
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/03P VA-4 Pizz.vsynpatch",
+        "entryIndex": 70
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/04P VA-4 Pizz-snap.vsynpatch",
+        "entryIndex": 71
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/05P VA-4 Tremolo.vsynpatch",
+        "entryIndex": 72
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/11P VA-4 Long molto-Vib.vsynpatch",
+        "entryIndex": 73
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/12P VA-4 Long molto-Vib RS-soft.vsynpatch",
+        "entryIndex": 74
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/13P VA-4 Long molto-Vib AT-soft.vsynpatch",
+        "entryIndex": 75
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/14P VA-4 Long molto-Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 76
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/15P VA-4 Long molto-Vib AT-sfz.vsynpatch",
+        "entryIndex": 77
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/21P VA-4 Legato molto-Vib.vsynpatch",
+        "entryIndex": 78
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/22P VA-4 Legato molto-Vib RS-soft.vsynpatch",
+        "entryIndex": 79
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/23P VA-4 Legato molto-Vib AT-soft.vsynpatch",
+        "entryIndex": 80
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/24P VA-4 Legato molto-Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 81
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/25P VA-4 Legato molto-Vib AT-sfz.vsynpatch",
+        "entryIndex": 82
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/31P VA-4 Porta molto-Vib.vsynpatch",
+        "entryIndex": 83
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/32P VA-4 Porta molto-Vib RS-soft.vsynpatch",
+        "entryIndex": 84
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/33P VA-4 Porta molto-Vib AT-soft.vsynpatch",
+        "entryIndex": 85
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/34P VA-4 Porta molto-Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 86
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/13 SY Violas-4/35P VA-4 Porta molto-Vib AT-sfz.vsynpatch",
+        "entryIndex": 87
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/01P VC-4 stac short.vsynpatch",
+        "entryIndex": 88
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/02P VC-4 stac short agile.vsynpatch",
+        "entryIndex": 89
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/03P VC-4 Pizz.vsynpatch",
+        "entryIndex": 90
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/04P VC-4 Pizz-snap.vsynpatch",
+        "entryIndex": 91
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/05P VC-4 Tremolo.vsynpatch",
+        "entryIndex": 92
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/11P VC-4 Long molto-Vib.vsynpatch",
+        "entryIndex": 93
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/12P VC-4 Long molto-Vib RS-soft.vsynpatch",
+        "entryIndex": 94
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/13P VC-4 Long molto-Vib AT-soft.vsynpatch",
+        "entryIndex": 95
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/14P VC-4 Long molto-Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 96
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/15P VC-4 Long molto-Vib AT-sfz.vsynpatch",
+        "entryIndex": 97
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/21P VC-4 Legato molto-Vib.vsynpatch",
+        "entryIndex": 98
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/22P VC-4 Legato molto-Vib RS-soft.vsynpatch",
+        "entryIndex": 99
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/23P VC-4 Legato molto-Vib AT-soft.vsynpatch",
+        "entryIndex": 100
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/24P VC-4 Legato molto-Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 101
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/25P VC-4 Legato molto-Vib AT-sfz.vsynpatch",
+        "entryIndex": 102
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/31P VC-4 Porta molto-Vib.vsynpatch",
+        "entryIndex": 103
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/32P VC-4 Porta molto-Vib RS-soft.vsynpatch",
+        "entryIndex": 104
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/33P VC-4 Porta molto-Vib AT-soft.vsynpatch",
+        "entryIndex": 105
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/34P VC-4 Porta molto-Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 106
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/14 SY Violoncellos-4/35P VC-4 Porta molto-Vib AT-sfz.vsynpatch",
+        "entryIndex": 107
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/01P DB-3 stac short.vsynpatch",
+        "entryIndex": 108
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/02P DB-3 stac short agile.vsynpatch",
+        "entryIndex": 109
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/03P DB-3 Pizz.vsynpatch",
+        "entryIndex": 110
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/04P DB-3 Pizz-snap.vsynpatch",
+        "entryIndex": 111
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/05P DB-3 Tremolo.vsynpatch",
+        "entryIndex": 112
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/11P DB-3 Long Vib.vsynpatch",
+        "entryIndex": 113
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/12P DB-3 Long Vib RS-soft.vsynpatch",
+        "entryIndex": 114
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/13P DB-3 Long Vib AT-soft.vsynpatch",
+        "entryIndex": 115
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/14P DB-3 Long Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 116
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/15P DB-3 Long Vib AT-sfz.vsynpatch",
+        "entryIndex": 117
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/21P DB-3 Legato Vib.vsynpatch",
+        "entryIndex": 118
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/22P DB-3 Legato Vib RS-soft.vsynpatch",
+        "entryIndex": 119
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/23P DB-3 Legato Vib AT-soft.vsynpatch",
+        "entryIndex": 120
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/24P DB-3 Legato Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 121
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/25P DB-3 Legato Vib AT-sfz.vsynpatch",
+        "entryIndex": 122
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/31P DB-3 Porta Vib.vsynpatch",
+        "entryIndex": 123
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/32P DB-3 Porta Vib RS-soft.vsynpatch",
+        "entryIndex": 124
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/33P DB-3 Porta Vib AT-soft.vsynpatch",
+        "entryIndex": 125
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/34P DB-3 Porta Vib AT-soft RS-soft.vsynpatch",
+        "entryIndex": 126
+      },
+      {
+        "path": "public/patches/01 Strings + Harp/15 SY Double basses-3/35P DB-3 Porta Vib AT-sfz.vsynpatch",
+        "entryIndex": 127
+      }
+    ]
+  },
+  {
+    "volume": "SY-Prime-Woodwinds",
+    "presets": [
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/01 Piccolo.vsynpreset",
+        "entryIndex": 0
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/02 Flute 1.vsynpreset",
+        "entryIndex": 1
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/03 Flute 2.vsynpreset",
+        "entryIndex": 2
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/11 Oboe 1 (French).vsynpreset",
+        "entryIndex": 3
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/12 Oboe 2 (French).vsynpreset",
+        "entryIndex": 4
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/13 English horn.vsynpreset",
+        "entryIndex": 5
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/21 Clarinet in Bb 1.vsynpreset",
+        "entryIndex": 6
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/22 Clarinet in Bb 2.vsynpreset",
+        "entryIndex": 7
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/23 Bass clarinet.vsynpreset",
+        "entryIndex": 8
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/31 Bassoon 1.vsynpreset",
+        "entryIndex": 9
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/32 Bassoon 2.vsynpreset",
+        "entryIndex": 10
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02a Woodwinds/33 Contrabassoon.vsynpreset",
+        "entryIndex": 11
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02b World Winds/51 Tin whistle.vsynpreset",
+        "entryIndex": 12
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02b World Winds/52 Bansuri.vsynpreset",
+        "entryIndex": 13
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02b World Winds/53 Dizi.vsynpreset",
+        "entryIndex": 14
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/$FLOW_PRIME/02b World Winds/54 Shakuhachi.vsynpreset",
+        "entryIndex": 15
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/01 Piccolo flute - VelXF sus.vsynpreset",
+        "entryIndex": 16
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/02 Flute 1 - VelXF sus.vsynpreset",
+        "entryIndex": 17
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/03 Flute 2 - VelXF sus.vsynpreset",
+        "entryIndex": 18
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/11 Oboe 1 (French) - VelXF sus.vsynpreset",
+        "entryIndex": 19
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/12 Oboe 2 (French) - VelXF sus.vsynpreset",
+        "entryIndex": 20
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/13 English horn - VelXF sus.vsynpreset",
+        "entryIndex": 21
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/21 Clarinet Bb 1 - VelXF sus.vsynpreset",
+        "entryIndex": 22
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/22 Clarinet Bb 2 - VelXF sus.vsynpreset",
+        "entryIndex": 23
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/23 Bass clarinet - VelXF sus.vsynpreset",
+        "entryIndex": 24
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/31 Bassoon 1 - VelXF sus.vsynpreset",
+        "entryIndex": 25
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/32 Bassoon 2 - VelXF sus.vsynpreset",
+        "entryIndex": 26
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/33 Contrabassoon - VelXF sus.vsynpreset",
+        "entryIndex": 27
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/51 Tin whistle - VelXF sus.vsynpreset",
+        "entryIndex": 28
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/52 Bansuri - VelXF sus.vsynpreset",
+        "entryIndex": 29
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/53 Dizi - VelXF sus.vsynpreset",
+        "entryIndex": 30
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/54 Shakuhachi - VelXF sus.vsynpreset",
+        "entryIndex": 31
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/01 Piccolo flute - VelXF.vsynpreset",
+        "entryIndex": 32
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/02 Flute 1 - VelXF.vsynpreset",
+        "entryIndex": 33
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/03 Flute 2 - VelXF.vsynpreset",
+        "entryIndex": 34
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/11 Oboe 1 (French) - VelXF.vsynpreset",
+        "entryIndex": 35
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/12 Oboe 2 (French) - VelXF.vsynpreset",
+        "entryIndex": 36
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/13 English horn - VelXF.vsynpreset",
+        "entryIndex": 37
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/21 Clarinet Bb 1 - VelXF.vsynpreset",
+        "entryIndex": 38
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/22 Clarinet Bb 2 - VelXF.vsynpreset",
+        "entryIndex": 39
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/23 Bass clarinet - VelXF.vsynpreset",
+        "entryIndex": 40
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/31 Bassoon 1 - VelXF.vsynpreset",
+        "entryIndex": 41
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/32 Bassoon 2 - VelXF.vsynpreset",
+        "entryIndex": 42
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/33 Contrabassoon - VelXF.vsynpreset",
+        "entryIndex": 43
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/51 Tin whistle - VelXF.vsynpreset",
+        "entryIndex": 44
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/52 Bansuri - VelXF.vsynpreset",
+        "entryIndex": 45
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/53 Dizi - VelXF.vsynpreset",
+        "entryIndex": 46
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/02 VelXF - MOD/54 Shakuhachi - VelXF.vsynpreset",
+        "entryIndex": 47
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/01 Piccolo flute - Velocity.vsynpreset",
+        "entryIndex": 48
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/02 Flute 1 - Velocity.vsynpreset",
+        "entryIndex": 49
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/03 Flute 2 - Velocity.vsynpreset",
+        "entryIndex": 50
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/11 Oboe 1 (French) - Velocity.vsynpreset",
+        "entryIndex": 51
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/12 Oboe 2 (French) - Velocity.vsynpreset",
+        "entryIndex": 52
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/13 English horn - Velocity.vsynpreset",
+        "entryIndex": 53
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/21 Clarinet Bb 1 - Velocity.vsynpreset",
+        "entryIndex": 54
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/22 Clarinet Bb 2 - Velocity.vsynpreset",
+        "entryIndex": 55
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/23 Bass clarinet - Velocity.vsynpreset",
+        "entryIndex": 56
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/31 Bassoon 1 - Velocity.vsynpreset",
+        "entryIndex": 57
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/32 Bassoon 2 - Velocity.vsynpreset",
+        "entryIndex": 58
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/33 Contrabassoon - Velocity.vsynpreset",
+        "entryIndex": 59
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/51 Tin whistle - Velocity.vsynpreset",
+        "entryIndex": 60
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/52 Bansuri - Velocity.vsynpreset",
+        "entryIndex": 61
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/53 Dizi - Velocity.vsynpreset",
+        "entryIndex": 62
+      },
+      {
+        "path": "at.co.vsl.synchronplayer/presets/SYNCHRON Prime Orchestra/02 Woodwinds/03 Velocity/54 Shakuhachi - Velocity.vsynpreset",
+        "entryIndex": 63
+      }
+    ],
+    "patches": [
+      {
+        "path": "public/patches/02 Woodwinds/01 Piccolo flute/01P PFL Staccato Short.vsynpatch",
+        "entryIndex": 64
+      },
+      {
+        "path": "public/patches/02 Woodwinds/01 Piccolo flute/02P PFL Staccato Short agile.vsynpatch",
+        "entryIndex": 65
+      },
+      {
+        "path": "public/patches/02 Woodwinds/01 Piccolo flute/03P PFL Portato.vsynpatch",
+        "entryIndex": 66
+      },
+      {
+        "path": "public/patches/02 Woodwinds/01 Piccolo flute/04P PFL Portato agile.vsynpatch",
+        "entryIndex": 67
+      },
+      {
+        "path": "public/patches/02 Woodwinds/01 Piccolo flute/11P PFL Long noVib.vsynpatch",
+        "entryIndex": 68
+      },
+      {
+        "path": "public/patches/02 Woodwinds/01 Piccolo flute/12P PFL Long Vib.vsynpatch",
+        "entryIndex": 69
+      },
+      {
+        "path": "public/patches/02 Woodwinds/01 Piccolo flute/15P PFL Long sfz noVib.vsynpatch",
+        "entryIndex": 70
+      },
+      {
+        "path": "public/patches/02 Woodwinds/01 Piccolo flute/17P PFL Long sfz Vib.vsynpatch",
+        "entryIndex": 71
+      },
+      {
+        "path": "public/patches/02 Woodwinds/01 Piccolo flute/21P PFL Legato noVib.vsynpatch",
+        "entryIndex": 72
+      },
+      {
+        "path": "public/patches/02 Woodwinds/01 Piccolo flute/22P PFL Legato Vib.vsynpatch",
+        "entryIndex": 73
+      },
+      {
+        "path": "public/patches/02 Woodwinds/02 Flute 1/01P FL1 Staccato Short.vsynpatch",
+        "entryIndex": 74
+      },
+      {
+        "path": "public/patches/02 Woodwinds/02 Flute 1/02P FL1 Staccato Short agile.vsynpatch",
+        "entryIndex": 75
+      },
+      {
+        "path": "public/patches/02 Woodwinds/02 Flute 1/03P FL1 Portato.vsynpatch",
+        "entryIndex": 76
+      },
+      {
+        "path": "public/patches/02 Woodwinds/02 Flute 1/04P FL1 Portato agile.vsynpatch",
+        "entryIndex": 77
+      },
+      {
+        "path": "public/patches/02 Woodwinds/02 Flute 1/11P FL1 Long noVib.vsynpatch",
+        "entryIndex": 78
+      },
+      {
+        "path": "public/patches/02 Woodwinds/02 Flute 1/12P FL1 Long Vib.vsynpatch",
+        "entryIndex": 79
+      },
+      {
+        "path": "public/patches/02 Woodwinds/02 Flute 1/15P FL1 Long sfz noVib.vsynpatch",
+        "entryIndex": 80
+      },
+      {
+        "path": "public/patches/02 Woodwinds/02 Flute 1/16P FL1 Long sffz noVib.vsynpatch",
+        "entryIndex": 81
+      },
+      {
+        "path": "public/patches/02 Woodwinds/02 Flute 1/17P FL1 Long sfz Vib.vsynpatch",
+        "entryIndex": 82
+      },
+      {
+        "path": "public/patches/02 Woodwinds/02 Flute 1/18P FL1 Long sffz Vib.vsynpatch",
+        "entryIndex": 83
+      },
+      {
+        "path": "public/patches/02 Woodwinds/02 Flute 1/21P FL1 Legato noVib.vsynpatch",
+        "entryIndex": 84
+      },
+      {
+        "path": "public/patches/02 Woodwinds/02 Flute 1/22P FL1 Legato Vib.vsynpatch",
+        "entryIndex": 85
+      },
+      {
+        "path": "public/patches/02 Woodwinds/03 Flute 2/01P FL2 Staccato Short.vsynpatch",
+        "entryIndex": 86
+      },
+      {
+        "path": "public/patches/02 Woodwinds/03 Flute 2/02P FL2 Staccato Short agile.vsynpatch",
+        "entryIndex": 87
+      },
+      {
+        "path": "public/patches/02 Woodwinds/03 Flute 2/03P FL2 Portato.vsynpatch",
+        "entryIndex": 88
+      },
+      {
+        "path": "public/patches/02 Woodwinds/03 Flute 2/04P FL2 Portato agile.vsynpatch",
+        "entryIndex": 89
+      },
+      {
+        "path": "public/patches/02 Woodwinds/03 Flute 2/11P FL2 Long noVib.vsynpatch",
+        "entryIndex": 90
+      },
+      {
+        "path": "public/patches/02 Woodwinds/03 Flute 2/12P FL2 Long Vib.vsynpatch",
+        "entryIndex": 91
+      },
+      {
+        "path": "public/patches/02 Woodwinds/03 Flute 2/15P FL2 Long sfz noVib.vsynpatch",
+        "entryIndex": 92
+      },
+      {
+        "path": "public/patches/02 Woodwinds/03 Flute 2/16P FL2 Long sffz noVib.vsynpatch",
+        "entryIndex": 93
+      },
+      {
+        "path": "public/patches/02 Woodwinds/03 Flute 2/17P FL2 Long sfz Vib.vsynpatch",
+        "entryIndex": 94
+      },
+      {
+        "path": "public/patches/02 Woodwinds/03 Flute 2/18P FL2 Long sffz Vib.vsynpatch",
+        "entryIndex": 95
+      },
+      {
+        "path": "public/patches/02 Woodwinds/03 Flute 2/21P FL2 Legato noVib.vsynpatch",
+        "entryIndex": 96
+      },
+      {
+        "path": "public/patches/02 Woodwinds/03 Flute 2/22P FL2 Legato Vib.vsynpatch",
+        "entryIndex": 97
+      },
+      {
+        "path": "public/patches/02 Woodwinds/11 Oboe 1 (French)/01P OB1 Staccato Short.vsynpatch",
+        "entryIndex": 98
+      },
+      {
+        "path": "public/patches/02 Woodwinds/11 Oboe 1 (French)/02P OB1 Staccato Short agile.vsynpatch",
+        "entryIndex": 99
+      },
+      {
+        "path": "public/patches/02 Woodwinds/11 Oboe 1 (French)/03P OB1 Portato.vsynpatch",
+        "entryIndex": 100
+      },
+      {
+        "path": "public/patches/02 Woodwinds/11 Oboe 1 (French)/04P OB1 Portato agile.vsynpatch",
+        "entryIndex": 101
+      },
+      {
+        "path": "public/patches/02 Woodwinds/11 Oboe 1 (French)/11P OB1 Long noVib.vsynpatch",
+        "entryIndex": 102
+      },
+      {
+        "path": "public/patches/02 Woodwinds/11 Oboe 1 (French)/12P OB1 Long Vib.vsynpatch",
+        "entryIndex": 103
+      },
+      {
+        "path": "public/patches/02 Woodwinds/11 Oboe 1 (French)/15P OB1 Long sfz noVib.vsynpatch",
+        "entryIndex": 104
+      },
+      {
+        "path": "public/patches/02 Woodwinds/11 Oboe 1 (French)/16P OB1 Long sffz noVib.vsynpatch",
+        "entryIndex": 105
+      },
+      {
+        "path": "public/patches/02 Woodwinds/11 Oboe 1 (French)/17P OB1 Long sfz Vib.vsynpatch",
+        "entryIndex": 106
+      },
+      {
+        "path": "public/patches/02 Woodwinds/11 Oboe 1 (French)/18P OB1 Long sffz Vib.vsynpatch",
+        "entryIndex": 107
+      },
+      {
+        "path": "public/patches/02 Woodwinds/11 Oboe 1 (French)/21P OB1 Legato noVib.vsynpatch",
+        "entryIndex": 108
+      },
+      {
+        "path": "public/patches/02 Woodwinds/11 Oboe 1 (French)/22P OB1 Legato Vib.vsynpatch",
+        "entryIndex": 109
+      },
+      {
+        "path": "public/patches/02 Woodwinds/12 Oboe 2 (French)/01P OB2 Staccato Short.vsynpatch",
+        "entryIndex": 110
+      },
+      {
+        "path": "public/patches/02 Woodwinds/12 Oboe 2 (French)/02P OB2 Staccato Short agile.vsynpatch",
+        "entryIndex": 111
+      },
+      {
+        "path": "public/patches/02 Woodwinds/12 Oboe 2 (French)/03P OB2 Portato.vsynpatch",
+        "entryIndex": 112
+      },
+      {
+        "path": "public/patches/02 Woodwinds/12 Oboe 2 (French)/04P OB2 Portato agile.vsynpatch",
+        "entryIndex": 113
+      },
+      {
+        "path": "public/patches/02 Woodwinds/12 Oboe 2 (French)/11P OB2 Long noVib.vsynpatch",
+        "entryIndex": 114
+      },
+      {
+        "path": "public/patches/02 Woodwinds/12 Oboe 2 (French)/12P OB2 Long Vib.vsynpatch",
+        "entryIndex": 115
+      },
+      {
+        "path": "public/patches/02 Woodwinds/12 Oboe 2 (French)/15P OB2 Long sfz noVib.vsynpatch",
+        "entryIndex": 116
+      },
+      {
+        "path": "public/patches/02 Woodwinds/12 Oboe 2 (French)/16P OB2 Long sffz noVib.vsynpatch",
+        "entryIndex": 117
+      },
+      {
+        "path": "public/patches/02 Woodwinds/12 Oboe 2 (French)/17P OB2 Long sfz Vib.vsynpatch",
+        "entryIndex": 118
+      },
+      {
+        "path": "public/patches/02 Woodwinds/12 Oboe 2 (French)/18P OB2 Long sffz Vib.vsynpatch",
+        "entryIndex": 119
+      },
+      {
+        "path": "public/patches/02 Woodwinds/12 Oboe 2 (French)/21P OB2 Legato noVib.vsynpatch",
+        "entryIndex": 120
+      },
+      {
+        "path": "public/patches/02 Woodwinds/12 Oboe 2 (French)/22P OB2 Legato Vib.vsynpatch",
+        "entryIndex": 121
+      },
+      {
+        "path": "public/patches/02 Woodwinds/13 English horn/01P EH Staccato Short.vsynpatch",
+        "entryIndex": 122
+      },
+      {
+        "path": "public/patches/02 Woodwinds/13 English horn/02P EH Staccato Short agile.vsynpatch",
+        "entryIndex": 123
+      },
+      {
+        "path": "public/patches/02 Woodwinds/13 English horn/03P EH Portato.vsynpatch",
+        "entryIndex": 124
+      },
+      {
+        "path": "public/patches/02 Woodwinds/13 English horn/04P EH Portato agile.vsynpatch",
+        "entryIndex": 125
+      },
+      {
+        "path": "public/patches/02 Woodwinds/13 English horn/11P EH Long noVib.vsynpatch",
+        "entryIndex": 126
+      },
+      {
+        "path": "public/patches/02 Woodwinds/13 English horn/12P EH Long Vib.vsynpatch",
+        "entryIndex": 127
+      },
+      {
+        "path": "public/patches/02 Woodwinds/13 English horn/15P EH Long sfz noVib.vsynpatch",
+        "entryIndex": 128
+      },
+      {
+        "path": "public/patches/02 Woodwinds/13 English horn/16P EH Long sffz noVib.vsynpatch",
+        "entryIndex": 129
+      },
+      {
+        "path": "public/patches/02 Woodwinds/13 English horn/17P EH Long sfz Vib.vsynpatch",
+        "entryIndex": 130
+      },
+      {
+        "path": "public/patches/02 Woodwinds/13 English horn/18P EH Long sffz Vib.vsynpatch",
+        "entryIndex": 131
+      },
+      {
+        "path": "public/patches/02 Woodwinds/13 English horn/21P EH Legato noVib.vsynpatch",
+        "entryIndex": 132
+      },
+      {
+        "path": "public/patches/02 Woodwinds/13 English horn/22P EH Legato Vib.vsynpatch",
+        "entryIndex": 133
+      },
+      {
+        "path": "public/patches/02 Woodwinds/21 Clarinet Bb 1/01P CLBb1 Staccato Short.vsynpatch",
+        "entryIndex": 134
+      },
+      {
+        "path": "public/patches/02 Woodwinds/21 Clarinet Bb 1/02P CLBb1 Staccato Short agile.vsynpatch",
+        "entryIndex": 135
+      },
+      {
+        "path": "public/patches/02 Woodwinds/21 Clarinet Bb 1/03P CLBb1 Portato.vsynpatch",
+        "entryIndex": 136
+      },
+      {
+        "path": "public/patches/02 Woodwinds/21 Clarinet Bb 1/04P CLBb1 Portato agile.vsynpatch",
+        "entryIndex": 137
+      },
+      {
+        "path": "public/patches/02 Woodwinds/21 Clarinet Bb 1/11P CLBb1 Long.vsynpatch",
+        "entryIndex": 138
+      },
+      {
+        "path": "public/patches/02 Woodwinds/21 Clarinet Bb 1/15P CLBb1 Long sfz.vsynpatch",
+        "entryIndex": 139
+      },
+      {
+        "path": "public/patches/02 Woodwinds/21 Clarinet Bb 1/16P CLBb1 Long sffz.vsynpatch",
+        "entryIndex": 140
+      },
+      {
+        "path": "public/patches/02 Woodwinds/21 Clarinet Bb 1/21P CLBb1 Legato.vsynpatch",
+        "entryIndex": 141
+      },
+      {
+        "path": "public/patches/02 Woodwinds/22 Clarinet Bb 2/01P CLBb2 Staccato Short.vsynpatch",
+        "entryIndex": 142
+      },
+      {
+        "path": "public/patches/02 Woodwinds/22 Clarinet Bb 2/02P CLBb2 Staccato Short agile.vsynpatch",
+        "entryIndex": 143
+      },
+      {
+        "path": "public/patches/02 Woodwinds/22 Clarinet Bb 2/03P CLBb2 Portato.vsynpatch",
+        "entryIndex": 144
+      },
+      {
+        "path": "public/patches/02 Woodwinds/22 Clarinet Bb 2/04P CLBb2 Portato agile.vsynpatch",
+        "entryIndex": 145
+      },
+      {
+        "path": "public/patches/02 Woodwinds/22 Clarinet Bb 2/11P CLBb2 Long.vsynpatch",
+        "entryIndex": 146
+      },
+      {
+        "path": "public/patches/02 Woodwinds/22 Clarinet Bb 2/15P CLBb2 Long sfz.vsynpatch",
+        "entryIndex": 147
+      },
+      {
+        "path": "public/patches/02 Woodwinds/22 Clarinet Bb 2/16P CLBb2 Long sffz.vsynpatch",
+        "entryIndex": 148
+      },
+      {
+        "path": "public/patches/02 Woodwinds/22 Clarinet Bb 2/21P CLBb2 Legato.vsynpatch",
+        "entryIndex": 149
+      },
+      {
+        "path": "public/patches/02 Woodwinds/23 Bass clarinet/01P BCL Staccato Short.vsynpatch",
+        "entryIndex": 150
+      },
+      {
+        "path": "public/patches/02 Woodwinds/23 Bass clarinet/02P BCL Staccato Short agile.vsynpatch",
+        "entryIndex": 151
+      },
+      {
+        "path": "public/patches/02 Woodwinds/23 Bass clarinet/03P BCL Portato.vsynpatch",
+        "entryIndex": 152
+      },
+      {
+        "path": "public/patches/02 Woodwinds/23 Bass clarinet/04P BCL Portato agile.vsynpatch",
+        "entryIndex": 153
+      },
+      {
+        "path": "public/patches/02 Woodwinds/23 Bass clarinet/11P BCL Long.vsynpatch",
+        "entryIndex": 154
+      },
+      {
+        "path": "public/patches/02 Woodwinds/23 Bass clarinet/15P BCL Long sfz.vsynpatch",
+        "entryIndex": 155
+      },
+      {
+        "path": "public/patches/02 Woodwinds/23 Bass clarinet/16P BCL Long sffz.vsynpatch",
+        "entryIndex": 156
+      },
+      {
+        "path": "public/patches/02 Woodwinds/23 Bass clarinet/21P BCL Legato.vsynpatch",
+        "entryIndex": 157
+      },
+      {
+        "path": "public/patches/02 Woodwinds/31 Bassoon 1/01P BA1 Staccato Short.vsynpatch",
+        "entryIndex": 158
+      },
+      {
+        "path": "public/patches/02 Woodwinds/31 Bassoon 1/02P BA1 Staccato Short agile.vsynpatch",
+        "entryIndex": 159
+      },
+      {
+        "path": "public/patches/02 Woodwinds/31 Bassoon 1/03P BA1 Portato.vsynpatch",
+        "entryIndex": 160
+      },
+      {
+        "path": "public/patches/02 Woodwinds/31 Bassoon 1/04P BA1 Portato agile.vsynpatch",
+        "entryIndex": 161
+      },
+      {
+        "path": "public/patches/02 Woodwinds/31 Bassoon 1/11P BA1 Long noVib.vsynpatch",
+        "entryIndex": 162
+      },
+      {
+        "path": "public/patches/02 Woodwinds/31 Bassoon 1/12P BA1 Long Vib.vsynpatch",
+        "entryIndex": 163
+      },
+      {
+        "path": "public/patches/02 Woodwinds/31 Bassoon 1/15P BA1 Long sfz noVib.vsynpatch",
+        "entryIndex": 164
+      },
+      {
+        "path": "public/patches/02 Woodwinds/31 Bassoon 1/16P BA1 Long sffz noVib.vsynpatch",
+        "entryIndex": 165
+      },
+      {
+        "path": "public/patches/02 Woodwinds/31 Bassoon 1/17P BA1 Long sfz Vib.vsynpatch",
+        "entryIndex": 166
+      },
+      {
+        "path": "public/patches/02 Woodwinds/31 Bassoon 1/18P BA1 Long sffz Vib.vsynpatch",
+        "entryIndex": 167
+      },
+      {
+        "path": "public/patches/02 Woodwinds/31 Bassoon 1/21P BA1 Legato noVib.vsynpatch",
+        "entryIndex": 168
+      },
+      {
+        "path": "public/patches/02 Woodwinds/31 Bassoon 1/22P BA1 Legato Vib.vsynpatch",
+        "entryIndex": 169
+      },
+      {
+        "path": "public/patches/02 Woodwinds/32 Bassoon 2/01P BA2 Staccato Short.vsynpatch",
+        "entryIndex": 170
+      },
+      {
+        "path": "public/patches/02 Woodwinds/32 Bassoon 2/02P BA2 Staccato Short agile.vsynpatch",
+        "entryIndex": 171
+      },
+      {
+        "path": "public/patches/02 Woodwinds/32 Bassoon 2/03P BA2 Portato.vsynpatch",
+        "entryIndex": 172
+      },
+      {
+        "path": "public/patches/02 Woodwinds/32 Bassoon 2/04P BA2 Portato agile.vsynpatch",
+        "entryIndex": 173
+      },
+      {
+        "path": "public/patches/02 Woodwinds/32 Bassoon 2/11P BA2 Long noVib.vsynpatch",
+        "entryIndex": 174
+      },
+      {
+        "path": "public/patches/02 Woodwinds/32 Bassoon 2/12P BA2 Long Vib.vsynpatch",
+        "entryIndex": 175
+      },
+      {
+        "path": "public/patches/02 Woodwinds/32 Bassoon 2/15P BA2 Long sfz noVib.vsynpatch",
+        "entryIndex": 176
+      },
+      {
+        "path": "public/patches/02 Woodwinds/32 Bassoon 2/16P BA2 Long sffz noVib.vsynpatch",
+        "entryIndex": 177
+      },
+      {
+        "path": "public/patches/02 Woodwinds/32 Bassoon 2/21P BA2 Legato noVib.vsynpatch",
+        "entryIndex": 178
+      },
+      {
+        "path": "public/patches/02 Woodwinds/32 Bassoon 2/22P BA2 Legato Vib.vsynpatch",
+        "entryIndex": 179
+      },
+      {
+        "path": "public/patches/02 Woodwinds/33 Contrabassoon/01P CBA Staccato Short.vsynpatch",
+        "entryIndex": 180
+      },
+      {
+        "path": "public/patches/02 Woodwinds/33 Contrabassoon/02P CBA Staccato Short agile.vsynpatch",
+        "entryIndex": 181
+      },
+      {
+        "path": "public/patches/02 Woodwinds/33 Contrabassoon/03P CBA Portato.vsynpatch",
+        "entryIndex": 182
+      },
+      {
+        "path": "public/patches/02 Woodwinds/33 Contrabassoon/04P CBA Portato agile.vsynpatch",
+        "entryIndex": 183
+      },
+      {
+        "path": "public/patches/02 Woodwinds/33 Contrabassoon/11P CBA Long.vsynpatch",
+        "entryIndex": 184
+      },
+      {
+        "path": "public/patches/02 Woodwinds/33 Contrabassoon/15P CBA Long sfz.vsynpatch",
+        "entryIndex": 185
+      },
+      {
+        "path": "public/patches/02 Woodwinds/33 Contrabassoon/16P CBA Long sffz.vsynpatch",
+        "entryIndex": 186
+      },
+      {
+        "path": "public/patches/02 Woodwinds/33 Contrabassoon/21P CBA Legato.vsynpatch",
+        "entryIndex": 187
+      },
+      {
+        "path": "public/patches/02 Woodwinds/51 Tin Whistle/01 TW Staccato.vsynpatch",
+        "entryIndex": 188
+      },
+      {
+        "path": "public/patches/02 Woodwinds/51 Tin Whistle/02 TW Portato grace.vsynpatch",
+        "entryIndex": 189
+      },
+      {
+        "path": "public/patches/02 Woodwinds/51 Tin Whistle/11 TW Long.vsynpatch",
+        "entryIndex": 190
+      },
+      {
+        "path": "public/patches/02 Woodwinds/51 Tin Whistle/12 TW Long Cut.vsynpatch",
+        "entryIndex": 191
+      },
+      {
+        "path": "public/patches/02 Woodwinds/51 Tin Whistle/13 TW Long Roll.vsynpatch",
+        "entryIndex": 192
+      },
+      {
+        "path": "public/patches/02 Woodwinds/51 Tin Whistle/14 TW Long Gliss.vsynpatch",
+        "entryIndex": 193
+      },
+      {
+        "path": "public/patches/02 Woodwinds/51 Tin Whistle/21 TW Legato.vsynpatch",
+        "entryIndex": 194
+      },
+      {
+        "path": "public/patches/02 Woodwinds/51 Tin Whistle/22 TW Legato Cut.vsynpatch",
+        "entryIndex": 195
+      },
+      {
+        "path": "public/patches/02 Woodwinds/51 Tin Whistle/23 TW Legato Roll.vsynpatch",
+        "entryIndex": 196
+      },
+      {
+        "path": "public/patches/02 Woodwinds/51 Tin Whistle/24 TW Legato Gliss.vsynpatch",
+        "entryIndex": 197
+      },
+      {
+        "path": "public/patches/02 Woodwinds/52 Bansuri/01 BAN Staccato.vsynpatch",
+        "entryIndex": 198
+      },
+      {
+        "path": "public/patches/02 Woodwinds/52 Bansuri/02 BAN Kana short.vsynpatch",
+        "entryIndex": 199
+      },
+      {
+        "path": "public/patches/02 Woodwinds/52 Bansuri/11 BAN Long.vsynpatch",
+        "entryIndex": 200
+      },
+      {
+        "path": "public/patches/02 Woodwinds/52 Bansuri/12 BAN Long Kana.vsynpatch",
+        "entryIndex": 201
+      },
+      {
+        "path": "public/patches/02 Woodwinds/52 Bansuri/13 BAN Long dR.vsynpatch",
+        "entryIndex": 202
+      },
+      {
+        "path": "public/patches/02 Woodwinds/52 Bansuri/14 BAN Long Kana dR.vsynpatch",
+        "entryIndex": 203
+      },
+      {
+        "path": "public/patches/02 Woodwinds/52 Bansuri/21 BAN Legato.vsynpatch",
+        "entryIndex": 204
+      },
+      {
+        "path": "public/patches/02 Woodwinds/52 Bansuri/22 BAN Legato Kana.vsynpatch",
+        "entryIndex": 205
+      },
+      {
+        "path": "public/patches/02 Woodwinds/52 Bansuri/23 BAN Legato dR.vsynpatch",
+        "entryIndex": 206
+      },
+      {
+        "path": "public/patches/02 Woodwinds/52 Bansuri/24 BAN Legato Kana dR.vsynpatch",
+        "entryIndex": 207
+      },
+      {
+        "path": "public/patches/02 Woodwinds/53 Dizi/01 DIZ Staccato.vsynpatch",
+        "entryIndex": 208
+      },
+      {
+        "path": "public/patches/02 Woodwinds/53 Dizi/02 DIZ Portato.vsynpatch",
+        "entryIndex": 209
+      },
+      {
+        "path": "public/patches/02 Woodwinds/53 Dizi/11 DIZ Long.vsynpatch",
+        "entryIndex": 210
+      },
+      {
+        "path": "public/patches/02 Woodwinds/53 Dizi/12 DIZ Long Gamaka 2.vsynpatch",
+        "entryIndex": 211
+      },
+      {
+        "path": "public/patches/02 Woodwinds/53 Dizi/13 DIZ Long fxR.vsynpatch",
+        "entryIndex": 212
+      },
+      {
+        "path": "public/patches/02 Woodwinds/53 Dizi/14 DIZ Long Gamaka 2 fxR.vsynpatch",
+        "entryIndex": 213
+      },
+      {
+        "path": "public/patches/02 Woodwinds/53 Dizi/21 DIZ Legato.vsynpatch",
+        "entryIndex": 214
+      },
+      {
+        "path": "public/patches/02 Woodwinds/53 Dizi/22 DIZ Legato Gamaka 2.vsynpatch",
+        "entryIndex": 215
+      },
+      {
+        "path": "public/patches/02 Woodwinds/53 Dizi/23 DIZ Legato fxR.vsynpatch",
+        "entryIndex": 216
+      },
+      {
+        "path": "public/patches/02 Woodwinds/53 Dizi/24 DIZ Legato Gamaka 2 fxR.vsynpatch",
+        "entryIndex": 217
+      },
+      {
+        "path": "public/patches/02 Woodwinds/54 Shakuhachi/01 SHA Staccato.vsynpatch",
+        "entryIndex": 218
+      },
+      {
+        "path": "public/patches/02 Woodwinds/54 Shakuhachi/02 SHA Portato FX.vsynpatch",
+        "entryIndex": 219
+      },
+      {
+        "path": "public/patches/02 Woodwinds/54 Shakuhachi/11 SHA Long.vsynpatch",
+        "entryIndex": 220
+      },
+      {
+        "path": "public/patches/02 Woodwinds/54 Shakuhachi/12 SHA Long Grace.vsynpatch",
+        "entryIndex": 221
+      },
+      {
+        "path": "public/patches/02 Woodwinds/54 Shakuhachi/13 SHA Long fxR.vsynpatch",
+        "entryIndex": 222
+      },
+      {
+        "path": "public/patches/02 Woodwinds/54 Shakuhachi/14 SHA Long Grace fxR.vsynpatch",
+        "entryIndex": 223
+      },
+      {
+        "path": "public/patches/02 Woodwinds/54 Shakuhachi/21 SHA Legato.vsynpatch",
+        "entryIndex": 224
+      },
+      {
+        "path": "public/patches/02 Woodwinds/54 Shakuhachi/22 SHA Legato Grace.vsynpatch",
+        "entryIndex": 225
+      },
+      {
+        "path": "public/patches/02 Woodwinds/54 Shakuhachi/23 SHA Legato fxR.vsynpatch",
+        "entryIndex": 226
+      },
+      {
+        "path": "public/patches/02 Woodwinds/54 Shakuhachi/24 SHA Legato Grace fxR.vsynpatch",
+        "entryIndex": 227
+      }
+    ]
+  }
+]

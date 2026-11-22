@@ -1,0 +1,889 @@
+{
+  "Flute": {
+    "provenance": "Existing RPP state, NOT newly extracted factory preset",
+    "lastPresetPath": "Factory/SYNCHRON Prime Orchestra/02 Woodwinds/01 VelXF sus - MOD/02 Flute 1 - VelXF sus",
+    "mappings": {
+      "mappings": {
+        "attack": {
+          "source": "cc22"
+        },
+        "dynamicRange": {
+          "source": "cc30"
+        },
+        "expression": {
+          "source": "cc11"
+        },
+        "filterValue": {
+          "source": "cc24"
+        },
+        "humanizeDelayScale": {
+          "source": "cc25"
+        },
+        "humanizePitchScale": {
+          "source": "cc26"
+        },
+        "humanizeScale": {
+          "source": "cc27"
+        },
+        "legatoBlur": {
+          "source": "cc33"
+        },
+        "masterVolume": {
+          "source": "cc7"
+        },
+        "mix0volume": {
+          "source": "cc41"
+        },
+        "mix10volume": {
+          "source": "cc51"
+        },
+        "mix11volume": {
+          "source": "cc52"
+        },
+        "mix1volume": {
+          "source": "cc42"
+        },
+        "mix2volume": {
+          "source": "cc43"
+        },
+        "mix3volume": {
+          "source": "cc44"
+        },
+        "mix4volume": {
+          "source": "cc45"
+        },
+        "mix5volume": {
+          "source": "cc46"
+        },
+        "mix6volume": {
+          "source": "cc47"
+        },
+        "mix7volume": {
+          "source": "cc48"
+        },
+        "mix8volume": {
+          "source": "cc49"
+        },
+        "mix9volume": {
+          "source": "cc50"
+        },
+        "nodeXFade0": {
+          "source": "cc3"
+        },
+        "nodeXFade1": {
+          "source": "cc4"
+        },
+        "nodeXFade2": {
+          "source": "cc20"
+        },
+        "nodeXFade3": {
+          "source": "speed"
+        },
+        "nodeXFade4": {
+          "source": "cc6"
+        },
+        "release": {
+          "source": "cc23"
+        },
+        "return0volume": {
+          "source": "cc5"
+        },
+        "reverbEnabled": {
+          "source": "cc15"
+        },
+        "reverbLevel": {
+          "source": "cc14"
+        },
+        "stretchFactor": {
+          "source": "cc34"
+        },
+        "timbreAdjust": {
+          "source": "cc8"
+        },
+        "velXFade": {
+          "source": "cc1"
+        },
+        "velXFadeEnabled": {
+          "source": "cc28"
+        }
+      },
+      "version": 1
+    },
+    "tree": {
+      "title": "",
+      "subTitle": "Articulation",
+      "switchControl": 25,
+      "whiteNoteSwitch": false,
+      "currentNodeIndex": 1.0,
+      "nodes": [
+        {
+          "title": "Short notes",
+          "subTitle": "Attack / Type",
+          "switchControl": 37,
+          "whiteNoteSwitch": false,
+          "currentNodeIndex": 0.0,
+          "nodes": [
+            {
+              "title": "Staccato",
+              "rangeFrom": 59,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/01P FL1 Staccato Short.vsynpatch",
+              "patchName": "01P FL1 Staccato Short"
+            },
+            {
+              "title": "Staccato agile",
+              "rangeFrom": 59,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/02P FL1 Staccato Short agile.vsynpatch",
+              "patchName": "02P FL1 Staccato Short agile"
+            },
+            {
+              "title": "Portato",
+              "rangeFrom": 59,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/03P FL1 Portato.vsynpatch",
+              "patchName": "03P FL1 Portato"
+            },
+            {
+              "title": "Portato agile",
+              "rangeFrom": 59,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/04P FL1 Portato agile.vsynpatch",
+              "patchName": "04P FL1 Portato agile"
+            }
+          ]
+        },
+        {
+          "title": "Long notes",
+          "subTitle": "Vibrato",
+          "switchControl": 37,
+          "whiteNoteSwitch": false,
+          "currentNodeIndex": 0.0,
+          "nodes": [
+            {
+              "title": "Senza vibrato",
+              "rangeFrom": 59,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/11P FL1 Long noVib.vsynpatch",
+              "patchName": "11P FL1 Long noVib"
+            },
+            {
+              "title": "Con vibrato",
+              "rangeFrom": 59,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/12P FL1 Long Vib.vsynpatch",
+              "patchName": "12P FL1 Long Vib"
+            },
+            {
+              "title": "XF vibrato",
+              "subTitle": "XF vibrato",
+              "switchControl": 259,
+              "whiteNoteSwitch": false,
+              "currentNodeIndex": 0.5,
+              "nodes": [
+                {
+                  "title": "Senza vibrato",
+                  "rangeFrom": 59,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/11P FL1 Long noVib.vsynpatch",
+                  "patchName": "11P FL1 Long noVib"
+                },
+                {
+                  "title": "Con vibrato",
+                  "rangeFrom": 59,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/12P FL1 Long Vib.vsynpatch",
+                  "patchName": "12P FL1 Long Vib"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Legato",
+          "subTitle": "Vibrato",
+          "switchControl": 37,
+          "whiteNoteSwitch": false,
+          "currentNodeIndex": 0.0,
+          "nodes": [
+            {
+              "title": "Senza vibrato",
+              "rangeFrom": 59,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/21P FL1 Legato noVib.vsynpatch",
+              "patchName": "21P FL1 Legato noVib"
+            },
+            {
+              "title": "Con vibrato",
+              "rangeFrom": 59,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/22P FL1 Legato Vib.vsynpatch",
+              "patchName": "22P FL1 Legato Vib"
+            },
+            {
+              "title": "XF vibrato",
+              "subTitle": "XF vibrato",
+              "switchControl": 259,
+              "whiteNoteSwitch": false,
+              "currentNodeIndex": 0.5,
+              "nodes": [
+                {
+                  "title": "Senza vibrato",
+                  "rangeFrom": 59,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/21P FL1 Legato noVib.vsynpatch",
+                  "patchName": "21P FL1 Legato noVib"
+                },
+                {
+                  "title": "Con vibrato",
+                  "rangeFrom": 59,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/22P FL1 Legato Vib.vsynpatch",
+                  "patchName": "22P FL1 Legato Vib"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sforzato",
+          "subTitle": "Vibrato / Type",
+          "switchControl": 37,
+          "whiteNoteSwitch": false,
+          "currentNodeIndex": 0.0,
+          "nodes": [
+            {
+              "title": "Sfz senza vib.",
+              "rangeFrom": 59,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/15P FL1 Long sfz noVib.vsynpatch",
+              "patchName": "15P FL1 Long sfz noVib"
+            },
+            {
+              "title": "Sfz con vib.",
+              "rangeFrom": 59,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/17P FL1 Long sfz Vib.vsynpatch",
+              "patchName": "17P FL1 Long sfz Vib"
+            },
+            {
+              "title": "Sffz senza vib.",
+              "rangeFrom": 59,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/16P FL1 Long sffz noVib.vsynpatch",
+              "patchName": "16P FL1 Long sffz noVib"
+            },
+            {
+              "title": "Sffz con vib.",
+              "rangeFrom": 59,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/18P FL1 Long sffz Vib.vsynpatch",
+              "patchName": "18P FL1 Long sffz Vib"
+            },
+            {
+              "title": "Sfz XF vibrato",
+              "subTitle": "XF vibrato",
+              "switchControl": 259,
+              "whiteNoteSwitch": false,
+              "currentNodeIndex": 0.5,
+              "nodes": [
+                {
+                  "title": "Senza vibrato",
+                  "rangeFrom": 59,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/15P FL1 Long sfz noVib.vsynpatch",
+                  "patchName": "15P FL1 Long sfz noVib"
+                },
+                {
+                  "title": "Con vibrato",
+                  "rangeFrom": 59,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/17P FL1 Long sfz Vib.vsynpatch",
+                  "patchName": "17P FL1 Long sfz Vib"
+                }
+              ]
+            },
+            {
+              "title": "Sffz XF vibrato",
+              "subTitle": "XF vibrato",
+              "switchControl": 259,
+              "whiteNoteSwitch": false,
+              "currentNodeIndex": 0.5,
+              "nodes": [
+                {
+                  "title": "Senza vibrato",
+                  "rangeFrom": 59,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/16P FL1 Long sffz noVib.vsynpatch",
+                  "patchName": "16P FL1 Long sffz noVib"
+                },
+                {
+                  "title": "Con vibrato",
+                  "rangeFrom": 59,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.ww:public/patches/02 Woodwinds/02 Flute 1/18P FL1 Long sffz Vib.vsynpatch",
+                  "patchName": "18P FL1 Long sffz Vib"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Custom",
+          "subTitle": "Custom",
+          "switchControl": 37,
+          "whiteNoteSwitch": false,
+          "currentNodeIndex": 0.0,
+          "nodes": [
+            {
+              "title": "Custom 1",
+              "rangeFrom": 0,
+              "rangeTo": 127,
+              "patchEntry": null,
+              "patchName": ""
+            },
+            {
+              "title": "Custom 2",
+              "rangeFrom": 0,
+              "rangeTo": 127,
+              "patchEntry": null,
+              "patchName": ""
+            },
+            {
+              "title": "Custom 3",
+              "rangeFrom": 0,
+              "rangeTo": 127,
+              "patchEntry": null,
+              "patchName": ""
+            },
+            {
+              "title": "Custom 4",
+              "rangeFrom": 0,
+              "rangeTo": 127,
+              "patchEntry": null,
+              "patchName": ""
+            },
+            {
+              "title": "Custom 5",
+              "rangeFrom": 0,
+              "rangeTo": 127,
+              "patchEntry": null,
+              "patchName": ""
+            },
+            {
+              "title": "Custom 6",
+              "rangeFrom": 0,
+              "rangeTo": 127,
+              "patchEntry": null,
+              "patchName": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "vln1": {
+    "provenance": "Existing RPP state, NOT newly extracted factory preset",
+    "lastPresetPath": "Factory/SYNCHRON Prime Orchestra/01 Strings + Harp/01 VelXF sus - MOD/01 1st Violins-14 - VelXF sus",
+    "mappings": {
+      "mappings": {
+        "attack": {
+          "source": "cc22"
+        },
+        "dynamicRange": {
+          "source": "cc30"
+        },
+        "expression": {
+          "source": "cc11"
+        },
+        "filterValue": {
+          "source": "cc24"
+        },
+        "humanizeDelayScale": {
+          "source": "cc25"
+        },
+        "humanizePitchScale": {
+          "source": "cc26"
+        },
+        "humanizeScale": {
+          "source": "cc27"
+        },
+        "legatoBlur": {
+          "source": "cc33"
+        },
+        "masterVolume": {
+          "source": "cc7"
+        },
+        "mix0volume": {
+          "source": "cc41"
+        },
+        "mix10volume": {
+          "source": "cc51"
+        },
+        "mix11volume": {
+          "source": "cc52"
+        },
+        "mix1volume": {
+          "source": "cc42"
+        },
+        "mix2volume": {
+          "source": "cc43"
+        },
+        "mix3volume": {
+          "source": "cc44"
+        },
+        "mix4volume": {
+          "source": "cc45"
+        },
+        "mix5volume": {
+          "source": "cc46"
+        },
+        "mix6volume": {
+          "source": "cc47"
+        },
+        "mix7volume": {
+          "source": "cc48"
+        },
+        "mix8volume": {
+          "source": "cc49"
+        },
+        "mix9volume": {
+          "source": "cc50"
+        },
+        "nodeXFade0": {
+          "source": "cc3"
+        },
+        "nodeXFade1": {
+          "source": "cc4"
+        },
+        "nodeXFade2": {
+          "source": "cc20"
+        },
+        "nodeXFade3": {
+          "source": "speed"
+        },
+        "nodeXFade4": {
+          "source": "cc6"
+        },
+        "release": {
+          "source": "cc23"
+        },
+        "return0volume": {
+          "source": "cc5"
+        },
+        "reverbEnabled": {
+          "source": "cc15"
+        },
+        "reverbLevel": {
+          "source": "cc14"
+        },
+        "stretchFactor": {
+          "source": "cc34"
+        },
+        "timbreAdjust": {
+          "source": "cc8"
+        },
+        "velXFade": {
+          "source": "cc1"
+        },
+        "velXFadeEnabled": {
+          "source": "cc28"
+        }
+      },
+      "version": 1
+    },
+    "tree": {
+      "title": "",
+      "subTitle": "Articulation",
+      "switchControl": 25,
+      "whiteNoteSwitch": false,
+      "currentNodeIndex": 1.0,
+      "nodes": [
+        {
+          "title": "Staccato",
+          "subTitle": "Attack",
+          "switchControl": 37,
+          "whiteNoteSwitch": false,
+          "currentNodeIndex": 0.0,
+          "nodes": [
+            {
+              "title": "Bold",
+              "rangeFrom": 55,
+              "rangeTo": 103,
+              "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/01P VI-14 stac short.vsynpatch",
+              "patchName": "01P VI-14 stac short"
+            },
+            {
+              "title": "Agile",
+              "rangeFrom": 55,
+              "rangeTo": 103,
+              "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/02P VI-14 stac short agile.vsynpatch",
+              "patchName": "02P VI-14 stac short agile"
+            }
+          ]
+        },
+        {
+          "title": "Long notes",
+          "subTitle": "Type",
+          "switchControl": 37,
+          "whiteNoteSwitch": false,
+          "currentNodeIndex": 0.0,
+          "nodes": [
+            {
+              "title": "Normal attack",
+              "subTitle": "Release",
+              "switchControl": 42,
+              "whiteNoteSwitch": false,
+              "currentNodeIndex": 0.0,
+              "nodes": [
+                {
+                  "title": "Normal release",
+                  "rangeFrom": 55,
+                  "rangeTo": 100,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/11P VI-14 Long.vsynpatch",
+                  "patchName": "11P VI-14 Long"
+                },
+                {
+                  "title": "Soft release",
+                  "rangeFrom": 55,
+                  "rangeTo": 100,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/12P VI-14 Long RS soft.vsynpatch",
+                  "patchName": "12P VI-14 Long RS soft"
+                }
+              ]
+            },
+            {
+              "title": "Soft attack",
+              "subTitle": "Release",
+              "switchControl": 42,
+              "whiteNoteSwitch": false,
+              "currentNodeIndex": 0.0,
+              "nodes": [
+                {
+                  "title": "Normal release",
+                  "rangeFrom": 55,
+                  "rangeTo": 100,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/13P VI-14 Long AT soft.vsynpatch",
+                  "patchName": "13P VI-14 Long AT soft"
+                },
+                {
+                  "title": "Soft release",
+                  "rangeFrom": 55,
+                  "rangeTo": 100,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/14P VI-14 Long AT+RS soft.vsynpatch",
+                  "patchName": "14P VI-14 Long AT+RS soft"
+                }
+              ]
+            },
+            {
+              "title": "Marcato/sfz",
+              "rangeFrom": 55,
+              "rangeTo": 100,
+              "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/15P VI-14 Long sfz.vsynpatch",
+              "patchName": "15P VI-14 Long sfz"
+            },
+            {
+              "title": "Xfade tremolo",
+              "subTitle": "XFade tremolo",
+              "switchControl": 257,
+              "whiteNoteSwitch": false,
+              "currentNodeIndex": 0.5,
+              "nodes": [
+                {
+                  "title": "Normal",
+                  "rangeFrom": 55,
+                  "rangeTo": 100,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/11P VI-14 Long.vsynpatch",
+                  "patchName": "11P VI-14 Long"
+                },
+                {
+                  "title": "Tremolo",
+                  "rangeFrom": 55,
+                  "rangeTo": 100,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/05P VI-14 Tremolo.vsynpatch",
+                  "patchName": "05P VI-14 Tremolo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Legato",
+          "subTitle": "Attack",
+          "switchControl": 37,
+          "whiteNoteSwitch": false,
+          "currentNodeIndex": 0.0,
+          "nodes": [
+            {
+              "title": "Normal attack",
+              "subTitle": "Release",
+              "switchControl": 42,
+              "whiteNoteSwitch": false,
+              "currentNodeIndex": 0.0,
+              "nodes": [
+                {
+                  "title": "Normal release",
+                  "rangeFrom": 55,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/21P VI-14 Legato.vsynpatch",
+                  "patchName": "21P VI-14 Legato"
+                },
+                {
+                  "title": "Soft release",
+                  "rangeFrom": 55,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/22P VI-14 Legato RS soft.vsynpatch",
+                  "patchName": "22P VI-14 Legato RS soft"
+                }
+              ]
+            },
+            {
+              "title": "Soft attack",
+              "subTitle": "Release",
+              "switchControl": 42,
+              "whiteNoteSwitch": false,
+              "currentNodeIndex": 0.0,
+              "nodes": [
+                {
+                  "title": "Normal release",
+                  "rangeFrom": 55,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/23P VI-14 Legato AT soft.vsynpatch",
+                  "patchName": "23P VI-14 Legato AT soft"
+                },
+                {
+                  "title": "Soft release",
+                  "rangeFrom": 55,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/24P VI-14 Legato AT+RS soft.vsynpatch",
+                  "patchName": "24P VI-14 Legato AT+RS soft"
+                }
+              ]
+            },
+            {
+              "title": "Marcato start",
+              "rangeFrom": 55,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/25P VI-14 Legato AT marcato.vsynpatch",
+              "patchName": "25P VI-14 Legato AT marcato"
+            }
+          ]
+        },
+        {
+          "title": "Sforzato",
+          "subTitle": "Type",
+          "switchControl": 37,
+          "whiteNoteSwitch": false,
+          "currentNodeIndex": 0.0,
+          "nodes": [
+            {
+              "title": "Sforzato",
+              "rangeFrom": 55,
+              "rangeTo": 100,
+              "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/15P VI-14 Long sfz.vsynpatch",
+              "patchName": "15P VI-14 Long sfz"
+            },
+            {
+              "title": "XFade tremolo",
+              "subTitle": "XFade tremolo",
+              "switchControl": 257,
+              "whiteNoteSwitch": false,
+              "currentNodeIndex": 0.5,
+              "nodes": [
+                {
+                  "title": "Sforzato",
+                  "rangeFrom": 55,
+                  "rangeTo": 100,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/15P VI-14 Long sfz.vsynpatch",
+                  "patchName": "15P VI-14 Long sfz"
+                },
+                {
+                  "title": "Tremolo",
+                  "rangeFrom": 55,
+                  "rangeTo": 100,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/05P VI-14 Tremolo.vsynpatch",
+                  "patchName": "05P VI-14 Tremolo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tremolo",
+          "subTitle": "Type",
+          "switchControl": 37,
+          "whiteNoteSwitch": false,
+          "currentNodeIndex": 0.0,
+          "nodes": [
+            {
+              "title": "Tremolo",
+              "rangeFrom": 55,
+              "rangeTo": 103,
+              "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/05P VI-14 Tremolo.vsynpatch",
+              "patchName": "05P VI-14 Tremolo"
+            },
+            {
+              "title": "Trem. marcato",
+              "subTitle": "Marcato attack",
+              "switchControl": 258,
+              "whiteNoteSwitch": false,
+              "currentNodeIndex": 1.1320000290870667,
+              "nodes": [
+                {
+                  "title": "Tremolo",
+                  "rangeFrom": 55,
+                  "rangeTo": 103,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/05P VI-14 Tremolo.vsynpatch",
+                  "patchName": "05P VI-14 Tremolo"
+                },
+                {
+                  "title": "Marcato",
+                  "rangeFrom": 55,
+                  "rangeTo": 103,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/02P VI-14 stac short agile.vsynpatch",
+                  "patchName": "02P VI-14 stac short agile"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pizzicato",
+          "subTitle": "Type",
+          "switchControl": 37,
+          "whiteNoteSwitch": false,
+          "currentNodeIndex": 0.0,
+          "nodes": [
+            {
+              "title": "Pizzicato",
+              "rangeFrom": 55,
+              "rangeTo": 103,
+              "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/03P VI-14 Pizz.vsynpatch",
+              "patchName": "03P VI-14 Pizz"
+            },
+            {
+              "title": "Snap pizzicato",
+              "rangeFrom": 55,
+              "rangeTo": 103,
+              "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/04P VI-14 Pizz-snap.vsynpatch",
+              "patchName": "04P VI-14 Pizz-snap"
+            }
+          ]
+        },
+        {
+          "title": "Portamento",
+          "subTitle": "Attack",
+          "switchControl": 37,
+          "whiteNoteSwitch": false,
+          "currentNodeIndex": 0.0,
+          "nodes": [
+            {
+              "title": "Normal attack",
+              "subTitle": "Release",
+              "switchControl": 42,
+              "whiteNoteSwitch": false,
+              "currentNodeIndex": 0.0,
+              "nodes": [
+                {
+                  "title": "Normal release",
+                  "rangeFrom": 55,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/31P VI-14 Portamento.vsynpatch",
+                  "patchName": "31P VI-14 Portamento"
+                },
+                {
+                  "title": "Soft release",
+                  "rangeFrom": 55,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/32P VI-14 Portamento RS soft.vsynpatch",
+                  "patchName": "32P VI-14 Portamento RS soft"
+                }
+              ]
+            },
+            {
+              "title": "Soft attack",
+              "subTitle": "Release",
+              "switchControl": 42,
+              "whiteNoteSwitch": false,
+              "currentNodeIndex": 0.0,
+              "nodes": [
+                {
+                  "title": "Normal release",
+                  "rangeFrom": 55,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/33P VI-14 Portamento AT soft.vsynpatch",
+                  "patchName": "33P VI-14 Portamento AT soft"
+                },
+                {
+                  "title": "Soft release",
+                  "rangeFrom": 55,
+                  "rangeTo": 98,
+                  "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/34P VI-14 Portamento AT+RS soft.vsynpatch",
+                  "patchName": "34P VI-14 Portamento AT+RS soft"
+                }
+              ]
+            },
+            {
+              "title": "Marcato start",
+              "rangeFrom": 55,
+              "rangeTo": 98,
+              "patchEntry": "vol://at.co.vsl.sy.prime.stringsI:public/patches/01 Strings + Harp/01 SY 1st Violins-14/35P VI-14 Portamento AT marcato.vsynpatch",
+              "patchName": "35P VI-14 Portamento AT marcato"
+            }
+          ]
+        },
+        {
+          "title": "Custom",
+          "subTitle": "Custom",
+          "switchControl": 37,
+          "whiteNoteSwitch": false,
+          "currentNodeIndex": 0.0,
+          "nodes": [
+            {
+              "title": "Custom 1",
+              "rangeFrom": 0,
+              "rangeTo": 127,
+              "patchEntry": null,
+              "patchName": ""
+            },
+            {
+              "title": "Custom 2",
+              "rangeFrom": 0,
+              "rangeTo": 127,
+              "patchEntry": null,
+              "patchName": ""
+            },
+            {
+              "title": "Custom 3",
+              "rangeFrom": 0,
+              "rangeTo": 127,
+              "patchEntry": null,
+              "patchName": ""
+            },
+            {
+              "title": "Custom 4",
+              "rangeFrom": 0,
+              "rangeTo": 127,
+              "patchEntry": null,
+              "patchName": ""
+            },
+            {
+              "title": "Custom 5",
+              "rangeFrom": 0,
+              "rangeTo": 127,
+              "patchEntry": null,
+              "patchName": ""
+            },
+            {
+              "title": "Custom 6",
+              "rangeFrom": 0,
+              "rangeTo": 127,
+              "patchEntry": null,
+              "patchName": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

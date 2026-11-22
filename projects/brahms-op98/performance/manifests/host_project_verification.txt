@@ -1,0 +1,28 @@
+REAPER 7.23/x64
+Tracks 24
+Length 329.061435685
+Master gain 1.697502626471
+01_Flute1 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/01_Flute1.wav | rate=1.0 | volume=0.794328234724
+02_Flute2 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/02_Flute2.wav | rate=1.0 | volume=0.794328234724
+03_Oboe1 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/03_Oboe1.wav | rate=1.0 | volume=0.707945784384
+04_Oboe2 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/04_Oboe2.wav | rate=1.0 | volume=0.707945784384
+05_Clarinet1 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/05_Clarinet1.wav | rate=1.0 | volume=0.707945784384
+06_Clarinet2 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/06_Clarinet2.wav | rate=1.0 | volume=0.707945784384
+07_Bassoon1 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/07_Bassoon1.wav | rate=1.0 | volume=0.794328234724
+08_Bassoon2 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/08_Bassoon2.wav | rate=1.0 | volume=0.794328234724
+09_Contrabassoon | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/09_Contrabassoon.wav | rate=1.0 | volume=0.63095734448
+10_Horn1_staff6 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/10_Horn1_staff6.wav | rate=1.0 | volume=0.56234132519
+11_Horn2_staff6 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/11_Horn2_staff6.wav | rate=1.0 | volume=0.56234132519
+12_Horn1_staff7 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/12_Horn1_staff7.wav | rate=1.0 | volume=0.56234132519
+13_Horn2_staff7 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/13_Horn2_staff7.wav | rate=1.0 | volume=0.56234132519
+14_Trumpet1 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/14_Trumpet1.wav | rate=1.0 | volume=0.56234132519
+15_Trumpet2 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/15_Trumpet2.wav | rate=1.0 | volume=0.56234132519
+16_TenorTrombone_staff9 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/16_TenorTrombone_staff9.wav | rate=1.0 | volume=0.63095734448
+17_TenorTrombone_staff9 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/17_TenorTrombone_staff9.wav | rate=1.0 | volume=0.63095734448
+18_BassTrombone | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/18_BassTrombone.wav | rate=1.0 | volume=0.63095734448
+19_Timpani | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/19_Timpani.wav | rate=1.0 | volume=0.446683592151
+20_Violins1 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/20_Violins1.wav | rate=1.0 | volume=0.891250938134
+21_Violins2 | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/21_Violins2.wav | rate=1.0 | volume=0.794328234724
+22_Violas | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/22_Violas.wav | rate=1.0 | volume=0.707945784384
+23_Cellos | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/23_Cellos.wav | rate=1.0 | volume=0.794328234724
+24_Basses | D:/documentaries/deepseek-harness/music/deliverables/Brahms_IV_E_Performance\stems/24_Basses.wav | rate=1.0 | volume=0.707945784384
